@@ -2,7 +2,7 @@
 What should be the size of coin edge so that the coin lands on edge with ~33% chance?
 
 <p align="center">
-  <img src=https://github.com/iaroslav-ai/coin-experiment/blob/master/media/coin_blueprint.png?raw=true/>
+  <img src="https://github.com/iaroslav-ai/coin-experiment/blob/master/media/coin_blueprint.png?raw=true", height="250px"/>
 </p>
 
 **Answer**:
@@ -37,7 +37,9 @@ Data from my simulator:
 
 Complete experimental data in a graph (use `make_exp_plot.py` to reproduce):
 
-![Fraction of coins landing on edge vs thickness of edge](https://github.com/iaroslav-ai/coin-experiment/blob/master/media/coin_size_plot.png?raw=true "The thickness of coin is adjusted")
+<p align="center">
+  <img src="https://github.com/iaroslav-ai/coin-experiment/blob/master/media/coin_size_plot.png?raw=true", height="350px"/>
+</p>
 
 ## Approach
 
@@ -51,7 +53,10 @@ A script is used which generates 1000 coins with different rotations around x, y
 
 Currently, the thickness of the coin is adjusted - the diameter of the coin is kept fixed at the value of 2.0. This is different to the videos where the diameter is adjusted. The conversion is summarized in the figure below:
 
-![The thickness of coin is adjusted](https://github.com/iaroslav-ai/coin-experiment/blob/master/media/conversion.png?raw=true "The thickness of coin is adjusted")
+<p align="center">
+  <img src="https://github.com/iaroslav-ai/coin-experiment/blob/master/media/conversion.png?raw=true", height="450px"/>
+</p>
+
 
 ## How to reproduce my results
 
