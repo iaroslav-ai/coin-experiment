@@ -7,7 +7,7 @@ What should be the size of coin edge so that the coin lands on edge with ~33% ch
 
 **Answer**:
 
-Let the coin diameter be of size 2.0. Then the coin edge should be around **1.043**. 
+Let the coin diameter be of size 2.0. Then the coin edge height should be around **1.043 (x≈1.043 in figure above)**. 
 
 Find more experimental details below!
 
