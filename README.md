@@ -1,12 +1,39 @@
 # Three sided coin
 What should be the size of coin edge so that the coin lands on edge with ~33% chance?
 
+**Answer**:
+
+Let the coin diameter be of size 2.0. Then the coin edge should be around 1.043. 
+
+Fine more experimental details below!
+
 ## Inspired by:
 
 These Youtube videos!
 
 * [How thick is a three-sided coin?](https://www.youtube.com/watch?v=-qqPKKOU-yY)
 * [Help me find the thickness of a three-sided coin!](https://www.youtube.com/watch?v=xN5_VO7Nbu8)
+
+## Experimental results
+
+Data from standupmaths et al.:
+
+| Thickness        | Fraction of coins landing on edge |
+| ---------------- |:---------------------------------:|
+| 0.707            | 0.132                             |
+| 1.154            | 0.410                             |
+
+Data from my simulator:
+
+| Thickness        | Fraction of coins landing on edge |
+| ---------------- |:---------------------------------:|
+| 0.707            | 0.128                             |
+| 1.043            | 0.335                             |
+| 1.154            | 0.446                             |
+
+Complete experimental data in a graph (use `make_exp_plot.py` to reproduce):
+
+![Fraction of coins landing on edge vs thickness of edge](https://github.com/iaroslav-ai/coin-experiment/blob/master/media/coin_size_plot.png?raw=true "The thickness of coin is adjusted")
 
 ## Approach
 
