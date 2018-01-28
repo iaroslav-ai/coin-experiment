@@ -11,6 +11,10 @@ Let the coin diameter be of size 2.0. Then the coin edge height should be around
 
 Find more experimental details below!
 
+**Disclamer**:
+
+Answer is based on a data from a simulator, so some differences with reality are possible :)
+
 ## Inspired by:
 
 These Youtube videos!
