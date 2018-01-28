@@ -20,7 +20,7 @@ A script is used which generates 1000 coins with different rotations around x, y
 
 Currently, the thickness of the coin is adjusted - the diameter of the coin is kept fixed at the value of 2.0. This is different to the videos where the diameter is adjusted. The conversion is summarized in the figure below:
 
-![The thickness of coin is adjusted](relative/media/conversion.png?raw=true "The thickness of coin is adjusted")
+![The thickness of coin is adjusted](https://github.com/iaroslav-ai/coin-experiment/blob/master/media/conversion.png?raw=true "The thickness of coin is adjusted")
 
 ## How to reproduce my results
 
