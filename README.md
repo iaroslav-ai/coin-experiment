@@ -81,10 +81,11 @@ Example visualization of experiment with coins:
 </p>
 
 If you navigate in console to the folder with experiment code, you can start `python3.5` and
-run experiments with different thickness yourself - see example below.
+run experiments with different thickness yourself - see example below. Example below was run with only 64 coins, hence
+fraction of standing coins is off and it is rather fast.
 
 <p align="center">
-  <img src="https://github.com/iaroslav-ai/coin-experiment/blob/master/media/run_blender.gif?raw=true", height="450px"/>
+  <img src="https://github.com/iaroslav-ai/coin-experiment/blob/master/media/run_blender.gif?raw=true", height="250px"/>
 </p>
 
 ## Where this was tested
