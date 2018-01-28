@@ -93,3 +93,7 @@ fraction of standing coins is off and it is rather fast.
 * Ubuntu 16.04
 * python3.5
 * Blender 2.76b
+
+## Got questions? 
+
+Feel free to open an issue here or contact me in any other way.
