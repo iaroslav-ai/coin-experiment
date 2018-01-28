@@ -9,7 +9,10 @@ def fraction_standing(x):
     json.dump({'cyllinder_height': cyllinder_height}, open('config.json', 'w'))
     os.system('blender coin.blend --python run_simulation.py')
     js = json.load(open('result.json', 'r'))
-    return js['Standing'] / js['Total']
+    fraction = js['Standing'] / js['Total']
+    print('Fraction standing on edge in this experiment:')
+    print(fraction)
+    return fraction
 
 
 def objective(x):
@@ -20,6 +23,6 @@ def objective(x):
 if __name__ == '__main__':
     # do the optimization!
     #print(fraction_standing([1.0]))
-    sol = gp_minimize(objective, [Real(1.0, 1.3)], n_random_starts=3, n_calls=5)
+    sol = gp_minimize(objective, [Real(1.0, 1.3)], n_random_starts=4, n_calls=20)
     print(sol)
     pc.dump(sol, open('result.pc', 'wb'))

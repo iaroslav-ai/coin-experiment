@@ -10,7 +10,7 @@ config = json.load(open('config.json'))
 
 print("Creating the mesh of coins ...")
 
-n = 5
+n = 32
 step = 20.0
 sn = -n*0.5*step
 
