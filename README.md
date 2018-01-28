@@ -16,6 +16,12 @@ You can find `coin.blend` which is a Blender file, where the environment for coi
 
 A script is used which generates 1000 coins with different rotations around x, y, z axes, and with fixed height above the "table" plane. These coins are dropped on the rigid surface, and the number of coins that are standing on the age are counted.
 
+## Unit conversion
+
+Currently, the thickness of the coin is adjusted - the diameter of the coin is kept fixed at the value of 2.0. This is different to the videos where the diameter is adjusted. The conversion is summarized in the figure below:
+
+![The thickness of coin is adjusted](relative/media/conversion.png?raw=true "The thickness of coin is adjusted")
+
 ## How to reproduce my results
 
 A script `run_simulation.py` can be executed inside blender in order to run the experiment, using the following command line from terminal:
