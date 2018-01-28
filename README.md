@@ -72,6 +72,21 @@ The file `config.json` is a text file, where you can specify the height of the c
 
 You can also run code which automatically adjusts the height of the coin using the `run_optimization.py`. For that, you need installed `scikit-optimize` python package. If you are not very familiar with python, see [here](https://www.learnpython.org/en/Modules_and_Packages) and [here](https://packaging.python.org/tutorials/installing-packages/).
 
+## Screenshots
+
+Example visualization of experiment with coins:
+
+<p align="center">
+  <img src="https://github.com/iaroslav-ai/coin-experiment/blob/master/media/coin_visualization.gif?raw=true", height="450px"/>
+</p>
+
+If you navigate in console to the folder with experiment code, you can start `python3.5` and
+run experiments with different thickness yourself - see example below.
+
+<p align="center">
+  <img src="https://github.com/iaroslav-ai/coin-experiment/blob/master/media/run_blender.gif?raw=true", height="450px"/>
+</p>
+
 ## Where this was tested
 
 * Ubuntu 16.04

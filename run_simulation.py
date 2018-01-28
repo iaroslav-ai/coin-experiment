@@ -10,7 +10,7 @@ config = json.load(open('config.json'))
 
 print("Creating the mesh of coins ...")
 
-n = 32
+n = 8
 step = 20.0
 sn = -n*0.5*step
 
@@ -71,5 +71,5 @@ for c in cyllinders:
 
 json.dump({'Standing': standing_count, 'Total': len(cyllinders)*1.0}, open('result.json', 'w'))
 
-sys.exit()
+#sys.exit()
 
