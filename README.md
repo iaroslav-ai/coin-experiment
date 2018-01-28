@@ -51,7 +51,7 @@ Use [Blender](https://www.blender.org/) as simulator for coin flipping!
 
 You can find `coin.blend` which is a Blender file, where the environment for coin flipping is defiend. Every coin is a cylinder, "made" out of silver material. The radius of cylinder is 1.0.  
 
-A script is used which generates 1000 coins with different rotations around x, y, z axes, and with fixed height above the "table" plane. These coins are dropped on the rigid surface, and the number of coins that are standing on the age are counted.
+A script is used which generates 1000 coins with different rotations around x, y, z axes, and with fixed height above the "table" plane. These coins are dropped on the rigid surface, and the number of coins that are standing on the edge are counted.
 
 ## Unit conversion
 
