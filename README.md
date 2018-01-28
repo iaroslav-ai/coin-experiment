@@ -20,7 +20,7 @@ These Youtube videos!
 
 ## Experimental results
 
-Data from standupmaths et al.:
+Data from standupmaths et al. (converted):
 
 | Thickness        | Fraction of coins landing on edge |
 | ---------------- |:---------------------------------:|
