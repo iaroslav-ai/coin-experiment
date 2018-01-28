@@ -1,5 +1,5 @@
 # Three sided coin
-What should be the size of coin edge so that the coin lands on edge with ~33% chance?
+What should be the size (height, or length) of coin edge so that the coin lands on edge with ~33% chance?
 
 <p align="center">
   <img src="https://github.com/iaroslav-ai/coin-experiment/blob/master/media/coin_blueprint.png?raw=true", height="250px"/>
