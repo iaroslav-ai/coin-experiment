@@ -13,7 +13,9 @@ Find more experimental details below!
 
 **Disclamer**:
 
-Answer is based on a data from a simulator, so some differences with reality are possible :) Also if you think experimental setup could be better let me know.
+Answer is based on a data from a simulator, so some differences with reality are possible :) 
+
+If you think experimental setup could be better let me know.
 
 ## Inspired by:
 
