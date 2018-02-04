@@ -28,14 +28,14 @@ These Youtube videos!
 
 Data from standupmaths et al. (converted):
 
-| Coin thickness        | Fraction of coins landing on edge |
+| Coin thickness        | Fraction of coins settling on edge |
 | ---------------- |:---------------------------------:|
 | 0.707            | 0.132                             |
 | 1.154            | 0.410                             |
 
 Data from my simulator:
 
-| Coin thickness        | Fraction of coins landing on edge |
+| Coin thickness        | Fraction of coins settling on edge |
 | ---------------- |:---------------------------------:|
 | 0.707            | 0.128                             |
 | 1.043            | 0.335                             |
