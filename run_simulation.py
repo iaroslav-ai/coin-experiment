@@ -13,6 +13,7 @@ print("Creating the mesh of coins ...")
 n = 32
 step = 20.0
 sn = -n*0.5*step
+pi = 3.1415926535
 
 # set the z dimension of coin
 bpy.data.objects['Cylinder'].dimensions[2] = config['cyllinder_height']
@@ -39,11 +40,31 @@ for obj in bpy.data.objects:
 idx = 0
 for i in range(n):
     for j in range(n):
+
         obj = cyllinders[idx]
+
+        # add initial location and orientation
         loc = obj.location
         obj.location = loc + mathutils.Vector((sn+i*step,sn+j*step,0.0))
-        rot = list(random.uniform(0.0, 3.1415926535) for i in range(3))
+        rot = list(random.uniform(-pi, pi) for i in range(3))
         obj.rotation_euler = rot
+
+        # add momentum
+        obj.rigid_body.kinematic = True
+        obj.keyframe_insert(data_path="rotation_euler", frame=1)
+        obj.keyframe_insert(data_path="location", frame=1)
+        obj.keyframe_insert(data_path="rigid_body.kinematic", frame=1)
+
+        rot = list(rot[i] + random.uniform(-pi*5.0, pi*5.0)*0.0 for i in range(3))
+        obj.rotation_euler = rot
+        loc = list(obj.location[i] + random.uniform(-step*0.2, step*0.2)*0.0 for i in range(3))
+        obj.location = loc
+
+        obj.rigid_body.kinematic = False
+        obj.keyframe_insert(data_path="rotation_euler", frame=12)
+        obj.keyframe_insert(data_path="location", frame=12)
+        obj.keyframe_insert(data_path="rigid_body.kinematic", frame=12)
+
         idx += 1
 
 print('Baking physics ... ')
@@ -71,5 +92,5 @@ for c in cyllinders:
 
 json.dump({'Standing': standing_count, 'Total': len(cyllinders)*1.0}, open('result.json', 'w'))
 
-sys.exit()
+#sys.exit()
 
