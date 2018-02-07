@@ -1,12 +1,12 @@
 {
- "angular_velocity_std": 0.7018674359822554,
- "coin_density": 4.592218543631267,
- "coin_friction": 0.7575676198799767,
- "coin_grid_size": 4,
+ "angular_velocity_std": 1.0,
+ "coin_density": 9.0,
+ "coin_friction": 0.5,
+ "coin_grid_size": 32,
  "coin_grid_step": 10.0,
- "coin_restitution": 0.23791504441313718,
- "coin_thickness": 1.6331294330895363,
- "linear_velocity_std": 0.6987337705900112,
+ "coin_restitution": 0.1,
+ "coin_thickness": 1.7308184375672466,
+ "linear_velocity_std": 1.0,
  "table_friction": 0.5,
  "table_restitution": 0.1
 }
