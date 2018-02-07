@@ -6,18 +6,28 @@ import pickle as pc
 
 def fraction_standing(x):
     cyllinder_height = x[0]
-    json.dump({'cyllinder_height': cyllinder_height}, open('config.json', 'w'))
+
+    # save experiment settings
+    json.dump(
+        {
+            'cyllinder_height': cyllinder_height
+        },
+        open('config.json', 'w')
+    )
+
+    # run experiment!
     os.system('blender coin.blend --python run_simulation.py')
+
+    # load the results
     js = json.load(open('result.json', 'r'))
-    fraction = js['Standing'] / js['Total']
-    print('Fraction standing on edge in this experiment:')
-    print(fraction)
-    return fraction
+    return js
 
 
 def objective(x):
     fr = fraction_standing(x)
-    return abs(fr - (1.0 / 3.0))
+    total = fr['Edge'] + fr['Tails'] + fr['Heads']
+    fraction_edge = fr['Edge'] / total
+    return abs(fraction_edge - (1.0 / 3.0))
 
 
 if __name__ == '__main__':

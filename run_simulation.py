@@ -5,15 +5,23 @@ import sys
 import json
 
 print("Reading config.json file ...")
-
 config = json.load(open('config.json'))
 
-print("Creating the mesh of coins ...")
+# A rectangular grid of coins is created by
+# copying one coin located at (0.0, 0.0, 50.0)
+# pint in world coordinate system.
 
+# size of coin grid in every dimension
 n = 32
+
+# distance between every coin in a grid
 step = 20.0
-sn = -n*0.5*step
+
+# minimum x and y coordinates of coins in a grid
+min_coord = -n * 0.5 * step
 pi = 3.1415926535
+
+print("Creating the grid of %s coins ..." % (n*n))
 
 # set the z dimension of coin
 bpy.data.objects['Cylinder'].dimensions[2] = config['cyllinder_height']
@@ -45,7 +53,8 @@ for i in range(n):
 
         # add initial location and orientation
         loc = obj.location
-        obj.location = loc + mathutils.Vector((sn+i*step,sn+j*step,0.0))
+        obj.location = loc + mathutils.Vector((min_coord + i * step, min_coord + j * step, 0.0))
+
         rot = list(random.uniform(-pi, pi) for i in range(3))
         obj.rotation_euler = rot
 
@@ -55,8 +64,11 @@ for i in range(n):
         obj.keyframe_insert(data_path="location", frame=1)
         obj.keyframe_insert(data_path="rigid_body.kinematic", frame=1)
 
+        # make rotating motion for coin
         rot = list(rot[i] + random.uniform(-pi*5.0, pi*5.0)*0.0 for i in range(3))
         obj.rotation_euler = rot
+
+        # make linear motion for coin
         loc = list(obj.location[i] + random.uniform(-step*0.2, step*0.2)*0.0 for i in range(3))
         obj.location = loc
 
@@ -67,10 +79,10 @@ for i in range(n):
 
         idx += 1
 
-print('Baking physics ... ')
+print('Calculating the physics of falling coin ...')
 bpy.ops.ptcache.bake_all(bake=True)
 
-print('Counting the laying or standing coins ...')
+print('Counting the coin orientation ...')
 import bpy
 bpy.context.scene.frame_set(1000)
 
@@ -81,16 +93,52 @@ for obj in bpy.data.objects:
     if obj.name.startswith('Cylinder'):
         cyllinders.append(obj)
 
-print('Start count ...')
-standing_count = 0.0
+edge_count = 0.0
+heads_count = 0.0
+tails_count = 0.0
 
 for c in cyllinders:
-    loc, rot, scale = c.matrix_world.decompose()
-    laying=any([abs(v) < 0.01 for v in (rot.x, rot.y, rot.z)])
-    #print(rot, laying)
-    standing_count += 0.0 if laying else 1.0
+    mesh = c.data
+    mat = c.matrix_world
 
-json.dump({'Standing': standing_count, 'Total': len(cyllinders)*1.0}, open('result.json', 'w'))
+    # Coordinates of points on heads and tails edge.
+    # Let coordinate system be located in the center
+    # of the cylinder of height h. Then two points are
+    # considered:
+    # Tails=(0.0, 1.0, -0.5h), Heads=(0.0, 1.0, 0.5h)
+    # Both points are converted into world coordinate
+    # system, and thus represent orientation of cylinder.
+    # relative to the table, which is a flat surface with
+    # constant z value.
+    # Tails
+    tx, ty, tz = mat * mesh.vertices[0].co
+    # Heads
+    hx, hy, hz = mat * mesh.vertices[1].co
 
-#sys.exit()
+    # if the cylinder is laying, then bz ~ tz
+    if abs(tz - hz) < 0.01:
+        edge_count += 1.0
+
+    # if the x and y coordinates coincide, the cylinder has
+    # fallen either on heads or tails
+    if abs(tx - hx) < 0.01 and abs(ty - hy) < 0.01:
+        if hz < tz: # coin settled on tails
+            tails_count += 1.0
+        else:
+            heads_count += 1.0
+
+result = {
+    'Edge': edge_count,
+    'Tails': tails_count,
+    'Heads': heads_count,
+}
+
+json.dump(
+    result,
+    open('result.json', 'w')
+)
+
+print(result)
+print('Done!')
+sys.exit()
 
