@@ -3,101 +3,130 @@ import mathutils
 import random
 import sys
 import json
+import addon_utils
+# enable impulse plugin
+addon_utils.enable("impulse")
 
 print("Reading config.json file ...")
 config = json.load(open('config.json'))
 
+scn = bpy.context.scene
+
 # A rectangular grid of coins is created by
 # copying one coin located at (0.0, 0.0, 50.0)
-# pint in world coordinate system.
+# point in world coordinate system.
 
-# size of coin grid in every dimension
-n = 32
-
-# distance between every coin in a grid
-step = 20.0
+n = config['coin_grid_size'] # size of coin grid in every dimension
+grid_step = config['coin_grid_step'] # distance between every coin in a grid, cm
+coin_thickness = config['coin_thickness'] # in cm
+angular_velocity_std = config['angular_velocity_std'] # cm/s, standard deviation of normal distribution of angular speeds
+linear_velocity_std = config['linear_velocity_std'] # cm/s, standard deviation of normal distribution of linear speeds
+coin_density = config['coin_density'] # grams / cm^3
+coin_friction = config['coin_friction'] # friction of coin
+coin_restitution = config['coin_friction'] # bounciness/restitution of coin
+table_friction = config['coin_friction'] # friction of coin
+table_restitution = config['coin_friction'] # bounciness/restitution of coin
+# Some data sources
+# material densities: http://www.semicore.com/reference/density-reference
+# friction coefficients: https://en.wikipedia.org/wiki/Friction#Approximate_coefficients_of_friction
+# restitution coefficients: https://hypertextbook.com/facts/2006/restitution.shtml
 
 # minimum x and y coordinates of coins in a grid
-min_coord = -n * 0.5 * step
+min_coord = -n * 0.5 * grid_step
 pi = 3.1415926535
 
-print("Creating the grid of %s coins ..." % (n*n))
+# names of objects
+coin_name = 'Coin'
+table_name = 'Table'
 
-# set the z dimension of coin
-bpy.data.objects['Cylinder'].dimensions[2] = config['cyllinder_height']
+print("Creating a grid of %s coins ..." % (n*n))
+
+# set the thickness of a coin
+bpy.data.objects[coin_name].dimensions[2] = coin_thickness
 
 # deselect all the objects
 for obj in bpy.data.objects:
     obj.select = False
 
 # select the original cylinder
-bpy.data.objects['Cylinder'].select = True
+coin_orig = bpy.data.objects[coin_name]
+table = bpy.data.objects[table_name]
+coin_orig.select = True
+
+# set the rigid body properties
+coin_orig.rigid_body.friction = coin_friction
+coin_orig.rigid_body.restitution = coin_restitution
+# mass = volume * density; density in miligram / cm^3
+coin_orig.rigid_body.mass = (pi * coin_thickness) * coin_density * 1000.0
+
+table.rigid_body.friction = table_friction
+table.rigid_body.restitution = table_restitution
 
 # create n*n copies; 1 cylinder is already there
 for i in range(n*n-1):
     bpy.ops.object.duplicate(linked=0,mode='TRANSLATION')
 
-cyllinders = []
+coin_orig.select = False
+coins = []
 
-# get all cylinder names
+def normal_v_vector(sigma=1.0, sz=3):
+    return tuple(random.normalvariate(0.0, sigma) for _ in range(sz))
+
+# code that does uniform rotation of the object
+def rotate_uniform(s):
+    """Apply rotation such that every orientation of
+    object is equally likely. See misc/check_uniform_rotations.blend
+    for verification."""
+    o = normal_v_vector()
+    DirectionVector = mathutils.Vector(o)
+    s.rotation_mode = 'QUATERNION'
+    s.rotation_quaternion = DirectionVector.to_track_quat('Z','Y')
+    s.rotation_mode = 'XYZ'
+
+
+# get all coins
 for obj in bpy.data.objects:
-    if obj.name.startswith('Cylinder'):
-        cyllinders.append(obj)
+    if obj.name.startswith(coin_name):
+        coins.append(obj)
 
 # move the cyllinders
 idx = 0
 for i in range(n):
     for j in range(n):
-
-        obj = cyllinders[idx]
+        obj = coins[idx]
+        idx += 1
 
         # add initial location and orientation
         loc = obj.location
-        obj.location = loc + mathutils.Vector((min_coord + i * step, min_coord + j * step, 0.0))
+        obj.location = loc + mathutils.Vector((min_coord + i * grid_step, min_coord + j * grid_step, 0.0))
 
-        rot = list(random.uniform(-pi, pi) for i in range(3))
-        obj.rotation_euler = rot
+        rotate_uniform(obj)
 
-        # add momentum
-        obj.rigid_body.kinematic = True
-        obj.keyframe_insert(data_path="rotation_euler", frame=1)
-        obj.keyframe_insert(data_path="location", frame=1)
-        obj.keyframe_insert(data_path="rigid_body.kinematic", frame=1)
+        # add object to impulse
+        bpy.context.scene.objects.active = obj
+        bpy.ops.rigidbody.impulse_add_object()
+        # All speeds are in cm/s; The values in Impulse plugin do not take into
+        # account the scaling of blender units.
+        obj.impulse_props.v = normal_v_vector(linear_velocity_std)
+        obj.impulse_props.av = normal_v_vector(angular_velocity_std)
 
-        # make rotating motion for coin
-        rot = list(rot[i] + random.uniform(-pi*5.0, pi*5.0)*0.0 for i in range(3))
-        obj.rotation_euler = rot
 
-        # make linear motion for coin
-        loc = list(obj.location[i] + random.uniform(-step*0.2, step*0.2)*0.0 for i in range(3))
-        obj.location = loc
+# for some reason double call to the function is needed to make it work :/
+bpy.ops.rigidbody.impulse_execute()
+bpy.ops.rigidbody.impulse_execute()
 
-        obj.rigid_body.kinematic = False
-        obj.keyframe_insert(data_path="rotation_euler", frame=12)
-        obj.keyframe_insert(data_path="location", frame=12)
-        obj.keyframe_insert(data_path="rigid_body.kinematic", frame=12)
-
-        idx += 1
-
-print('Calculating the physics of falling coin ...')
+# calculate necessary physics
+print('Simulating falling coins ...')
 bpy.ops.ptcache.bake_all(bake=True)
 
 print('Counting the coin orientation ...')
-import bpy
 bpy.context.scene.frame_set(1000)
-
-cyllinders = []
-
-# get all cylinder names
-for obj in bpy.data.objects:
-    if obj.name.startswith('Cylinder'):
-        cyllinders.append(obj)
 
 edge_count = 0.0
 heads_count = 0.0
 tails_count = 0.0
 
-for c in cyllinders:
+for c in coins:
     mesh = c.data
     mat = c.matrix_world
 
@@ -141,4 +170,3 @@ json.dump(
 print(result)
 print('Done!')
 sys.exit()
-
