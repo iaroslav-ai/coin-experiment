@@ -1,4 +1,14 @@
 # Three sided coin
+
+## Inspired by:
+
+These Youtube videos!
+
+* [How thick is a three-sided coin?](https://www.youtube.com/watch?v=-qqPKKOU-yY)
+* [Help me find the thickness of a three-sided coin!](https://www.youtube.com/watch?v=xN5_VO7Nbu8)
+
+## Question
+
 What should be the size (height, or length) of coin edge so that the coin lands on edge with ~33% chance?
 
 <p align="center">
@@ -18,13 +28,6 @@ Find more experimental details below!
 Answer is based on a data from a simulator, so some differences with reality are possible :) 
 
 If you think experimental setup could be better let me know.
-
-## Inspired by:
-
-These Youtube videos!
-
-* [How thick is a three-sided coin?](https://www.youtube.com/watch?v=-qqPKKOU-yY)
-* [Help me find the thickness of a three-sided coin!](https://www.youtube.com/watch?v=xN5_VO7Nbu8)
 
 ## Approach
 
