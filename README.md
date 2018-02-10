@@ -37,14 +37,14 @@ You can find `coin.blend` which is a Blender file, where the environment for coi
 
 A script is used which generates 1000 coins with different rotations around x, y, z axes, and with fixed height above the "table" plane. These coins are dropped on the rigid surface, and the number of coins that are standing on the edge are counted.
 
-In order to determine the restitution and friction values for blender, 
+In order to determine / confirm the restitution and friction values for blender, 
 a minimalistic data collection was performed using the following setup:
 
 <p align="center">
   <img src="https://github.com/iaroslav-ai/coin-experiment/blob/master/media/data_collection.jpg?raw=true", height="250px"/>
 </p>
 
-Two experiments were performed:
+Two experiments were performed multiple times:
 
 * Coin was dropped on the wooden plate from fixed height on its edge.
 The height to which the coin bounced was recorded.
@@ -71,19 +71,39 @@ Currently, the thickness of the coin is adjusted - the diameter of the coin is k
 
 ## How to reproduce my results
 
-A script `run_simulation.py` can be executed inside blender in order to run the experiment, using the following command line from terminal:
+A script `simulation.py` can be executed inside blender in order to run the experiment, using the following command line from terminal:
 
 ```bash
-blender coin.blend --python run_simulation.py
+blender coin.blend --python simulation.py
 ```
 
-Both `coin.blend` and `run_simulation.py` should be in the current folder where you are at in your terminal, as well as `config.json`.
+Both `coin.blend` and `simulation.py` should be in the current folder where you are at in your terminal, as well as `config.json`.
 
 The file `config.json` is a text file, where you can specify the height of the coin edge. After you run the command, the results of execution should appear in file called `result.json`. 
+
+A **recommended** way of running a simulation is using `run_simulation.py` script. This script uses default
+setting for coin experiment parameters from `coinfigurations/cupronickel.json`, as well as it allows
+you to override some experimental settings in command line, for example:
+
+```bash
+python3 run_simulation.py coin_thickness=2.0 coin_grid_size=8 exit_when_done=false
+```
+
+Names of arguments should correspond to parameter names in `cupronickel.json`.
 
 You can find example experimental settings in folder called `coinfigurations`. 
 
 You can also run code which automatically adjusts the height of the coin using the `run_optimization.py`. For that, you need installed `scikit-optimize` python package. If you are not very familiar with python, see [here](https://www.learnpython.org/en/Modules_and_Packages) and [here](https://packaging.python.org/tutorials/installing-packages/).
+
+By default, `run_optimization.py` copies the `config.json` from `cupronickel.json`
+in `coinfigurations` folder. If you wish to override any of the simulation settings,
+provide as argument to script pairs of setting name=value, for example:
+
+```bash
+python3 run_optimization.py angular_velocity_std=8.0 linear_velocity_std=0.0 coin_grid_size=8 exit_when_done=false
+```
+
+This is useful if you wish to experiment with different experimental settings.
 
 ## Screenshots
 
