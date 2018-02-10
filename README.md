@@ -2,7 +2,7 @@
 What should be the size (height, or length) of coin edge so that the coin lands on edge with ~33% chance?
 
 <p align="center">
-  <img src="https://github.com/iaroslav-ai/coin-experiment/blob/master/media/coin_blueprint.svg?raw=true&sanitize=true", height="250px"/>
+  <img src="https://rawgit.com/iaroslav-ai/coin-experiment/momentum/media/coin_blueprint.svg", height="300px"/>
 </p>
 
 **Answer**:
