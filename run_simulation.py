@@ -3,9 +3,10 @@ import mathutils
 import random
 import sys
 import json
-import addon_utils
-# enable impulse plugin
-addon_utils.enable("impulse")
+
+bpy.ops.wm.addon_install(filepath='impulse.py')
+bpy.ops.wm.addon_enable(module='impulse')
+bpy.ops.wm.save_userpref()
 
 print("Reading config.json file ...")
 config = json.load(open('config.json'))
@@ -15,10 +16,11 @@ scn = bpy.context.scene
 # A rectangular grid of coins is created by
 # copying one coin located at (0.0, 0.0, 50.0)
 # point in world coordinate system.
+coin_thickness = config['coin_thickness'] # in cm
+coin_diameter = config['coin_diameter'] # in cm
 
 n = config['coin_grid_size'] # size of coin grid in every dimension
 grid_step = config['coin_grid_step'] # distance between every coin in a grid, cm
-coin_thickness = config['coin_thickness'] # in cm
 angular_velocity_std = config['angular_velocity_std'] # cm/s, standard deviation of normal distribution of angular speeds
 linear_velocity_std = config['linear_velocity_std'] # cm/s, standard deviation of normal distribution of linear speeds
 coin_density = config['coin_density'] # grams / cm^3
@@ -42,6 +44,8 @@ table_name = 'Table'
 print("Creating a grid of %s coins ..." % (n*n))
 
 # set the thickness of a coin
+bpy.data.objects[coin_name].dimensions[0] = coin_diameter
+bpy.data.objects[coin_name].dimensions[1] = coin_diameter
 bpy.data.objects[coin_name].dimensions[2] = coin_thickness
 
 # deselect all the objects

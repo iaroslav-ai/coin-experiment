@@ -1,12 +1,13 @@
 {
  "angular_velocity_std": 1.0,
- "coin_density": 9.0,
- "coin_friction": 0.5,
+ "coin_density": 8.5,
+ "coin_diameter": 2.0,
+ "coin_friction": 0.44,
  "coin_grid_size": 32,
  "coin_grid_step": 10.0,
- "coin_restitution": 0.1,
- "coin_thickness": 1.7308184375672466,
+ "coin_restitution": 0.3,
+ "coin_thickness": 0.9540337977338271,
  "linear_velocity_std": 1.0,
- "table_friction": 0.5,
- "table_restitution": 0.1
+ "table_friction": 0.44,
+ "table_restitution": 0.603
 }
