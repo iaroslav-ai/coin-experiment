@@ -11,9 +11,9 @@ settings_ranges = {
         'coin_thickness': [0.1, 2.0],
         'coin_diameter': 2.0,
         # cm/s, standard deviation of normal distribution of angular speeds
-        'angular_velocity_std': [0.5, 3.33],
+        'angular_velocity_std': [0.0, 3.33],
         # cm/s, standard deviation of normal distribution of linear speeds
-        'linear_velocity_std': [0.5, 3.33],
+        'linear_velocity_std': [0.0, 3.33],
         # grams / cm^3
         'coin_density': [1.0, 20.0], #~Plastic - ~Gold
         'coin_friction': [0.1, 0.9],
@@ -97,7 +97,7 @@ if __name__ == '__main__':
 
     def objective(x):
         fr = fraction_standing(setup, x, all_results)
-        json.dump(all_results, open('results_standard_coin.json', 'w'), indent=1, sort_keys=True)
+        json.dump(all_results, open('results.json', 'w'), indent=1, sort_keys=True)
 
         total = fr['Edge'] + fr['Tails'] + fr['Heads']
         fraction_edge = fr['Edge'] / total

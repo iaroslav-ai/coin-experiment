@@ -6,7 +6,7 @@
  "coin_grid_size": 32,
  "coin_grid_step": 10.0,
  "coin_restitution": 0.3,
- "coin_thickness": 0.9540337977338271,
+ "coin_thickness": 0.94,
  "linear_velocity_std": 1.0,
  "table_friction": 0.44,
  "table_restitution": 0.603

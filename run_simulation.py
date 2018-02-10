@@ -4,7 +4,11 @@ import random
 import sys
 import json
 
-bpy.ops.wm.addon_install(filepath='impulse.py')
+# This enables necessary plugin
+import os
+path = os.getcwd()
+impulse_path = os.path.join(path, 'impulse.py')
+bpy.ops.wm.addon_install(filepath=impulse_path)
 bpy.ops.wm.addon_enable(module='impulse')
 bpy.ops.wm.save_userpref()
 
