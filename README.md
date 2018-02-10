@@ -100,7 +100,7 @@ fraction of standing coins is off and it is rather fast.
 * python3.5
 * Blender 2.76b
 
-## Acknowledgements 
+## acknowledgments 
 
 Thanks to [Epä Järjestys](https://www.youtube.com/channel/UCuhQxsF97vKnNMNnA5rmYYA)
  and [Rojetto](https://github.com/Rojetto) for pointing out the uniform rotation issue with coins.
