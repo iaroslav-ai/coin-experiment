@@ -2,7 +2,7 @@
 What should be the size (height, or length) of coin edge so that the coin lands on edge with ~33% chance?
 
 <p align="center">
-  <img src="https://rawgit.com/iaroslav-ai/coin-experiment/momentum/media/coin_blueprint.svg", height="300px"/>
+  <img src="https://rawgit.com/iaroslav-ai/coin-experiment/master/media/coin_blueprint.svg", height="300px"/>
 </p>
 
 **Answer**:
@@ -62,7 +62,7 @@ were chosen such that simulation matches the observation:
 Currently, the thickness of the coin is adjusted - the diameter of the coin is kept fixed at the value of 2.0. This is different to the videos where the diameter is adjusted. The conversion is summarized in the figure below:
 
 <p align="center">
-  <img src="https://rawgit.com/iaroslav-ai/coin-experiment/momentum/media/conversion.svg", height="450px"/>
+  <img src="https://rawgit.com/iaroslav-ai/coin-experiment/master/media/conversion.svg", height="450px"/>
 </p>
 
 
