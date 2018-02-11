@@ -80,11 +80,15 @@ def get_config():
     for k, v in ((k.lstrip('-'), v) for k, v in (a.split('=') for a in sys.argv[1:])):
         user_override[k] = json.loads(v)
 
+    # get the configuration file that is to be used
+    cfg_file = 'cupronickel.json'
+    if 'config_file' in user_override:
+        cfg_file = user_override['config_file']
+
     # read the predefined coin configuration
-    setup = json.load(open('coinfigurations/cupronickel.json', 'r'))
+    setup = json.load(open(os.path.join('coinfigurations', cfg_file), 'r'))
 
     # here results for all evaluations will be stored
-    all_results = []
     for k, v in user_override.items():
         setup[k] = v
 

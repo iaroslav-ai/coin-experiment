@@ -1,15 +1,14 @@
 {
  "angular_velocity_std": 2.0,
+ "linear_velocity_std": 2.0,
  "coin_density": 0.95,
- "coin_diameter": 2.0,
  "coin_friction": 0.4,
- "coin_grid_size": 8,
+ "coin_grid_size": 32,
  "coin_grid_step": 20.0,
  "coin_restitution": 0.688,
  "coin_thickness": 1.0,
- "config_file": "hardplastic.json",
- "exit_when_done": false,
- "linear_velocity_std": 2.0,
+ "coin_diameter": 2.0,
  "table_friction": 0.4,
- "table_restitution": 0.603
+ "table_restitution": 0.603,
+ "exit_when_done": true
 }

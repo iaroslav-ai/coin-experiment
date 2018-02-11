@@ -29,9 +29,9 @@ angular_velocity_std = config['angular_velocity_std'] # cm/s, standard deviation
 linear_velocity_std = config['linear_velocity_std'] # cm/s, standard deviation of normal distribution of linear speeds
 coin_density = config['coin_density'] # grams / cm^3
 coin_friction = config['coin_friction'] # friction of coin
-coin_restitution = config['coin_friction'] # bounciness/restitution of coin
-table_friction = config['coin_friction'] # friction of coin
-table_restitution = config['coin_friction'] # bounciness/restitution of coin
+coin_restitution = config['coin_restitution'] # bounciness/restitution of coin
+table_friction = config['table_friction'] # friction of coin
+table_restitution = config['table_restitution'] # bounciness/restitution of coin
 # Some data sources
 # material densities: http://www.semicore.com/reference/density-reference
 # friction coefficients: https://en.wikipedia.org/wiki/Friction#Approximate_coefficients_of_friction
