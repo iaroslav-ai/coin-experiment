@@ -4,7 +4,7 @@ import random
 import sys
 import json
 
-# This enables necessary plugin
+# This enables necessary 'impulse.py' plugin
 import os
 path = os.getcwd()
 impulse_path = os.path.join(path, 'impulse.py')

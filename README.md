@@ -19,7 +19,17 @@ What should be the size (height, or length) of coin edge so that the coin lands 
 
 ~~Let the coin diameter be of size 2.0. Then the coin edge height should be around 1.043.~~
 
-This largely depends on how the coin is tossed. Results coming soon!
+This depends on many parameters. If you apply different range of
+rotation and linear speeds to coin, then thickness varies also. See table 
+below - larger values of sigma in table correspond to larger speeds of coin.
+A copper - nickel alloy coin of diameter 2.0 cm was simulated. 
+
+| Angular speeds sigma  | Lin. speeds sigma  | Best thickness |
+| --------------------- | ------------------ | -------------- |
+| 0.0 | 0.0 | 1.002 |
+| 0.0 | 2.0 | 0.969 |
+| 4.0 | 0.0 | 0.911 |
+| 4.0 | 2.0 | 0.904 |
 
 Find more experimental details below!
 
@@ -58,6 +68,15 @@ were chosen such that simulation matches the observation:
 
 <p align="center">
   <img src="https://github.com/iaroslav-ai/coin-experiment/blob/master/media/simulation.gif?raw=true", height="250px"/>
+</p>
+
+## Visualization of full experimental data
+
+Here you can find graphs with thickness values that were
+tried:
+
+<p align="center">
+  <img src="https://github.com/iaroslav-ai/coin-experiment/blob/master/media/data_plot.png?raw=true", height="450px"/>
 </p>
 
 ## Unit conversion
