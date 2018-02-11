@@ -19,7 +19,7 @@ What should be the size (height, or length) of coin edge so that the coin lands 
 
 ~~Let the coin diameter be of size 2.0. Then the coin edge height should be around 1.043.~~
 
-This depends on many parameters. If you apply different range of
+This depends on many parameters. If you apply different range of random
 rotation and linear speeds to coin, then thickness varies also. See table 
 below - larger values of sigma in table correspond to larger speeds of coin.
 A copper - nickel alloy coin of diameter 2.0 cm was simulated. 
