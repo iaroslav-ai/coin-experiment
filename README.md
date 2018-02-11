@@ -47,8 +47,9 @@ You can find `coin.blend` which is a Blender file, where the environment for coi
 
 A script is used which generates 1000 coins with different rotations around x, y, z axes, and with fixed height above the "table" plane. These coins are dropped on the rigid surface, and the number of coins that are standing on the edge are counted.
 
-In order to determine / confirm the restitution and friction values for blender, 
-a minimalistic data collection was performed using the following setup:
+In order to determine / confirm the restitution and friction values for 
+simulated coins in blender, a minimalistic data collection was 
+performed using the following setup:
 
 <p align="center">
   <img src="https://github.com/iaroslav-ai/coin-experiment/blob/master/media/data_collection.jpg?raw=true", height="250px"/>
@@ -64,7 +65,8 @@ of the plate, and allowed to slide. The time it took for coin to slide
 was recorded.
 
 A similar experiment was done in blender, where friction and restitution
-were chosen such that simulation matches the observation:
+were chosen such that simulation matches the observation, see 
+`misc/check_restitution_friction.blend`:
 
 <p align="center">
   <img src="https://github.com/iaroslav-ai/coin-experiment/blob/master/media/simulation.gif?raw=true", height="250px"/>
@@ -73,7 +75,8 @@ were chosen such that simulation matches the observation:
 ## Visualization of full experimental data
 
 Here you can find graphs with thickness values that were
-tried:
+tried. The thickness of coin was automatically optimized using
+[scikit-optimize](https://github.com/scikit-optimize/scikit-optimize) package.
 
 <p align="center">
   <img src="https://github.com/iaroslav-ai/coin-experiment/blob/master/media/data_plot.png?raw=true", height="450px"/>
@@ -146,7 +149,7 @@ fraction of standing coins is off and it is rather fast.
 * python3.5
 * Blender 2.76b
 
-## acknowledgments 
+## Acknowledgments 
 
 Thanks to [Epä Järjestys](https://www.youtube.com/channel/UCuhQxsF97vKnNMNnA5rmYYA)
  and [Rojetto](https://github.com/Rojetto) for pointing out the uniform rotation issue with coins.
