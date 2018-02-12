@@ -78,7 +78,10 @@ def get_config():
     # read user override of parameters from console
     user_override = {}
     for k, v in ((k.lstrip('-'), v) for k, v in (a.split('=') for a in sys.argv[1:])):
-        user_override[k] = json.loads(v)
+        try:
+            user_override[k] = json.loads(v)
+        except BaseException:
+            user_override[k] = v
 
     # get the configuration file that is to be used
     cfg_file = 'cupronickel.json'
