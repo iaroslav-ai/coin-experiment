@@ -70,6 +70,9 @@ def visualize_results(results, name, fit_res=None):
     plt.xlabel('Thickness of a coin')
     plt.ylabel('Fraction of coins that land on edge')
 
+    plt.xlim([0.0, 2.1])
+    plt.ylim([-0.1, 1.0])
+
     # add legends and grid
     plt.legend()
     plt.grid()
@@ -87,8 +90,11 @@ def plot_multiple(params):
     plt.show()
 
 
+#results_file = 'hardplastic_results.json'
+results_file = 'cupronickel_results.json'
+
 # load and process data here
-data_file = os.path.join('results', 'cupronickel_results.json')
+data_file = os.path.join('results', results_file)
 js = json.load(open(data_file, 'r'))
 
 # determine changing parameters

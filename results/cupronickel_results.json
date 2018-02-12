@@ -8,16 +8,17 @@
    "coin_grid_size": 32,
    "coin_grid_step": 20.0,
    "coin_restitution": 0.3,
-   "coin_thickness": 0.37916432139041334,
+   "coin_thickness": 1.5075215628531917,
+   "config_file": "cupronickel.json",
    "exit_when_done": true,
-   "linear_velocity_std": 0.0,
+   "linear_velocity_std": 2.0,
    "table_friction": 0.44,
    "table_restitution": 0.603
   },
   {
-   "Edge": 18.0,
-   "Heads": 473.0,
-   "Tails": 532.0
+   "Edge": 771.0,
+   "Heads": 123.0,
+   "Tails": 130.0
   }
  ],
  [
@@ -29,16 +30,17 @@
    "coin_grid_size": 32,
    "coin_grid_step": 20.0,
    "coin_restitution": 0.3,
-   "coin_thickness": 0.6784155393000539,
+   "coin_thickness": 1.9817801933124015,
+   "config_file": "cupronickel.json",
    "exit_when_done": true,
-   "linear_velocity_std": 0.0,
+   "linear_velocity_std": 2.0,
    "table_friction": 0.44,
    "table_restitution": 0.603
   },
   {
-   "Edge": 136.0,
-   "Heads": 428.0,
-   "Tails": 460.0
+   "Edge": 892.0,
+   "Heads": 65.0,
+   "Tails": 67.0
   }
  ],
  [
@@ -50,16 +52,17 @@
    "coin_grid_size": 32,
    "coin_grid_step": 20.0,
    "coin_restitution": 0.3,
-   "coin_thickness": 1.0383113131187192,
+   "coin_thickness": 0.9211935515684736,
+   "config_file": "cupronickel.json",
    "exit_when_done": true,
-   "linear_velocity_std": 0.0,
+   "linear_velocity_std": 2.0,
    "table_friction": 0.44,
    "table_restitution": 0.603
   },
   {
-   "Edge": 357.0,
-   "Heads": 333.0,
-   "Tails": 334.0
+   "Edge": 301.0,
+   "Heads": 347.0,
+   "Tails": 376.0
   }
  ],
  [
@@ -71,16 +74,17 @@
    "coin_grid_size": 32,
    "coin_grid_step": 20.0,
    "coin_restitution": 0.3,
-   "coin_thickness": 1.2230889834786156,
+   "coin_thickness": 1.303161103568913,
+   "config_file": "cupronickel.json",
    "exit_when_done": true,
-   "linear_velocity_std": 0.0,
+   "linear_velocity_std": 2.0,
    "table_friction": 0.44,
    "table_restitution": 0.603
   },
   {
-   "Edge": 506.0,
-   "Heads": 246.0,
-   "Tails": 272.0
+   "Edge": 604.0,
+   "Heads": 215.0,
+   "Tails": 205.0
   }
  ],
  [
@@ -92,58 +96,17 @@
    "coin_grid_size": 32,
    "coin_grid_step": 20.0,
    "coin_restitution": 0.3,
-   "coin_thickness": 1.007446101480793,
+   "coin_thickness": 0.8125813443656396,
+   "config_file": "cupronickel.json",
    "exit_when_done": true,
-   "linear_velocity_std": 0.0,
+   "linear_velocity_std": 2.0,
    "table_friction": 0.44,
    "table_restitution": 0.603
   },
   {
-   "Edge": 338.0,
-   "Heads": 348.0,
-   "Tails": 338.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 0.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 0.9571260801411234,
-   "exit_when_done": true,
-   "linear_velocity_std": 0.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 304.0,
-   "Heads": 373.0,
-   "Tails": 347.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 0.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 2.0,
-   "exit_when_done": true,
-   "linear_velocity_std": 0.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 867.0,
-   "Heads": 80.0,
-   "Tails": 77.0
+   "Edge": 230.0,
+   "Heads": 378.0,
+   "Tails": 416.0
   }
  ],
  [
@@ -156,15 +119,16 @@
    "coin_grid_step": 20.0,
    "coin_restitution": 0.3,
    "coin_thickness": 0.1,
+   "config_file": "cupronickel.json",
    "exit_when_done": true,
-   "linear_velocity_std": 0.0,
+   "linear_velocity_std": 2.0,
    "table_friction": 0.44,
    "table_restitution": 0.603
   },
   {
    "Edge": 0.0,
-   "Heads": 510.0,
-   "Tails": 514.0
+   "Heads": 518.0,
+   "Tails": 501.0
   }
  ],
  [
@@ -176,183 +140,16 @@
    "coin_grid_size": 32,
    "coin_grid_step": 20.0,
    "coin_restitution": 0.3,
-   "coin_thickness": 1.0523913744616795,
+   "coin_thickness": 1.0023079030679511,
+   "config_file": "cupronickel.json",
    "exit_when_done": true,
-   "linear_velocity_std": 0.0,
+   "linear_velocity_std": 2.0,
    "table_friction": 0.44,
    "table_restitution": 0.603
   },
   {
-   "Edge": 382.0,
-   "Heads": 321.0,
-   "Tails": 321.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 0.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 0.9370995706896905,
-   "exit_when_done": true,
-   "linear_velocity_std": 0.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 283.0,
-   "Heads": 358.0,
-   "Tails": 383.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 0.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 1.5112891117345537,
-   "exit_when_done": true,
-   "linear_velocity_std": 0.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 704.0,
-   "Heads": 169.0,
-   "Tails": 151.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 0.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 1.0343447253580422,
-   "exit_when_done": true,
-   "linear_velocity_std": 0.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 344.0,
-   "Heads": 332.0,
-   "Tails": 348.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 0.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 1.037184866951675,
-   "exit_when_done": true,
-   "linear_velocity_std": 0.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 341.0,
-   "Heads": 347.0,
-   "Tails": 336.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 0.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 1.0592812041879445,
-   "exit_when_done": true,
-   "linear_velocity_std": 0.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 388.0,
-   "Heads": 295.0,
-   "Tails": 341.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 0.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 1.0094382768753147,
-   "exit_when_done": true,
-   "linear_velocity_std": 0.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 327.0,
-   "Heads": 345.0,
-   "Tails": 352.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 0.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 0.9915568492102033,
-   "exit_when_done": true,
-   "linear_velocity_std": 0.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 332.0,
-   "Heads": 346.0,
-   "Tails": 346.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 0.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 1.0073998605144114,
-   "exit_when_done": true,
-   "linear_velocity_std": 0.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 356.0,
-   "Heads": 331.0,
+   "Edge": 395.0,
+   "Heads": 292.0,
    "Tails": 337.0
   }
  ],
@@ -365,16 +162,17 @@
    "coin_grid_size": 32,
    "coin_grid_step": 20.0,
    "coin_restitution": 0.3,
-   "coin_thickness": 1.0071052592281562,
+   "coin_thickness": 0.9718406195601712,
+   "config_file": "cupronickel.json",
    "exit_when_done": true,
-   "linear_velocity_std": 0.0,
+   "linear_velocity_std": 2.0,
    "table_friction": 0.44,
    "table_restitution": 0.603
   },
   {
-   "Edge": 375.0,
-   "Heads": 313.0,
-   "Tails": 336.0
+   "Edge": 371.0,
+   "Heads": 338.0,
+   "Tails": 315.0
   }
  ],
  [
@@ -386,16 +184,17 @@
    "coin_grid_size": 32,
    "coin_grid_step": 20.0,
    "coin_restitution": 0.3,
-   "coin_thickness": 1.0140799250381676,
+   "coin_thickness": 0.950209765568876,
+   "config_file": "cupronickel.json",
    "exit_when_done": true,
-   "linear_velocity_std": 0.0,
+   "linear_velocity_std": 2.0,
    "table_friction": 0.44,
    "table_restitution": 0.603
   },
   {
-   "Edge": 362.0,
-   "Heads": 343.0,
-   "Tails": 319.0
+   "Edge": 323.0,
+   "Heads": 331.0,
+   "Tails": 370.0
   }
  ],
  [
@@ -407,36 +206,16 @@
    "coin_grid_size": 32,
    "coin_grid_step": 20.0,
    "coin_restitution": 0.3,
-   "coin_thickness": 1.0143496884501042,
+   "coin_thickness": 0.9495343854034629,
+   "config_file": "cupronickel.json",
    "exit_when_done": true,
-   "linear_velocity_std": 0.0,
+   "linear_velocity_std": 2.0,
    "table_friction": 0.44,
    "table_restitution": 0.603
   },
   {
-   "Edge": 343.0,
-   "Heads": 361.0,
-   "Tails": 320.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 0.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 0.8720130492975531,
-   "exit_when_done": true,
-   "linear_velocity_std": 0.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 248.0,
-   "Heads": 412.0,
+   "Edge": 302.0,
+   "Heads": 358.0,
    "Tails": 364.0
   }
  ],
@@ -449,16 +228,17 @@
    "coin_grid_size": 32,
    "coin_grid_step": 20.0,
    "coin_restitution": 0.3,
-   "coin_thickness": 1.014474396394903,
+   "coin_thickness": 0.9515985224471128,
+   "config_file": "cupronickel.json",
    "exit_when_done": true,
-   "linear_velocity_std": 0.0,
+   "linear_velocity_std": 2.0,
    "table_friction": 0.44,
    "table_restitution": 0.603
   },
   {
-   "Edge": 366.0,
-   "Heads": 338.0,
-   "Tails": 320.0
+   "Edge": 329.0,
+   "Heads": 344.0,
+   "Tails": 351.0
   }
  ],
  [
@@ -470,289 +250,17 @@
    "coin_grid_size": 32,
    "coin_grid_step": 20.0,
    "coin_restitution": 0.3,
-   "coin_thickness": 1.0789767423701055,
+   "coin_thickness": 0.9547246082331773,
+   "config_file": "cupronickel.json",
    "exit_when_done": true,
-   "linear_velocity_std": 0.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 384.0,
-   "Heads": 329.0,
-   "Tails": 311.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 0.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 1.0109658574700762,
-   "exit_when_done": true,
-   "linear_velocity_std": 0.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 333.0,
-   "Heads": 349.0,
-   "Tails": 342.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 0.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 1.0105430208551593,
-   "exit_when_done": true,
-   "linear_velocity_std": 0.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 333.0,
-   "Heads": 333.0,
-   "Tails": 358.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 0.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 1.0101773836344452,
-   "exit_when_done": true,
-   "linear_velocity_std": 0.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 341.0,
-   "Heads": 338.0,
-   "Tails": 345.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 0.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 1.0094439871963745,
-   "exit_when_done": true,
-   "linear_velocity_std": 0.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 339.0,
-   "Heads": 337.0,
-   "Tails": 348.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 0.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 1.0088892933973934,
-   "exit_when_done": true,
-   "linear_velocity_std": 0.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 368.0,
-   "Heads": 320.0,
-   "Tails": 336.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 0.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 1.009876047503213,
-   "exit_when_done": true,
-   "linear_velocity_std": 0.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 343.0,
-   "Heads": 353.0,
-   "Tails": 328.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 0.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 1.0093385719767403,
-   "exit_when_done": true,
-   "linear_velocity_std": 0.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 346.0,
-   "Heads": 339.0,
-   "Tails": 339.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 0.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 1.0090127048266417,
-   "exit_when_done": true,
-   "linear_velocity_std": 0.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 338.0,
-   "Heads": 363.0,
-   "Tails": 323.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 0.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 1.0086844086667948,
-   "exit_when_done": true,
-   "linear_velocity_std": 0.0,
+   "linear_velocity_std": 2.0,
    "table_friction": 0.44,
    "table_restitution": 0.603
   },
   {
    "Edge": 328.0,
-   "Heads": 361.0,
-   "Tails": 335.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 0.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 1.0089089724983378,
-   "exit_when_done": true,
-   "linear_velocity_std": 0.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 349.0,
-   "Heads": 343.0,
-   "Tails": 332.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 0.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 1.008896624198242,
-   "exit_when_done": true,
-   "linear_velocity_std": 0.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 345.0,
-   "Heads": 318.0,
-   "Tails": 361.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 0.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 1.0087506588833233,
-   "exit_when_done": true,
-   "linear_velocity_std": 0.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 328.0,
-   "Heads": 354.0,
-   "Tails": 342.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 0.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 1.0090275212598188,
-   "exit_when_done": true,
-   "linear_velocity_std": 0.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 360.0,
    "Heads": 350.0,
-   "Tails": 314.0
+   "Tails": 346.0
   }
  ],
  [
@@ -764,78 +272,16 @@
    "coin_grid_size": 32,
    "coin_grid_step": 20.0,
    "coin_restitution": 0.3,
-   "coin_thickness": 1.00938909081178,
+   "coin_thickness": 0.9454646472528219,
+   "config_file": "cupronickel.json",
    "exit_when_done": true,
-   "linear_velocity_std": 0.0,
+   "linear_velocity_std": 2.0,
    "table_friction": 0.44,
    "table_restitution": 0.603
   },
   {
-   "Edge": 366.0,
-   "Heads": 319.0,
-   "Tails": 339.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 0.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 1.0097854941730464,
-   "exit_when_done": true,
-   "linear_velocity_std": 0.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 349.0,
-   "Heads": 335.0,
-   "Tails": 340.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 0.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 1.0098067877132855,
-   "exit_when_done": true,
-   "linear_velocity_std": 0.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 337.0,
-   "Heads": 353.0,
-   "Tails": 334.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 0.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 1.0097478032919174,
-   "exit_when_done": true,
-   "linear_velocity_std": 0.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 348.0,
-   "Heads": 322.0,
+   "Edge": 326.0,
+   "Heads": 344.0,
    "Tails": 354.0
   }
  ],
@@ -848,414 +294,16 @@
    "coin_grid_size": 32,
    "coin_grid_step": 20.0,
    "coin_restitution": 0.3,
-   "coin_thickness": 1.0098085943085107,
+   "coin_thickness": 0.9363961267046602,
+   "config_file": "cupronickel.json",
    "exit_when_done": true,
-   "linear_velocity_std": 0.0,
+   "linear_velocity_std": 2.0,
    "table_friction": 0.44,
    "table_restitution": 0.603
   },
   {
-   "Edge": 365.0,
-   "Heads": 303.0,
-   "Tails": 356.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 0.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 1.0100416742312701,
-   "exit_when_done": true,
-   "linear_velocity_std": 0.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 370.0,
-   "Heads": 335.0,
-   "Tails": 319.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 0.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 1.0103177294431775,
-   "exit_when_done": true,
-   "linear_velocity_std": 0.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 341.0,
-   "Heads": 326.0,
-   "Tails": 357.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 0.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 1.0100838746111667,
-   "exit_when_done": true,
-   "linear_velocity_std": 0.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 379.0,
-   "Heads": 327.0,
-   "Tails": 318.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 0.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 1.0106731701942373,
-   "exit_when_done": true,
-   "linear_velocity_std": 0.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 383.0,
-   "Heads": 329.0,
-   "Tails": 312.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 0.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 1.0117411654088455,
-   "exit_when_done": true,
-   "linear_velocity_std": 0.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 318.0,
-   "Heads": 359.0,
-   "Tails": 347.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 0.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 1.0119121966617513,
-   "exit_when_done": true,
-   "linear_velocity_std": 0.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 378.0,
-   "Heads": 324.0,
-   "Tails": 322.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 0.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 1.0125171291367543,
-   "exit_when_done": true,
-   "linear_velocity_std": 0.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 356.0,
-   "Heads": 336.0,
-   "Tails": 331.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 0.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 1.0124247609373191,
-   "exit_when_done": true,
-   "linear_velocity_std": 0.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 341.0,
-   "Heads": 339.0,
-   "Tails": 344.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 0.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 1.0123219309487514,
-   "exit_when_done": true,
-   "linear_velocity_std": 0.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 351.0,
-   "Heads": 308.0,
-   "Tails": 365.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 0.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 1.012201329128536,
-   "exit_when_done": true,
-   "linear_velocity_std": 0.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 335.0,
-   "Heads": 350.0,
-   "Tails": 339.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 0.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 1.0120618464768179,
-   "exit_when_done": true,
-   "linear_velocity_std": 0.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 334.0,
-   "Heads": 329.0,
-   "Tails": 361.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 0.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 1.0119250305770813,
-   "exit_when_done": true,
-   "linear_velocity_std": 0.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 360.0,
-   "Heads": 342.0,
-   "Tails": 322.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 0.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 1.0119683007200657,
-   "exit_when_done": true,
-   "linear_velocity_std": 0.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 358.0,
-   "Heads": 346.0,
-   "Tails": 320.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 0.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 1.0119670281799134,
-   "exit_when_done": true,
-   "linear_velocity_std": 0.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 335.0,
-   "Heads": 348.0,
-   "Tails": 341.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 0.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 1.0118238006356806,
-   "exit_when_done": true,
-   "linear_velocity_std": 0.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 365.0,
-   "Heads": 362.0,
-   "Tails": 297.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 0.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 1.0120172678625998,
-   "exit_when_done": true,
-   "linear_velocity_std": 0.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 377.0,
-   "Heads": 323.0,
-   "Tails": 324.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 0.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 1.012586045879737,
-   "exit_when_done": true,
-   "linear_velocity_std": 0.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 352.0,
-   "Heads": 346.0,
-   "Tails": 326.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 0.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 1.0124829555476373,
-   "exit_when_done": true,
-   "linear_velocity_std": 0.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 361.0,
-   "Heads": 329.0,
-   "Tails": 334.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 0.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 1.0124394820317861,
-   "exit_when_done": true,
-   "linear_velocity_std": 0.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 341.0,
-   "Heads": 338.0,
+   "Edge": 309.0,
+   "Heads": 370.0,
    "Tails": 345.0
   }
  ],
@@ -1268,16 +316,17 @@
    "coin_grid_size": 32,
    "coin_grid_step": 20.0,
    "coin_restitution": 0.3,
-   "coin_thickness": 1.0123733110416238,
+   "coin_thickness": 0.4538965886902998,
+   "config_file": "cupronickel.json",
    "exit_when_done": true,
-   "linear_velocity_std": 0.0,
+   "linear_velocity_std": 2.0,
    "table_friction": 0.44,
    "table_restitution": 0.603
   },
   {
-   "Edge": 330.0,
-   "Heads": 368.0,
-   "Tails": 326.0
+   "Edge": 41.0,
+   "Heads": 488.0,
+   "Tails": 493.0
   }
  ],
  [
@@ -1289,16 +338,17 @@
    "coin_grid_size": 32,
    "coin_grid_step": 20.0,
    "coin_restitution": 0.3,
-   "coin_thickness": 1.0122696337364256,
+   "coin_thickness": 1.0449755413404231,
+   "config_file": "cupronickel.json",
    "exit_when_done": true,
-   "linear_velocity_std": 0.0,
+   "linear_velocity_std": 2.0,
    "table_friction": 0.44,
    "table_restitution": 0.603
   },
   {
-   "Edge": 323.0,
-   "Heads": 335.0,
-   "Tails": 366.0
+   "Edge": 395.0,
+   "Heads": 319.0,
+   "Tails": 310.0
   }
  ],
  [
@@ -1310,15 +360,280 @@
    "coin_grid_size": 32,
    "coin_grid_step": 20.0,
    "coin_restitution": 0.3,
-   "coin_thickness": 1.0122559410449952,
+   "coin_thickness": 0.9603182434430189,
+   "config_file": "cupronickel.json",
    "exit_when_done": true,
-   "linear_velocity_std": 0.0,
+   "linear_velocity_std": 2.0,
    "table_friction": 0.44,
    "table_restitution": 0.603
   },
   {
-   "Edge": 363.0,
-   "Heads": 320.0,
+   "Edge": 327.0,
+   "Heads": 330.0,
+   "Tails": 367.0
+  }
+ ],
+ [
+  {
+   "angular_velocity_std": 0.0,
+   "coin_density": 8.5,
+   "coin_diameter": 2.0,
+   "coin_friction": 0.44,
+   "coin_grid_size": 32,
+   "coin_grid_step": 20.0,
+   "coin_restitution": 0.3,
+   "coin_thickness": 0.9601457543618125,
+   "config_file": "cupronickel.json",
+   "exit_when_done": true,
+   "linear_velocity_std": 2.0,
+   "table_friction": 0.44,
+   "table_restitution": 0.603
+  },
+  {
+   "Edge": 316.0,
+   "Heads": 379.0,
+   "Tails": 329.0
+  }
+ ],
+ [
+  {
+   "angular_velocity_std": 0.0,
+   "coin_density": 8.5,
+   "coin_diameter": 2.0,
+   "coin_friction": 0.44,
+   "coin_grid_size": 32,
+   "coin_grid_step": 20.0,
+   "coin_restitution": 0.3,
+   "coin_thickness": 0.9589493377332008,
+   "config_file": "cupronickel.json",
+   "exit_when_done": true,
+   "linear_velocity_std": 2.0,
+   "table_friction": 0.44,
+   "table_restitution": 0.603
+  },
+  {
+   "Edge": 326.0,
+   "Heads": 338.0,
+   "Tails": 360.0
+  }
+ ],
+ [
+  {
+   "angular_velocity_std": 0.0,
+   "coin_density": 8.5,
+   "coin_diameter": 2.0,
+   "coin_friction": 0.44,
+   "coin_grid_size": 32,
+   "coin_grid_step": 20.0,
+   "coin_restitution": 0.3,
+   "coin_thickness": 1.009281188468679,
+   "config_file": "cupronickel.json",
+   "exit_when_done": true,
+   "linear_velocity_std": 2.0,
+   "table_friction": 0.44,
+   "table_restitution": 0.603
+  },
+  {
+   "Edge": 360.0,
+   "Heads": 334.0,
+   "Tails": 330.0
+  }
+ ],
+ [
+  {
+   "angular_velocity_std": 0.0,
+   "coin_density": 8.5,
+   "coin_diameter": 2.0,
+   "coin_friction": 0.44,
+   "coin_grid_size": 32,
+   "coin_grid_step": 20.0,
+   "coin_restitution": 0.3,
+   "coin_thickness": 0.9675146772588906,
+   "config_file": "cupronickel.json",
+   "exit_when_done": true,
+   "linear_velocity_std": 2.0,
+   "table_friction": 0.44,
+   "table_restitution": 0.603
+  },
+  {
+   "Edge": 334.0,
+   "Heads": 341.0,
+   "Tails": 349.0
+  }
+ ],
+ [
+  {
+   "angular_velocity_std": 0.0,
+   "coin_density": 8.5,
+   "coin_diameter": 2.0,
+   "coin_friction": 0.44,
+   "coin_grid_size": 32,
+   "coin_grid_step": 20.0,
+   "coin_restitution": 0.3,
+   "coin_thickness": 0.9685707553054493,
+   "config_file": "cupronickel.json",
+   "exit_when_done": true,
+   "linear_velocity_std": 2.0,
+   "table_friction": 0.44,
+   "table_restitution": 0.603
+  },
+  {
+   "Edge": 337.0,
+   "Heads": 350.0,
+   "Tails": 337.0
+  }
+ ],
+ [
+  {
+   "angular_velocity_std": 0.0,
+   "coin_density": 8.5,
+   "coin_diameter": 2.0,
+   "coin_friction": 0.44,
+   "coin_grid_size": 32,
+   "coin_grid_step": 20.0,
+   "coin_restitution": 0.3,
+   "coin_thickness": 0.9699747505499754,
+   "config_file": "cupronickel.json",
+   "exit_when_done": true,
+   "linear_velocity_std": 2.0,
+   "table_friction": 0.44,
+   "table_restitution": 0.603
+  },
+  {
+   "Edge": 317.0,
+   "Heads": 342.0,
+   "Tails": 365.0
+  }
+ ],
+ [
+  {
+   "angular_velocity_std": 0.0,
+   "coin_density": 8.5,
+   "coin_diameter": 2.0,
+   "coin_friction": 0.44,
+   "coin_grid_size": 32,
+   "coin_grid_step": 20.0,
+   "coin_restitution": 0.3,
+   "coin_thickness": 0.9689413129141324,
+   "config_file": "cupronickel.json",
+   "exit_when_done": true,
+   "linear_velocity_std": 2.0,
+   "table_friction": 0.44,
+   "table_restitution": 0.603
+  },
+  {
+   "Edge": 300.0,
+   "Heads": 369.0,
+   "Tails": 355.0
+  }
+ ],
+ [
+  {
+   "angular_velocity_std": 0.0,
+   "coin_density": 8.5,
+   "coin_diameter": 2.0,
+   "coin_friction": 0.44,
+   "coin_grid_size": 32,
+   "coin_grid_step": 20.0,
+   "coin_restitution": 0.3,
+   "coin_thickness": 1.0705853620088293,
+   "config_file": "cupronickel.json",
+   "exit_when_done": true,
+   "linear_velocity_std": 2.0,
+   "table_friction": 0.44,
+   "table_restitution": 0.603
+  },
+  {
+   "Edge": 397.0,
+   "Heads": 319.0,
+   "Tails": 308.0
+  }
+ ],
+ [
+  {
+   "angular_velocity_std": 0.0,
+   "coin_density": 8.5,
+   "coin_diameter": 2.0,
+   "coin_friction": 0.44,
+   "coin_grid_size": 32,
+   "coin_grid_step": 20.0,
+   "coin_restitution": 0.3,
+   "coin_thickness": 0.9708108718881755,
+   "config_file": "cupronickel.json",
+   "exit_when_done": true,
+   "linear_velocity_std": 2.0,
+   "table_friction": 0.44,
+   "table_restitution": 0.603
+  },
+  {
+   "Edge": 332.0,
+   "Heads": 350.0,
+   "Tails": 342.0
+  }
+ ],
+ [
+  {
+   "angular_velocity_std": 0.0,
+   "coin_density": 8.5,
+   "coin_diameter": 2.0,
+   "coin_friction": 0.44,
+   "coin_grid_size": 32,
+   "coin_grid_step": 20.0,
+   "coin_restitution": 0.3,
+   "coin_thickness": 0.9713342419294955,
+   "config_file": "cupronickel.json",
+   "exit_when_done": true,
+   "linear_velocity_std": 2.0,
+   "table_friction": 0.44,
+   "table_restitution": 0.603
+  },
+  {
+   "Edge": 353.0,
+   "Heads": 333.0,
+   "Tails": 338.0
+  }
+ ],
+ [
+  {
+   "angular_velocity_std": 0.0,
+   "coin_density": 8.5,
+   "coin_diameter": 2.0,
+   "coin_friction": 0.44,
+   "coin_grid_size": 32,
+   "coin_grid_step": 20.0,
+   "coin_restitution": 0.3,
+   "coin_thickness": 0.971639903302561,
+   "config_file": "cupronickel.json",
+   "exit_when_done": true,
+   "linear_velocity_std": 2.0,
+   "table_friction": 0.44,
+   "table_restitution": 0.603
+  },
+  {
+   "Edge": 345.0,
+   "Heads": 329.0,
+   "Tails": 350.0
+  }
+ ],
+ [
+  {
+   "angular_velocity_std": 0.0,
+   "coin_density": 8.5,
+   "coin_diameter": 2.0,
+   "coin_friction": 0.44,
+   "coin_grid_size": 32,
+   "coin_grid_step": 20.0,
+   "coin_restitution": 0.3,
+   "coin_thickness": 0.972603749494281,
+   "config_file": "cupronickel.json",
+   "exit_when_done": true,
+   "linear_velocity_std": 2.0,
+   "table_friction": 0.44,
+   "table_restitution": 0.603
+  },
+  {
+   "Edge": 345.0,
+   "Heads": 337.0,
    "Tails": 341.0
   }
  ],
@@ -1331,15 +646,1952 @@
    "coin_grid_size": 32,
    "coin_grid_step": 20.0,
    "coin_restitution": 0.3,
-   "coin_thickness": 1.0123078525154876,
+   "coin_thickness": 0.9735090321076689,
+   "config_file": "cupronickel.json",
+   "exit_when_done": true,
+   "linear_velocity_std": 2.0,
+   "table_friction": 0.44,
+   "table_restitution": 0.603
+  },
+  {
+   "Edge": 337.0,
+   "Heads": 375.0,
+   "Tails": 312.0
+  }
+ ],
+ [
+  {
+   "angular_velocity_std": 0.0,
+   "coin_density": 8.5,
+   "coin_diameter": 2.0,
+   "coin_friction": 0.44,
+   "coin_grid_size": 32,
+   "coin_grid_step": 20.0,
+   "coin_restitution": 0.3,
+   "coin_thickness": 0.6676086624682234,
+   "config_file": "cupronickel.json",
+   "exit_when_done": true,
+   "linear_velocity_std": 2.0,
+   "table_friction": 0.44,
+   "table_restitution": 0.603
+  },
+  {
+   "Edge": 150.0,
+   "Heads": 431.0,
+   "Tails": 443.0
+  }
+ ],
+ [
+  {
+   "angular_velocity_std": 0.0,
+   "coin_density": 8.5,
+   "coin_diameter": 2.0,
+   "coin_friction": 0.44,
+   "coin_grid_size": 32,
+   "coin_grid_step": 20.0,
+   "coin_restitution": 0.3,
+   "coin_thickness": 0.9756380060688068,
+   "config_file": "cupronickel.json",
+   "exit_when_done": true,
+   "linear_velocity_std": 2.0,
+   "table_friction": 0.44,
+   "table_restitution": 0.603
+  },
+  {
+   "Edge": 334.0,
+   "Heads": 352.0,
+   "Tails": 338.0
+  }
+ ],
+ [
+  {
+   "angular_velocity_std": 0.0,
+   "coin_density": 8.5,
+   "coin_diameter": 2.0,
+   "coin_friction": 0.44,
+   "coin_grid_size": 32,
+   "coin_grid_step": 20.0,
+   "coin_restitution": 0.3,
+   "coin_thickness": 0.9762805623027984,
+   "config_file": "cupronickel.json",
+   "exit_when_done": true,
+   "linear_velocity_std": 2.0,
+   "table_friction": 0.44,
+   "table_restitution": 0.603
+  },
+  {
+   "Edge": 327.0,
+   "Heads": 355.0,
+   "Tails": 342.0
+  }
+ ],
+ [
+  {
+   "angular_velocity_std": 0.0,
+   "coin_density": 8.5,
+   "coin_diameter": 2.0,
+   "coin_friction": 0.44,
+   "coin_grid_size": 32,
+   "coin_grid_step": 20.0,
+   "coin_restitution": 0.3,
+   "coin_thickness": 0.9763165095269362,
+   "config_file": "cupronickel.json",
+   "exit_when_done": true,
+   "linear_velocity_std": 2.0,
+   "table_friction": 0.44,
+   "table_restitution": 0.603
+  },
+  {
+   "Edge": 367.0,
+   "Heads": 323.0,
+   "Tails": 334.0
+  }
+ ],
+ [
+  {
+   "angular_velocity_std": 0.0,
+   "coin_density": 8.5,
+   "coin_diameter": 2.0,
+   "coin_friction": 0.44,
+   "coin_grid_size": 32,
+   "coin_grid_step": 20.0,
+   "coin_restitution": 0.3,
+   "coin_thickness": 0.9754896171485649,
+   "config_file": "cupronickel.json",
+   "exit_when_done": true,
+   "linear_velocity_std": 2.0,
+   "table_friction": 0.44,
+   "table_restitution": 0.603
+  },
+  {
+   "Edge": 328.0,
+   "Heads": 346.0,
+   "Tails": 350.0
+  }
+ ],
+ [
+  {
+   "angular_velocity_std": 0.0,
+   "coin_density": 8.5,
+   "coin_diameter": 2.0,
+   "coin_friction": 0.44,
+   "coin_grid_size": 32,
+   "coin_grid_step": 20.0,
+   "coin_restitution": 0.3,
+   "coin_thickness": 0.9756160365607265,
+   "config_file": "cupronickel.json",
+   "exit_when_done": true,
+   "linear_velocity_std": 2.0,
+   "table_friction": 0.44,
+   "table_restitution": 0.603
+  },
+  {
+   "Edge": 358.0,
+   "Heads": 326.0,
+   "Tails": 340.0
+  }
+ ],
+ [
+  {
+   "angular_velocity_std": 0.0,
+   "coin_density": 8.5,
+   "coin_diameter": 2.0,
+   "coin_friction": 0.44,
+   "coin_grid_size": 32,
+   "coin_grid_step": 20.0,
+   "coin_restitution": 0.3,
+   "coin_thickness": 0.9754945435627363,
+   "config_file": "cupronickel.json",
+   "exit_when_done": true,
+   "linear_velocity_std": 2.0,
+   "table_friction": 0.44,
+   "table_restitution": 0.603
+  },
+  {
+   "Edge": 361.0,
+   "Heads": 336.0,
+   "Tails": 327.0
+  }
+ ],
+ [
+  {
+   "angular_velocity_std": 0.0,
+   "coin_density": 8.5,
+   "coin_diameter": 2.0,
+   "coin_friction": 0.44,
+   "coin_grid_size": 32,
+   "coin_grid_step": 20.0,
+   "coin_restitution": 0.3,
+   "coin_thickness": 0.9751715661352633,
+   "config_file": "cupronickel.json",
+   "exit_when_done": true,
+   "linear_velocity_std": 2.0,
+   "table_friction": 0.44,
+   "table_restitution": 0.603
+  },
+  {
+   "Edge": 361.0,
+   "Heads": 315.0,
+   "Tails": 348.0
+  }
+ ],
+ [
+  {
+   "angular_velocity_std": 0.0,
+   "coin_density": 8.5,
+   "coin_diameter": 2.0,
+   "coin_friction": 0.44,
+   "coin_grid_size": 32,
+   "coin_grid_step": 20.0,
+   "coin_restitution": 0.3,
+   "coin_thickness": 0.9748701539288224,
+   "config_file": "cupronickel.json",
+   "exit_when_done": true,
+   "linear_velocity_std": 2.0,
+   "table_friction": 0.44,
+   "table_restitution": 0.603
+  },
+  {
+   "Edge": 368.0,
+   "Heads": 314.0,
+   "Tails": 342.0
+  }
+ ],
+ [
+  {
+   "angular_velocity_std": 0.0,
+   "coin_density": 8.5,
+   "coin_diameter": 2.0,
+   "coin_friction": 0.44,
+   "coin_grid_size": 32,
+   "coin_grid_step": 20.0,
+   "coin_restitution": 0.3,
+   "coin_thickness": 0.9741707586509459,
+   "config_file": "cupronickel.json",
+   "exit_when_done": true,
+   "linear_velocity_std": 2.0,
+   "table_friction": 0.44,
+   "table_restitution": 0.603
+  },
+  {
+   "Edge": 357.0,
+   "Heads": 326.0,
+   "Tails": 341.0
+  }
+ ],
+ [
+  {
+   "angular_velocity_std": 0.0,
+   "coin_density": 8.5,
+   "coin_diameter": 2.0,
+   "coin_friction": 0.44,
+   "coin_grid_size": 32,
+   "coin_grid_step": 20.0,
+   "coin_restitution": 0.3,
+   "coin_thickness": 0.9741568164808224,
+   "config_file": "cupronickel.json",
+   "exit_when_done": true,
+   "linear_velocity_std": 2.0,
+   "table_friction": 0.44,
+   "table_restitution": 0.603
+  },
+  {
+   "Edge": 335.0,
+   "Heads": 345.0,
+   "Tails": 344.0
+  }
+ ],
+ [
+  {
+   "angular_velocity_std": 0.0,
+   "coin_density": 8.5,
+   "coin_diameter": 2.0,
+   "coin_friction": 0.44,
+   "coin_grid_size": 32,
+   "coin_grid_step": 20.0,
+   "coin_restitution": 0.3,
+   "coin_thickness": 0.9747083037471069,
+   "config_file": "cupronickel.json",
+   "exit_when_done": true,
+   "linear_velocity_std": 2.0,
+   "table_friction": 0.44,
+   "table_restitution": 0.603
+  },
+  {
+   "Edge": 362.0,
+   "Heads": 329.0,
+   "Tails": 333.0
+  }
+ ],
+ [
+  {
+   "angular_velocity_std": 0.0,
+   "coin_density": 8.5,
+   "coin_diameter": 2.0,
+   "coin_friction": 0.44,
+   "coin_grid_size": 32,
+   "coin_grid_step": 20.0,
+   "coin_restitution": 0.3,
+   "coin_thickness": 0.9743772212447369,
+   "config_file": "cupronickel.json",
+   "exit_when_done": true,
+   "linear_velocity_std": 2.0,
+   "table_friction": 0.44,
+   "table_restitution": 0.603
+  },
+  {
+   "Edge": 337.0,
+   "Heads": 364.0,
+   "Tails": 323.0
+  }
+ ],
+ [
+  {
+   "angular_velocity_std": 0.0,
+   "coin_density": 8.5,
+   "coin_diameter": 2.0,
+   "coin_friction": 0.44,
+   "coin_grid_size": 32,
+   "coin_grid_step": 20.0,
+   "coin_restitution": 0.3,
+   "coin_thickness": 0.9750489337472363,
+   "config_file": "cupronickel.json",
+   "exit_when_done": true,
+   "linear_velocity_std": 2.0,
+   "table_friction": 0.44,
+   "table_restitution": 0.603
+  },
+  {
+   "Edge": 355.0,
+   "Heads": 316.0,
+   "Tails": 353.0
+  }
+ ],
+ [
+  {
+   "angular_velocity_std": 0.0,
+   "coin_density": 8.5,
+   "coin_diameter": 2.0,
+   "coin_friction": 0.44,
+   "coin_grid_size": 32,
+   "coin_grid_step": 20.0,
+   "coin_restitution": 0.3,
+   "coin_thickness": 0.9751313652809601,
+   "config_file": "cupronickel.json",
+   "exit_when_done": true,
+   "linear_velocity_std": 2.0,
+   "table_friction": 0.44,
+   "table_restitution": 0.603
+  },
+  {
+   "Edge": 359.0,
+   "Heads": 355.0,
+   "Tails": 310.0
+  }
+ ],
+ [
+  {
+   "angular_velocity_std": 0.0,
+   "coin_density": 8.5,
+   "coin_diameter": 2.0,
+   "coin_friction": 0.44,
+   "coin_grid_size": 32,
+   "coin_grid_step": 20.0,
+   "coin_restitution": 0.3,
+   "coin_thickness": 0.9749578114540587,
+   "config_file": "cupronickel.json",
+   "exit_when_done": true,
+   "linear_velocity_std": 2.0,
+   "table_friction": 0.44,
+   "table_restitution": 0.603
+  },
+  {
+   "Edge": 344.0,
+   "Heads": 324.0,
+   "Tails": 356.0
+  }
+ ],
+ [
+  {
+   "angular_velocity_std": 0.0,
+   "coin_density": 8.5,
+   "coin_diameter": 2.0,
+   "coin_friction": 0.44,
+   "coin_grid_size": 32,
+   "coin_grid_step": 20.0,
+   "coin_restitution": 0.3,
+   "coin_thickness": 0.9070145132237327,
+   "config_file": "cupronickel.json",
+   "exit_when_done": true,
+   "linear_velocity_std": 2.0,
+   "table_friction": 0.44,
+   "table_restitution": 0.603
+  },
+  {
+   "Edge": 307.0,
+   "Heads": 353.0,
+   "Tails": 364.0
+  }
+ ],
+ [
+  {
+   "angular_velocity_std": 0.0,
+   "coin_density": 8.5,
+   "coin_diameter": 2.0,
+   "coin_friction": 0.44,
+   "coin_grid_size": 32,
+   "coin_grid_step": 20.0,
+   "coin_restitution": 0.3,
+   "coin_thickness": 0.9744223826377425,
+   "config_file": "cupronickel.json",
+   "exit_when_done": true,
+   "linear_velocity_std": 2.0,
+   "table_friction": 0.44,
+   "table_restitution": 0.603
+  },
+  {
+   "Edge": 364.0,
+   "Heads": 333.0,
+   "Tails": 327.0
+  }
+ ],
+ [
+  {
+   "angular_velocity_std": 0.0,
+   "coin_density": 8.5,
+   "coin_diameter": 2.0,
+   "coin_friction": 0.44,
+   "coin_grid_size": 32,
+   "coin_grid_step": 20.0,
+   "coin_restitution": 0.3,
+   "coin_thickness": 0.9740290346831947,
+   "config_file": "cupronickel.json",
+   "exit_when_done": true,
+   "linear_velocity_std": 2.0,
+   "table_friction": 0.44,
+   "table_restitution": 0.603
+  },
+  {
+   "Edge": 333.0,
+   "Heads": 332.0,
+   "Tails": 359.0
+  }
+ ],
+ [
+  {
+   "angular_velocity_std": 0.0,
+   "coin_density": 8.5,
+   "coin_diameter": 2.0,
+   "coin_friction": 0.44,
+   "coin_grid_size": 32,
+   "coin_grid_step": 20.0,
+   "coin_restitution": 0.3,
+   "coin_thickness": 0.9742727954388916,
+   "config_file": "cupronickel.json",
+   "exit_when_done": true,
+   "linear_velocity_std": 2.0,
+   "table_friction": 0.44,
+   "table_restitution": 0.603
+  },
+  {
+   "Edge": 350.0,
+   "Heads": 342.0,
+   "Tails": 332.0
+  }
+ ],
+ [
+  {
+   "angular_velocity_std": 0.0,
+   "coin_density": 8.5,
+   "coin_diameter": 2.0,
+   "coin_friction": 0.44,
+   "coin_grid_size": 32,
+   "coin_grid_step": 20.0,
+   "coin_restitution": 0.3,
+   "coin_thickness": 0.9745023414180611,
+   "config_file": "cupronickel.json",
+   "exit_when_done": true,
+   "linear_velocity_std": 2.0,
+   "table_friction": 0.44,
+   "table_restitution": 0.603
+  },
+  {
+   "Edge": 338.0,
+   "Heads": 336.0,
+   "Tails": 349.0
+  }
+ ],
+ [
+  {
+   "angular_velocity_std": 0.0,
+   "coin_density": 8.5,
+   "coin_diameter": 2.0,
+   "coin_friction": 0.44,
+   "coin_grid_size": 32,
+   "coin_grid_step": 20.0,
+   "coin_restitution": 0.3,
+   "coin_thickness": 0.9750484079867683,
+   "config_file": "cupronickel.json",
+   "exit_when_done": true,
+   "linear_velocity_std": 2.0,
+   "table_friction": 0.44,
+   "table_restitution": 0.603
+  },
+  {
+   "Edge": 362.0,
+   "Heads": 324.0,
+   "Tails": 338.0
+  }
+ ],
+ [
+  {
+   "angular_velocity_std": 0.0,
+   "coin_density": 8.5,
+   "coin_diameter": 2.0,
+   "coin_friction": 0.44,
+   "coin_grid_size": 32,
+   "coin_grid_step": 20.0,
+   "coin_restitution": 0.3,
+   "coin_thickness": 0.974697145438218,
+   "config_file": "cupronickel.json",
+   "exit_when_done": true,
+   "linear_velocity_std": 2.0,
+   "table_friction": 0.44,
+   "table_restitution": 0.603
+  },
+  {
+   "Edge": 347.0,
+   "Heads": 354.0,
+   "Tails": 323.0
+  }
+ ],
+ [
+  {
+   "angular_velocity_std": 0.0,
+   "coin_density": 8.5,
+   "coin_diameter": 2.0,
+   "coin_friction": 0.44,
+   "coin_grid_size": 32,
+   "coin_grid_step": 20.0,
+   "coin_restitution": 0.3,
+   "coin_thickness": 0.9750828924287953,
+   "config_file": "cupronickel.json",
+   "exit_when_done": true,
+   "linear_velocity_std": 2.0,
+   "table_friction": 0.44,
+   "table_restitution": 0.603
+  },
+  {
+   "Edge": 324.0,
+   "Heads": 342.0,
+   "Tails": 358.0
+  }
+ ],
+ [
+  {
+   "angular_velocity_std": 0.0,
+   "coin_density": 8.5,
+   "coin_diameter": 2.0,
+   "coin_friction": 0.44,
+   "coin_grid_size": 32,
+   "coin_grid_step": 20.0,
+   "coin_restitution": 0.3,
+   "coin_thickness": 0.9748781731592018,
+   "config_file": "cupronickel.json",
+   "exit_when_done": true,
+   "linear_velocity_std": 2.0,
+   "table_friction": 0.44,
+   "table_restitution": 0.603
+  },
+  {
+   "Edge": 349.0,
+   "Heads": 354.0,
+   "Tails": 321.0
+  }
+ ],
+ [
+  {
+   "angular_velocity_std": 0.0,
+   "coin_density": 8.5,
+   "coin_diameter": 2.0,
+   "coin_friction": 0.44,
+   "coin_grid_size": 32,
+   "coin_grid_step": 20.0,
+   "coin_restitution": 0.3,
+   "coin_thickness": 0.9751493838357078,
+   "config_file": "cupronickel.json",
+   "exit_when_done": true,
+   "linear_velocity_std": 2.0,
+   "table_friction": 0.44,
+   "table_restitution": 0.603
+  },
+  {
+   "Edge": 366.0,
+   "Heads": 320.0,
+   "Tails": 338.0
+  }
+ ],
+ [
+  {
+   "angular_velocity_std": 0.0,
+   "coin_density": 8.5,
+   "coin_diameter": 2.0,
+   "coin_friction": 0.44,
+   "coin_grid_size": 32,
+   "coin_grid_step": 20.0,
+   "coin_restitution": 0.3,
+   "coin_thickness": 0.9746474490286366,
+   "config_file": "cupronickel.json",
+   "exit_when_done": true,
+   "linear_velocity_std": 2.0,
+   "table_friction": 0.44,
+   "table_restitution": 0.603
+  },
+  {
+   "Edge": 327.0,
+   "Heads": 351.0,
+   "Tails": 346.0
+  }
+ ],
+ [
+  {
+   "angular_velocity_std": 0.0,
+   "coin_density": 8.5,
+   "coin_diameter": 2.0,
+   "coin_friction": 0.44,
+   "coin_grid_size": 32,
+   "coin_grid_step": 20.0,
+   "coin_restitution": 0.3,
+   "coin_thickness": 1.9265104612437602,
+   "config_file": "cupronickel.json",
    "exit_when_done": true,
    "linear_velocity_std": 0.0,
    "table_friction": 0.44,
    "table_restitution": 0.603
   },
   {
-   "Edge": 323.0,
+   "Edge": 837.0,
+   "Heads": 93.0,
+   "Tails": 94.0
+  }
+ ],
+ [
+  {
+   "angular_velocity_std": 0.0,
+   "coin_density": 8.5,
+   "coin_diameter": 2.0,
+   "coin_friction": 0.44,
+   "coin_grid_size": 32,
+   "coin_grid_step": 20.0,
+   "coin_restitution": 0.3,
+   "coin_thickness": 0.8735431944038579,
+   "config_file": "cupronickel.json",
+   "exit_when_done": true,
+   "linear_velocity_std": 0.0,
+   "table_friction": 0.44,
+   "table_restitution": 0.603
+  },
+  {
+   "Edge": 239.0,
+   "Heads": 392.0,
+   "Tails": 393.0
+  }
+ ],
+ [
+  {
+   "angular_velocity_std": 0.0,
+   "coin_density": 8.5,
+   "coin_diameter": 2.0,
+   "coin_friction": 0.44,
+   "coin_grid_size": 32,
+   "coin_grid_step": 20.0,
+   "coin_restitution": 0.3,
+   "coin_thickness": 0.8018659628438791,
+   "config_file": "cupronickel.json",
+   "exit_when_done": true,
+   "linear_velocity_std": 0.0,
+   "table_friction": 0.44,
+   "table_restitution": 0.603
+  },
+  {
+   "Edge": 189.0,
+   "Heads": 420.0,
+   "Tails": 415.0
+  }
+ ],
+ [
+  {
+   "angular_velocity_std": 0.0,
+   "coin_density": 8.5,
+   "coin_diameter": 2.0,
+   "coin_friction": 0.44,
+   "coin_grid_size": 32,
+   "coin_grid_step": 20.0,
+   "coin_restitution": 0.3,
+   "coin_thickness": 0.8425396418298696,
+   "config_file": "cupronickel.json",
+   "exit_when_done": true,
+   "linear_velocity_std": 0.0,
+   "table_friction": 0.44,
+   "table_restitution": 0.603
+  },
+  {
+   "Edge": 243.0,
+   "Heads": 379.0,
+   "Tails": 402.0
+  }
+ ],
+ [
+  {
+   "angular_velocity_std": 0.0,
+   "coin_density": 8.5,
+   "coin_diameter": 2.0,
+   "coin_friction": 0.44,
+   "coin_grid_size": 32,
+   "coin_grid_step": 20.0,
+   "coin_restitution": 0.3,
+   "coin_thickness": 0.9435411619784636,
+   "config_file": "cupronickel.json",
+   "exit_when_done": true,
+   "linear_velocity_std": 0.0,
+   "table_friction": 0.44,
+   "table_restitution": 0.603
+  },
+  {
+   "Edge": 308.0,
+   "Heads": 348.0,
+   "Tails": 368.0
+  }
+ ],
+ [
+  {
+   "angular_velocity_std": 0.0,
+   "coin_density": 8.5,
+   "coin_diameter": 2.0,
+   "coin_friction": 0.44,
+   "coin_grid_size": 32,
+   "coin_grid_step": 20.0,
+   "coin_restitution": 0.3,
+   "coin_thickness": 1.2756821090924229,
+   "config_file": "cupronickel.json",
+   "exit_when_done": true,
+   "linear_velocity_std": 0.0,
+   "table_friction": 0.44,
+   "table_restitution": 0.603
+  },
+  {
+   "Edge": 548.0,
+   "Heads": 219.0,
+   "Tails": 257.0
+  }
+ ],
+ [
+  {
+   "angular_velocity_std": 0.0,
+   "coin_density": 8.5,
+   "coin_diameter": 2.0,
+   "coin_friction": 0.44,
+   "coin_grid_size": 32,
+   "coin_grid_step": 20.0,
+   "coin_restitution": 0.3,
+   "coin_thickness": 0.1,
+   "config_file": "cupronickel.json",
+   "exit_when_done": true,
+   "linear_velocity_std": 0.0,
+   "table_friction": 0.44,
+   "table_restitution": 0.603
+  },
+  {
+   "Edge": 1.0,
+   "Heads": 525.0,
+   "Tails": 497.0
+  }
+ ],
+ [
+  {
+   "angular_velocity_std": 0.0,
+   "coin_density": 8.5,
+   "coin_diameter": 2.0,
+   "coin_friction": 0.44,
+   "coin_grid_size": 32,
+   "coin_grid_step": 20.0,
+   "coin_restitution": 0.3,
+   "coin_thickness": 1.057142993968111,
+   "config_file": "cupronickel.json",
+   "exit_when_done": true,
+   "linear_velocity_std": 0.0,
+   "table_friction": 0.44,
+   "table_restitution": 0.603
+  },
+  {
+   "Edge": 370.0,
+   "Heads": 332.0,
+   "Tails": 322.0
+  }
+ ],
+ [
+  {
+   "angular_velocity_std": 0.0,
+   "coin_density": 8.5,
+   "coin_diameter": 2.0,
+   "coin_friction": 0.44,
+   "coin_grid_size": 32,
+   "coin_grid_step": 20.0,
+   "coin_restitution": 0.3,
+   "coin_thickness": 1.0140958545508731,
+   "config_file": "cupronickel.json",
+   "exit_when_done": true,
+   "linear_velocity_std": 0.0,
+   "table_friction": 0.44,
+   "table_restitution": 0.603
+  },
+  {
+   "Edge": 351.0,
+   "Heads": 340.0,
+   "Tails": 333.0
+  }
+ ],
+ [
+  {
+   "angular_velocity_std": 0.0,
+   "coin_density": 8.5,
+   "coin_diameter": 2.0,
+   "coin_friction": 0.44,
+   "coin_grid_size": 32,
+   "coin_grid_step": 20.0,
+   "coin_restitution": 0.3,
+   "coin_thickness": 1.0147155994356367,
+   "config_file": "cupronickel.json",
+   "exit_when_done": true,
+   "linear_velocity_std": 0.0,
+   "table_friction": 0.44,
+   "table_restitution": 0.603
+  },
+  {
+   "Edge": 344.0,
+   "Heads": 326.0,
+   "Tails": 354.0
+  }
+ ],
+ [
+  {
+   "angular_velocity_std": 0.0,
+   "coin_density": 8.5,
+   "coin_diameter": 2.0,
+   "coin_friction": 0.44,
+   "coin_grid_size": 32,
+   "coin_grid_step": 20.0,
+   "coin_restitution": 0.3,
+   "coin_thickness": 0.4494509784205126,
+   "config_file": "cupronickel.json",
+   "exit_when_done": true,
+   "linear_velocity_std": 0.0,
+   "table_friction": 0.44,
+   "table_restitution": 0.603
+  },
+  {
+   "Edge": 28.0,
+   "Heads": 509.0,
+   "Tails": 487.0
+  }
+ ],
+ [
+  {
+   "angular_velocity_std": 0.0,
+   "coin_density": 8.5,
+   "coin_diameter": 2.0,
+   "coin_friction": 0.44,
+   "coin_grid_size": 32,
+   "coin_grid_step": 20.0,
+   "coin_restitution": 0.3,
+   "coin_thickness": 1.017843679946057,
+   "config_file": "cupronickel.json",
+   "exit_when_done": true,
+   "linear_velocity_std": 0.0,
+   "table_friction": 0.44,
+   "table_restitution": 0.603
+  },
+  {
+   "Edge": 344.0,
+   "Heads": 321.0,
+   "Tails": 359.0
+  }
+ ],
+ [
+  {
+   "angular_velocity_std": 0.0,
+   "coin_density": 8.5,
+   "coin_diameter": 2.0,
+   "coin_friction": 0.44,
+   "coin_grid_size": 32,
+   "coin_grid_step": 20.0,
+   "coin_restitution": 0.3,
+   "coin_thickness": 1.0091034216260821,
+   "config_file": "cupronickel.json",
+   "exit_when_done": true,
+   "linear_velocity_std": 0.0,
+   "table_friction": 0.44,
+   "table_restitution": 0.603
+  },
+  {
+   "Edge": 369.0,
+   "Heads": 332.0,
+   "Tails": 323.0
+  }
+ ],
+ [
+  {
+   "angular_velocity_std": 0.0,
+   "coin_density": 8.5,
+   "coin_diameter": 2.0,
+   "coin_friction": 0.44,
+   "coin_grid_size": 32,
+   "coin_grid_step": 20.0,
+   "coin_restitution": 0.3,
+   "coin_thickness": 1.0270544820163803,
+   "config_file": "cupronickel.json",
+   "exit_when_done": true,
+   "linear_velocity_std": 0.0,
+   "table_friction": 0.44,
+   "table_restitution": 0.603
+  },
+  {
+   "Edge": 349.0,
+   "Heads": 318.0,
+   "Tails": 357.0
+  }
+ ],
+ [
+  {
+   "angular_velocity_std": 0.0,
+   "coin_density": 8.5,
+   "coin_diameter": 2.0,
+   "coin_friction": 0.44,
+   "coin_grid_size": 32,
+   "coin_grid_step": 20.0,
+   "coin_restitution": 0.3,
+   "coin_thickness": 1.079551193534765,
+   "config_file": "cupronickel.json",
+   "exit_when_done": true,
+   "linear_velocity_std": 0.0,
+   "table_friction": 0.44,
+   "table_restitution": 0.603
+  },
+  {
+   "Edge": 363.0,
+   "Heads": 318.0,
+   "Tails": 343.0
+  }
+ ],
+ [
+  {
+   "angular_velocity_std": 0.0,
+   "coin_density": 8.5,
+   "coin_diameter": 2.0,
+   "coin_friction": 0.44,
+   "coin_grid_size": 32,
+   "coin_grid_step": 20.0,
+   "coin_restitution": 0.3,
+   "coin_thickness": 1.0209746891198284,
+   "config_file": "cupronickel.json",
+   "exit_when_done": true,
+   "linear_velocity_std": 0.0,
+   "table_friction": 0.44,
+   "table_restitution": 0.603
+  },
+  {
+   "Edge": 319.0,
+   "Heads": 342.0,
+   "Tails": 362.0
+  }
+ ],
+ [
+  {
+   "angular_velocity_std": 0.0,
+   "coin_density": 8.5,
+   "coin_diameter": 2.0,
+   "coin_friction": 0.44,
+   "coin_grid_size": 32,
+   "coin_grid_step": 20.0,
+   "coin_restitution": 0.3,
+   "coin_thickness": 1.0218372095027553,
+   "config_file": "cupronickel.json",
+   "exit_when_done": true,
+   "linear_velocity_std": 0.0,
+   "table_friction": 0.44,
+   "table_restitution": 0.603
+  },
+  {
+   "Edge": 362.0,
+   "Heads": 319.0,
+   "Tails": 343.0
+  }
+ ],
+ [
+  {
+   "angular_velocity_std": 0.0,
+   "coin_density": 8.5,
+   "coin_diameter": 2.0,
+   "coin_friction": 0.44,
+   "coin_grid_size": 32,
+   "coin_grid_step": 20.0,
+   "coin_restitution": 0.3,
+   "coin_thickness": 1.0221825929491581,
+   "config_file": "cupronickel.json",
+   "exit_when_done": true,
+   "linear_velocity_std": 0.0,
+   "table_friction": 0.44,
+   "table_restitution": 0.603
+  },
+  {
+   "Edge": 352.0,
+   "Heads": 321.0,
+   "Tails": 351.0
+  }
+ ],
+ [
+  {
+   "angular_velocity_std": 0.0,
+   "coin_density": 8.5,
+   "coin_diameter": 2.0,
+   "coin_friction": 0.44,
+   "coin_grid_size": 32,
+   "coin_grid_step": 20.0,
+   "coin_restitution": 0.3,
+   "coin_thickness": 1.021949080110373,
+   "config_file": "cupronickel.json",
+   "exit_when_done": true,
+   "linear_velocity_std": 0.0,
+   "table_friction": 0.44,
+   "table_restitution": 0.603
+  },
+  {
+   "Edge": 348.0,
+   "Heads": 340.0,
+   "Tails": 336.0
+  }
+ ],
+ [
+  {
+   "angular_velocity_std": 0.0,
+   "coin_density": 8.5,
+   "coin_diameter": 2.0,
+   "coin_friction": 0.44,
+   "coin_grid_size": 32,
+   "coin_grid_step": 20.0,
+   "coin_restitution": 0.3,
+   "coin_thickness": 1.5925666480696201,
+   "config_file": "cupronickel.json",
+   "exit_when_done": true,
+   "linear_velocity_std": 0.0,
+   "table_friction": 0.44,
+   "table_restitution": 0.603
+  },
+  {
+   "Edge": 742.0,
+   "Heads": 140.0,
+   "Tails": 142.0
+  }
+ ],
+ [
+  {
+   "angular_velocity_std": 0.0,
+   "coin_density": 8.5,
+   "coin_diameter": 2.0,
+   "coin_friction": 0.44,
+   "coin_grid_size": 32,
+   "coin_grid_step": 20.0,
+   "coin_restitution": 0.3,
+   "coin_thickness": 1.0196743290467496,
+   "config_file": "cupronickel.json",
+   "exit_when_done": true,
+   "linear_velocity_std": 0.0,
+   "table_friction": 0.44,
+   "table_restitution": 0.603
+  },
+  {
+   "Edge": 356.0,
+   "Heads": 354.0,
+   "Tails": 314.0
+  }
+ ],
+ [
+  {
+   "angular_velocity_std": 0.0,
+   "coin_density": 8.5,
+   "coin_diameter": 2.0,
+   "coin_friction": 0.44,
+   "coin_grid_size": 32,
+   "coin_grid_step": 20.0,
+   "coin_restitution": 0.3,
+   "coin_thickness": 1.0200096326183088,
+   "config_file": "cupronickel.json",
+   "exit_when_done": true,
+   "linear_velocity_std": 0.0,
+   "table_friction": 0.44,
+   "table_restitution": 0.603
+  },
+  {
+   "Edge": 344.0,
+   "Heads": 360.0,
+   "Tails": 320.0
+  }
+ ],
+ [
+  {
+   "angular_velocity_std": 0.0,
+   "coin_density": 8.5,
+   "coin_diameter": 2.0,
+   "coin_friction": 0.44,
+   "coin_grid_size": 32,
+   "coin_grid_step": 20.0,
+   "coin_restitution": 0.3,
+   "coin_thickness": 1.0822134087324253,
+   "config_file": "cupronickel.json",
+   "exit_when_done": true,
+   "linear_velocity_std": 0.0,
+   "table_friction": 0.44,
+   "table_restitution": 0.603
+  },
+  {
+   "Edge": 380.0,
+   "Heads": 347.0,
+   "Tails": 297.0
+  }
+ ],
+ [
+  {
+   "angular_velocity_std": 0.0,
+   "coin_density": 8.5,
+   "coin_diameter": 2.0,
+   "coin_friction": 0.44,
+   "coin_grid_size": 32,
+   "coin_grid_step": 20.0,
+   "coin_restitution": 0.3,
+   "coin_thickness": 0.9835901141683638,
+   "config_file": "cupronickel.json",
+   "exit_when_done": true,
+   "linear_velocity_std": 0.0,
+   "table_friction": 0.44,
+   "table_restitution": 0.603
+  },
+  {
+   "Edge": 319.0,
    "Heads": 361.0,
+   "Tails": 344.0
+  }
+ ],
+ [
+  {
+   "angular_velocity_std": 0.0,
+   "coin_density": 8.5,
+   "coin_diameter": 2.0,
+   "coin_friction": 0.44,
+   "coin_grid_size": 32,
+   "coin_grid_step": 20.0,
+   "coin_restitution": 0.3,
+   "coin_thickness": 1.0151496594627623,
+   "config_file": "cupronickel.json",
+   "exit_when_done": true,
+   "linear_velocity_std": 0.0,
+   "table_friction": 0.44,
+   "table_restitution": 0.603
+  },
+  {
+   "Edge": 345.0,
+   "Heads": 339.0,
+   "Tails": 340.0
+  }
+ ],
+ [
+  {
+   "angular_velocity_std": 0.0,
+   "coin_density": 8.5,
+   "coin_diameter": 2.0,
+   "coin_friction": 0.44,
+   "coin_grid_size": 32,
+   "coin_grid_step": 20.0,
+   "coin_restitution": 0.3,
+   "coin_thickness": 1.0146529682690908,
+   "config_file": "cupronickel.json",
+   "exit_when_done": true,
+   "linear_velocity_std": 0.0,
+   "table_friction": 0.44,
+   "table_restitution": 0.603
+  },
+  {
+   "Edge": 351.0,
+   "Heads": 346.0,
+   "Tails": 327.0
+  }
+ ],
+ [
+  {
+   "angular_velocity_std": 0.0,
+   "coin_density": 8.5,
+   "coin_diameter": 2.0,
+   "coin_friction": 0.44,
+   "coin_grid_size": 32,
+   "coin_grid_step": 20.0,
+   "coin_restitution": 0.3,
+   "coin_thickness": 0.980507577762878,
+   "config_file": "cupronickel.json",
+   "exit_when_done": true,
+   "linear_velocity_std": 0.0,
+   "table_friction": 0.44,
+   "table_restitution": 0.603
+  },
+  {
+   "Edge": 350.0,
+   "Heads": 362.0,
+   "Tails": 312.0
+  }
+ ],
+ [
+  {
+   "angular_velocity_std": 0.0,
+   "coin_density": 8.5,
+   "coin_diameter": 2.0,
+   "coin_friction": 0.44,
+   "coin_grid_size": 32,
+   "coin_grid_step": 20.0,
+   "coin_restitution": 0.3,
+   "coin_thickness": 0.9812273800078518,
+   "config_file": "cupronickel.json",
+   "exit_when_done": true,
+   "linear_velocity_std": 0.0,
+   "table_friction": 0.44,
+   "table_restitution": 0.603
+  },
+  {
+   "Edge": 330.0,
+   "Heads": 364.0,
+   "Tails": 330.0
+  }
+ ],
+ [
+  {
+   "angular_velocity_std": 0.0,
+   "coin_density": 8.5,
+   "coin_diameter": 2.0,
+   "coin_friction": 0.44,
+   "coin_grid_size": 32,
+   "coin_grid_step": 20.0,
+   "coin_restitution": 0.3,
+   "coin_thickness": 0.981133476751539,
+   "config_file": "cupronickel.json",
+   "exit_when_done": true,
+   "linear_velocity_std": 0.0,
+   "table_friction": 0.44,
+   "table_restitution": 0.603
+  },
+  {
+   "Edge": 345.0,
+   "Heads": 333.0,
+   "Tails": 346.0
+  }
+ ],
+ [
+  {
+   "angular_velocity_std": 0.0,
+   "coin_density": 8.5,
+   "coin_diameter": 2.0,
+   "coin_friction": 0.44,
+   "coin_grid_size": 32,
+   "coin_grid_step": 20.0,
+   "coin_restitution": 0.3,
+   "coin_thickness": 0.9811088209034606,
+   "config_file": "cupronickel.json",
+   "exit_when_done": true,
+   "linear_velocity_std": 0.0,
+   "table_friction": 0.44,
+   "table_restitution": 0.603
+  },
+  {
+   "Edge": 340.0,
+   "Heads": 336.0,
+   "Tails": 348.0
+  }
+ ],
+ [
+  {
+   "angular_velocity_std": 0.0,
+   "coin_density": 8.5,
+   "coin_diameter": 2.0,
+   "coin_friction": 0.44,
+   "coin_grid_size": 32,
+   "coin_grid_step": 20.0,
+   "coin_restitution": 0.3,
+   "coin_thickness": 0.9772516373716796,
+   "config_file": "cupronickel.json",
+   "exit_when_done": true,
+   "linear_velocity_std": 0.0,
+   "table_friction": 0.44,
+   "table_restitution": 0.603
+  },
+  {
+   "Edge": 339.0,
+   "Heads": 344.0,
+   "Tails": 341.0
+  }
+ ],
+ [
+  {
+   "angular_velocity_std": 0.0,
+   "coin_density": 8.5,
+   "coin_diameter": 2.0,
+   "coin_friction": 0.44,
+   "coin_grid_size": 32,
+   "coin_grid_step": 20.0,
+   "coin_restitution": 0.3,
+   "coin_thickness": 1.0047848815697709,
+   "config_file": "cupronickel.json",
+   "exit_when_done": true,
+   "linear_velocity_std": 0.0,
+   "table_friction": 0.44,
+   "table_restitution": 0.603
+  },
+  {
+   "Edge": 359.0,
+   "Heads": 330.0,
+   "Tails": 335.0
+  }
+ ],
+ [
+  {
+   "angular_velocity_std": 0.0,
+   "coin_density": 8.5,
+   "coin_diameter": 2.0,
+   "coin_friction": 0.44,
+   "coin_grid_size": 32,
+   "coin_grid_step": 20.0,
+   "coin_restitution": 0.3,
+   "coin_thickness": 0.9745860726366843,
+   "config_file": "cupronickel.json",
+   "exit_when_done": true,
+   "linear_velocity_std": 0.0,
+   "table_friction": 0.44,
+   "table_restitution": 0.603
+  },
+  {
+   "Edge": 319.0,
+   "Heads": 372.0,
+   "Tails": 333.0
+  }
+ ],
+ [
+  {
+   "angular_velocity_std": 0.0,
+   "coin_density": 8.5,
+   "coin_diameter": 2.0,
+   "coin_friction": 0.44,
+   "coin_grid_size": 32,
+   "coin_grid_step": 20.0,
+   "coin_restitution": 0.3,
+   "coin_thickness": 1.0961991382687926,
+   "config_file": "cupronickel.json",
+   "exit_when_done": true,
+   "linear_velocity_std": 0.0,
+   "table_friction": 0.44,
+   "table_restitution": 0.603
+  },
+  {
+   "Edge": 403.0,
+   "Heads": 311.0,
+   "Tails": 309.0
+  }
+ ],
+ [
+  {
+   "angular_velocity_std": 0.0,
+   "coin_density": 8.5,
+   "coin_diameter": 2.0,
+   "coin_friction": 0.44,
+   "coin_grid_size": 32,
+   "coin_grid_step": 20.0,
+   "coin_restitution": 0.3,
+   "coin_thickness": 0.9743676343046689,
+   "config_file": "cupronickel.json",
+   "exit_when_done": true,
+   "linear_velocity_std": 0.0,
+   "table_friction": 0.44,
+   "table_restitution": 0.603
+  },
+  {
+   "Edge": 317.0,
+   "Heads": 348.0,
+   "Tails": 359.0
+  }
+ ],
+ [
+  {
+   "angular_velocity_std": 0.0,
+   "coin_density": 8.5,
+   "coin_diameter": 2.0,
+   "coin_friction": 0.44,
+   "coin_grid_size": 32,
+   "coin_grid_step": 20.0,
+   "coin_restitution": 0.3,
+   "coin_thickness": 1.0063598082492915,
+   "config_file": "cupronickel.json",
+   "exit_when_done": true,
+   "linear_velocity_std": 0.0,
+   "table_friction": 0.44,
+   "table_restitution": 0.603
+  },
+  {
+   "Edge": 368.0,
+   "Heads": 323.0,
+   "Tails": 333.0
+  }
+ ],
+ [
+  {
+   "angular_velocity_std": 0.0,
+   "coin_density": 8.5,
+   "coin_diameter": 2.0,
+   "coin_friction": 0.44,
+   "coin_grid_size": 32,
+   "coin_grid_step": 20.0,
+   "coin_restitution": 0.3,
+   "coin_thickness": 1.0063791766343977,
+   "config_file": "cupronickel.json",
+   "exit_when_done": true,
+   "linear_velocity_std": 0.0,
+   "table_friction": 0.44,
+   "table_restitution": 0.603
+  },
+  {
+   "Edge": 359.0,
+   "Heads": 315.0,
+   "Tails": 350.0
+  }
+ ],
+ [
+  {
+   "angular_velocity_std": 0.0,
+   "coin_density": 8.5,
+   "coin_diameter": 2.0,
+   "coin_friction": 0.44,
+   "coin_grid_size": 32,
+   "coin_grid_step": 20.0,
+   "coin_restitution": 0.3,
+   "coin_thickness": 1.0064102041555614,
+   "config_file": "cupronickel.json",
+   "exit_when_done": true,
+   "linear_velocity_std": 0.0,
+   "table_friction": 0.44,
+   "table_restitution": 0.603
+  },
+  {
+   "Edge": 349.0,
+   "Heads": 348.0,
+   "Tails": 327.0
+  }
+ ],
+ [
+  {
+   "angular_velocity_std": 0.0,
+   "coin_density": 8.5,
+   "coin_diameter": 2.0,
+   "coin_friction": 0.44,
+   "coin_grid_size": 32,
+   "coin_grid_step": 20.0,
+   "coin_restitution": 0.3,
+   "coin_thickness": 1.0064138804809308,
+   "config_file": "cupronickel.json",
+   "exit_when_done": true,
+   "linear_velocity_std": 0.0,
+   "table_friction": 0.44,
+   "table_restitution": 0.603
+  },
+  {
+   "Edge": 331.0,
+   "Heads": 352.0,
+   "Tails": 341.0
+  }
+ ],
+ [
+  {
+   "angular_velocity_std": 0.0,
+   "coin_density": 8.5,
+   "coin_diameter": 2.0,
+   "coin_friction": 0.44,
+   "coin_grid_size": 32,
+   "coin_grid_step": 20.0,
+   "coin_restitution": 0.3,
+   "coin_thickness": 1.0064261933396574,
+   "config_file": "cupronickel.json",
+   "exit_when_done": true,
+   "linear_velocity_std": 0.0,
+   "table_friction": 0.44,
+   "table_restitution": 0.603
+  },
+  {
+   "Edge": 366.0,
+   "Heads": 320.0,
+   "Tails": 338.0
+  }
+ ],
+ [
+  {
+   "angular_velocity_std": 0.0,
+   "coin_density": 8.5,
+   "coin_diameter": 2.0,
+   "coin_friction": 0.44,
+   "coin_grid_size": 32,
+   "coin_grid_step": 20.0,
+   "coin_restitution": 0.3,
+   "coin_thickness": 1.0064589954794783,
+   "config_file": "cupronickel.json",
+   "exit_when_done": true,
+   "linear_velocity_std": 0.0,
+   "table_friction": 0.44,
+   "table_restitution": 0.603
+  },
+  {
+   "Edge": 333.0,
+   "Heads": 337.0,
+   "Tails": 354.0
+  }
+ ],
+ [
+  {
+   "angular_velocity_std": 0.0,
+   "coin_density": 8.5,
+   "coin_diameter": 2.0,
+   "coin_friction": 0.44,
+   "coin_grid_size": 32,
+   "coin_grid_step": 20.0,
+   "coin_restitution": 0.3,
+   "coin_thickness": 1.0064609536534324,
+   "config_file": "cupronickel.json",
+   "exit_when_done": true,
+   "linear_velocity_std": 0.0,
+   "table_friction": 0.44,
+   "table_restitution": 0.603
+  },
+  {
+   "Edge": 367.0,
+   "Heads": 341.0,
+   "Tails": 316.0
+  }
+ ],
+ [
+  {
+   "angular_velocity_std": 0.0,
+   "coin_density": 8.5,
+   "coin_diameter": 2.0,
+   "coin_friction": 0.44,
+   "coin_grid_size": 32,
+   "coin_grid_step": 20.0,
+   "coin_restitution": 0.3,
+   "coin_thickness": 1.0065010258685236,
+   "config_file": "cupronickel.json",
+   "exit_when_done": true,
+   "linear_velocity_std": 0.0,
+   "table_friction": 0.44,
+   "table_restitution": 0.603
+  },
+  {
+   "Edge": 354.0,
+   "Heads": 333.0,
+   "Tails": 337.0
+  }
+ ],
+ [
+  {
+   "angular_velocity_std": 0.0,
+   "coin_density": 8.5,
+   "coin_diameter": 2.0,
+   "coin_friction": 0.44,
+   "coin_grid_size": 32,
+   "coin_grid_step": 20.0,
+   "coin_restitution": 0.3,
+   "coin_thickness": 1.006510947246361,
+   "config_file": "cupronickel.json",
+   "exit_when_done": true,
+   "linear_velocity_std": 0.0,
+   "table_friction": 0.44,
+   "table_restitution": 0.603
+  },
+  {
+   "Edge": 305.0,
+   "Heads": 380.0,
+   "Tails": 339.0
+  }
+ ],
+ [
+  {
+   "angular_velocity_std": 0.0,
+   "coin_density": 8.5,
+   "coin_diameter": 2.0,
+   "coin_friction": 0.44,
+   "coin_grid_size": 32,
+   "coin_grid_step": 20.0,
+   "coin_restitution": 0.3,
+   "coin_thickness": 1.0066142052636515,
+   "config_file": "cupronickel.json",
+   "exit_when_done": true,
+   "linear_velocity_std": 0.0,
+   "table_friction": 0.44,
+   "table_restitution": 0.603
+  },
+  {
+   "Edge": 362.0,
+   "Heads": 314.0,
+   "Tails": 348.0
+  }
+ ],
+ [
+  {
+   "angular_velocity_std": 0.0,
+   "coin_density": 8.5,
+   "coin_diameter": 2.0,
+   "coin_friction": 0.44,
+   "coin_grid_size": 32,
+   "coin_grid_step": 20.0,
+   "coin_restitution": 0.3,
+   "coin_thickness": 1.0066486624821558,
+   "config_file": "cupronickel.json",
+   "exit_when_done": true,
+   "linear_velocity_std": 0.0,
+   "table_friction": 0.44,
+   "table_restitution": 0.603
+  },
+  {
+   "Edge": 364.0,
+   "Heads": 324.0,
+   "Tails": 336.0
+  }
+ ],
+ [
+  {
+   "angular_velocity_std": 0.0,
+   "coin_density": 8.5,
+   "coin_diameter": 2.0,
+   "coin_friction": 0.44,
+   "coin_grid_size": 32,
+   "coin_grid_step": 20.0,
+   "coin_restitution": 0.3,
+   "coin_thickness": 1.0066906130522864,
+   "config_file": "cupronickel.json",
+   "exit_when_done": true,
+   "linear_velocity_std": 0.0,
+   "table_friction": 0.44,
+   "table_restitution": 0.603
+  },
+  {
+   "Edge": 344.0,
+   "Heads": 344.0,
+   "Tails": 336.0
+  }
+ ],
+ [
+  {
+   "angular_velocity_std": 0.0,
+   "coin_density": 8.5,
+   "coin_diameter": 2.0,
+   "coin_friction": 0.44,
+   "coin_grid_size": 32,
+   "coin_grid_step": 20.0,
+   "coin_restitution": 0.3,
+   "coin_thickness": 1.0066569550423465,
+   "config_file": "cupronickel.json",
+   "exit_when_done": true,
+   "linear_velocity_std": 0.0,
+   "table_friction": 0.44,
+   "table_restitution": 0.603
+  },
+  {
+   "Edge": 374.0,
+   "Heads": 339.0,
+   "Tails": 311.0
+  }
+ ],
+ [
+  {
+   "angular_velocity_std": 0.0,
+   "coin_density": 8.5,
+   "coin_diameter": 2.0,
+   "coin_friction": 0.44,
+   "coin_grid_size": 32,
+   "coin_grid_step": 20.0,
+   "coin_restitution": 0.3,
+   "coin_thickness": 1.006771870393556,
+   "config_file": "cupronickel.json",
+   "exit_when_done": true,
+   "linear_velocity_std": 0.0,
+   "table_friction": 0.44,
+   "table_restitution": 0.603
+  },
+  {
+   "Edge": 358.0,
+   "Heads": 330.0,
+   "Tails": 335.0
+  }
+ ],
+ [
+  {
+   "angular_velocity_std": 0.0,
+   "coin_density": 8.5,
+   "coin_diameter": 2.0,
+   "coin_friction": 0.44,
+   "coin_grid_size": 32,
+   "coin_grid_step": 20.0,
+   "coin_restitution": 0.3,
+   "coin_thickness": 1.006777293517505,
+   "config_file": "cupronickel.json",
+   "exit_when_done": true,
+   "linear_velocity_std": 0.0,
+   "table_friction": 0.44,
+   "table_restitution": 0.603
+  },
+  {
+   "Edge": 343.0,
+   "Heads": 364.0,
+   "Tails": 317.0
+  }
+ ],
+ [
+  {
+   "angular_velocity_std": 0.0,
+   "coin_density": 8.5,
+   "coin_diameter": 2.0,
+   "coin_friction": 0.44,
+   "coin_grid_size": 32,
+   "coin_grid_step": 20.0,
+   "coin_restitution": 0.3,
+   "coin_thickness": 1.0067441663976562,
+   "config_file": "cupronickel.json",
+   "exit_when_done": true,
+   "linear_velocity_std": 0.0,
+   "table_friction": 0.44,
+   "table_restitution": 0.603
+  },
+  {
+   "Edge": 330.0,
+   "Heads": 311.0,
+   "Tails": 383.0
+  }
+ ],
+ [
+  {
+   "angular_velocity_std": 0.0,
+   "coin_density": 8.5,
+   "coin_diameter": 2.0,
+   "coin_friction": 0.44,
+   "coin_grid_size": 32,
+   "coin_grid_step": 20.0,
+   "coin_restitution": 0.3,
+   "coin_thickness": 1.006731186418256,
+   "config_file": "cupronickel.json",
+   "exit_when_done": true,
+   "linear_velocity_std": 0.0,
+   "table_friction": 0.44,
+   "table_restitution": 0.603
+  },
+  {
+   "Edge": 359.0,
+   "Heads": 325.0,
+   "Tails": 340.0
+  }
+ ],
+ [
+  {
+   "angular_velocity_std": 0.0,
+   "coin_density": 8.5,
+   "coin_diameter": 2.0,
+   "coin_friction": 0.44,
+   "coin_grid_size": 32,
+   "coin_grid_step": 20.0,
+   "coin_restitution": 0.3,
+   "coin_thickness": 1.006741395529149,
+   "config_file": "cupronickel.json",
+   "exit_when_done": true,
+   "linear_velocity_std": 0.0,
+   "table_friction": 0.44,
+   "table_restitution": 0.603
+  },
+  {
+   "Edge": 327.0,
+   "Heads": 349.0,
+   "Tails": 348.0
+  }
+ ],
+ [
+  {
+   "angular_velocity_std": 0.0,
+   "coin_density": 8.5,
+   "coin_diameter": 2.0,
+   "coin_friction": 0.44,
+   "coin_grid_size": 32,
+   "coin_grid_step": 20.0,
+   "coin_restitution": 0.3,
+   "coin_thickness": 1.006736145525395,
+   "config_file": "cupronickel.json",
+   "exit_when_done": true,
+   "linear_velocity_std": 0.0,
+   "table_friction": 0.44,
+   "table_restitution": 0.603
+  },
+  {
+   "Edge": 322.0,
+   "Heads": 369.0,
+   "Tails": 333.0
+  }
+ ],
+ [
+  {
+   "angular_velocity_std": 0.0,
+   "coin_density": 8.5,
+   "coin_diameter": 2.0,
+   "coin_friction": 0.44,
+   "coin_grid_size": 32,
+   "coin_grid_step": 20.0,
+   "coin_restitution": 0.3,
+   "coin_thickness": 1.0067543427708041,
+   "config_file": "cupronickel.json",
+   "exit_when_done": true,
+   "linear_velocity_std": 0.0,
+   "table_friction": 0.44,
+   "table_restitution": 0.603
+  },
+  {
+   "Edge": 356.0,
+   "Heads": 323.0,
+   "Tails": 345.0
+  }
+ ],
+ [
+  {
+   "angular_velocity_std": 4.0,
+   "coin_density": 8.5,
+   "coin_diameter": 2.0,
+   "coin_friction": 0.44,
+   "coin_grid_size": 32,
+   "coin_grid_step": 20.0,
+   "coin_restitution": 0.3,
+   "coin_thickness": 1.4793682987614831,
+   "config_file": "cupronickel.json",
+   "exit_when_done": true,
+   "linear_velocity_std": 2.0,
+   "table_friction": 0.44,
+   "table_restitution": 0.603
+  },
+  {
+   "Edge": 778.0,
+   "Heads": 111.0,
+   "Tails": 135.0
+  }
+ ],
+ [
+  {
+   "angular_velocity_std": 4.0,
+   "coin_density": 8.5,
+   "coin_diameter": 2.0,
+   "coin_friction": 0.44,
+   "coin_grid_size": 32,
+   "coin_grid_step": 20.0,
+   "coin_restitution": 0.3,
+   "coin_thickness": 0.7071696429730973,
+   "config_file": "cupronickel.json",
+   "exit_when_done": true,
+   "linear_velocity_std": 2.0,
+   "table_friction": 0.44,
+   "table_restitution": 0.603
+  },
+  {
+   "Edge": 168.0,
+   "Heads": 421.0,
+   "Tails": 435.0
+  }
+ ],
+ [
+  {
+   "angular_velocity_std": 4.0,
+   "coin_density": 8.5,
+   "coin_diameter": 2.0,
+   "coin_friction": 0.44,
+   "coin_grid_size": 32,
+   "coin_grid_step": 20.0,
+   "coin_restitution": 0.3,
+   "coin_thickness": 0.6910285779219532,
+   "config_file": "cupronickel.json",
+   "exit_when_done": true,
+   "linear_velocity_std": 2.0,
+   "table_friction": 0.44,
+   "table_restitution": 0.603
+  },
+  {
+   "Edge": 166.0,
+   "Heads": 412.0,
+   "Tails": 446.0
+  }
+ ],
+ [
+  {
+   "angular_velocity_std": 4.0,
+   "coin_density": 8.5,
+   "coin_diameter": 2.0,
+   "coin_friction": 0.44,
+   "coin_grid_size": 32,
+   "coin_grid_step": 20.0,
+   "coin_restitution": 0.3,
+   "coin_thickness": 0.3440003785833793,
+   "config_file": "cupronickel.json",
+   "exit_when_done": true,
+   "linear_velocity_std": 2.0,
+   "table_friction": 0.44,
+   "table_restitution": 0.603
+  },
+  {
+   "Edge": 26.0,
+   "Heads": 489.0,
+   "Tails": 506.0
+  }
+ ],
+ [
+  {
+   "angular_velocity_std": 4.0,
+   "coin_density": 8.5,
+   "coin_diameter": 2.0,
+   "coin_friction": 0.44,
+   "coin_grid_size": 32,
+   "coin_grid_step": 20.0,
+   "coin_restitution": 0.3,
+   "coin_thickness": 0.793258278016886,
+   "config_file": "cupronickel.json",
+   "exit_when_done": true,
+   "linear_velocity_std": 2.0,
+   "table_friction": 0.44,
+   "table_restitution": 0.603
+  },
+  {
+   "Edge": 236.0,
+   "Heads": 403.0,
+   "Tails": 385.0
+  }
+ ],
+ [
+  {
+   "angular_velocity_std": 4.0,
+   "coin_density": 8.5,
+   "coin_diameter": 2.0,
+   "coin_friction": 0.44,
+   "coin_grid_size": 32,
+   "coin_grid_step": 20.0,
+   "coin_restitution": 0.3,
+   "coin_thickness": 0.9283818214191327,
+   "config_file": "cupronickel.json",
+   "exit_when_done": true,
+   "linear_velocity_std": 2.0,
+   "table_friction": 0.44,
+   "table_restitution": 0.603
+  },
+  {
+   "Edge": 343.0,
+   "Heads": 341.0,
    "Tails": 340.0
   }
  ],
@@ -1352,16 +2604,17 @@
    "coin_grid_size": 32,
    "coin_grid_step": 20.0,
    "coin_restitution": 0.3,
-   "coin_thickness": 1.5417216717504465,
+   "coin_thickness": 0.9766275091697824,
+   "config_file": "cupronickel.json",
    "exit_when_done": true,
-   "linear_velocity_std": 0.0,
+   "linear_velocity_std": 2.0,
    "table_friction": 0.44,
    "table_restitution": 0.603
   },
   {
-   "Edge": 780.0,
-   "Heads": 130.0,
-   "Tails": 114.0
+   "Edge": 407.0,
+   "Heads": 294.0,
+   "Tails": 323.0
   }
  ],
  [
@@ -1373,163 +2626,17 @@
    "coin_grid_size": 32,
    "coin_grid_step": 20.0,
    "coin_restitution": 0.3,
-   "coin_thickness": 1.3190311501861707,
+   "coin_thickness": 0.9022320337250663,
+   "config_file": "cupronickel.json",
    "exit_when_done": true,
-   "linear_velocity_std": 0.0,
+   "linear_velocity_std": 2.0,
    "table_friction": 0.44,
    "table_restitution": 0.603
   },
   {
-   "Edge": 659.0,
-   "Heads": 197.0,
-   "Tails": 168.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 4.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 0.589782051209196,
-   "exit_when_done": true,
-   "linear_velocity_std": 0.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 108.0,
-   "Heads": 462.0,
-   "Tails": 454.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 4.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 1.162876000031086,
-   "exit_when_done": true,
-   "linear_velocity_std": 0.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 570.0,
-   "Heads": 222.0,
-   "Tails": 232.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 4.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 1.074091564815655,
-   "exit_when_done": true,
-   "linear_velocity_std": 0.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 500.0,
-   "Heads": 264.0,
-   "Tails": 260.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 4.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 0.9111372040916783,
-   "exit_when_done": true,
-   "linear_velocity_std": 0.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 326.0,
-   "Heads": 357.0,
-   "Tails": 341.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 4.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 0.8391532987143239,
-   "exit_when_done": true,
-   "linear_velocity_std": 0.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 281.0,
-   "Heads": 374.0,
-   "Tails": 369.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 4.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 0.1,
-   "exit_when_done": true,
-   "linear_velocity_std": 0.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 0.0,
-   "Heads": 500.0,
-   "Tails": 522.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 4.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 0.9220350639421776,
-   "exit_when_done": true,
-   "linear_velocity_std": 0.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 353.0,
-   "Heads": 301.0,
-   "Tails": 370.0
+   "Edge": 331.0,
+   "Heads": 351.0,
+   "Tails": 342.0
   }
  ],
  [
@@ -1542,15 +2649,16 @@
    "coin_grid_step": 20.0,
    "coin_restitution": 0.3,
    "coin_thickness": 2.0,
+   "config_file": "cupronickel.json",
    "exit_when_done": true,
-   "linear_velocity_std": 0.0,
+   "linear_velocity_std": 2.0,
    "table_friction": 0.44,
    "table_restitution": 0.603
   },
   {
-   "Edge": 907.0,
-   "Heads": 61.0,
-   "Tails": 56.0
+   "Edge": 904.0,
+   "Heads": 62.0,
+   "Tails": 58.0
   }
  ],
  [
@@ -1562,78 +2670,16 @@
    "coin_grid_size": 32,
    "coin_grid_step": 20.0,
    "coin_restitution": 0.3,
-   "coin_thickness": 0.9477376975876968,
+   "coin_thickness": 0.1,
+   "config_file": "cupronickel.json",
    "exit_when_done": true,
-   "linear_velocity_std": 0.0,
+   "linear_velocity_std": 2.0,
    "table_friction": 0.44,
    "table_restitution": 0.603
   },
   {
-   "Edge": 374.0,
-   "Heads": 316.0,
-   "Tails": 334.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 4.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 0.9055103775426987,
-   "exit_when_done": true,
-   "linear_velocity_std": 0.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 337.0,
-   "Heads": 318.0,
-   "Tails": 369.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 4.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 0.9027751661269195,
-   "exit_when_done": true,
-   "linear_velocity_std": 0.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 348.0,
-   "Heads": 323.0,
-   "Tails": 353.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 4.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 0.36395490999265934,
-   "exit_when_done": true,
-   "linear_velocity_std": 0.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 20.0,
-   "Heads": 491.0,
+   "Edge": 0.0,
+   "Heads": 508.0,
    "Tails": 513.0
   }
  ],
@@ -1646,16 +2692,61 @@
    "coin_grid_size": 32,
    "coin_grid_step": 20.0,
    "coin_restitution": 0.3,
-   "coin_thickness": 0.900810514452347,
+   "coin_thickness": 1.2070462129757231,
+   "config_file": "cupronickel.json",
    "exit_when_done": true,
-   "linear_velocity_std": 0.0,
+   "linear_velocity_std": 2.0,
    "table_friction": 0.44,
    "table_restitution": 0.603
   },
   {
-   "Edge": 344.0,
+   "Edge": 581.0,
+   "Heads": 202.0,
+   "Tails": 241.0
+  }
+ ],
+ [
+  {
+   "angular_velocity_std": 4.0,
+   "coin_density": 8.5,
+   "coin_diameter": 2.0,
+   "coin_friction": 0.44,
+   "coin_grid_size": 32,
+   "coin_grid_step": 20.0,
+   "coin_restitution": 0.3,
+   "coin_thickness": 0.9140098286573376,
+   "config_file": "cupronickel.json",
+   "exit_when_done": true,
+   "linear_velocity_std": 2.0,
+   "table_friction": 0.44,
+   "table_restitution": 0.603
+  },
+  {
+   "Edge": 356.0,
+   "Heads": 302.0,
+   "Tails": 366.0
+  }
+ ],
+ [
+  {
+   "angular_velocity_std": 4.0,
+   "coin_density": 8.5,
+   "coin_diameter": 2.0,
+   "coin_friction": 0.44,
+   "coin_grid_size": 32,
+   "coin_grid_step": 20.0,
+   "coin_restitution": 0.3,
+   "coin_thickness": 0.8958372980563737,
+   "config_file": "cupronickel.json",
+   "exit_when_done": true,
+   "linear_velocity_std": 2.0,
+   "table_friction": 0.44,
+   "table_restitution": 0.603
+  },
+  {
+   "Edge": 342.0,
    "Heads": 347.0,
-   "Tails": 333.0
+   "Tails": 335.0
   }
  ],
  [
@@ -1667,16 +2758,17 @@
    "coin_grid_size": 32,
    "coin_grid_step": 20.0,
    "coin_restitution": 0.3,
-   "coin_thickness": 1.762917849169271,
+   "coin_thickness": 0.894513009268471,
+   "config_file": "cupronickel.json",
    "exit_when_done": true,
-   "linear_velocity_std": 0.0,
+   "linear_velocity_std": 2.0,
    "table_friction": 0.44,
    "table_restitution": 0.603
   },
   {
-   "Edge": 850.0,
-   "Heads": 98.0,
-   "Tails": 76.0
+   "Edge": 325.0,
+   "Heads": 358.0,
+   "Tails": 341.0
   }
  ],
  [
@@ -1688,16 +2780,17 @@
    "coin_grid_size": 32,
    "coin_grid_step": 20.0,
    "coin_restitution": 0.3,
-   "coin_thickness": 0.7225187608268404,
+   "coin_thickness": 0.526001948985637,
+   "config_file": "cupronickel.json",
    "exit_when_done": true,
-   "linear_velocity_std": 0.0,
+   "linear_velocity_std": 2.0,
    "table_friction": 0.44,
    "table_restitution": 0.603
   },
   {
-   "Edge": 179.0,
-   "Heads": 427.0,
-   "Tails": 418.0
+   "Edge": 73.0,
+   "Heads": 503.0,
+   "Tails": 448.0
   }
  ],
  [
@@ -1709,15 +2802,434 @@
    "coin_grid_size": 32,
    "coin_grid_step": 20.0,
    "coin_restitution": 0.3,
-   "coin_thickness": 0.8926477230621639,
+   "coin_thickness": 0.9039784182651882,
+   "config_file": "cupronickel.json",
    "exit_when_done": true,
-   "linear_velocity_std": 0.0,
+   "linear_velocity_std": 2.0,
    "table_friction": 0.44,
    "table_restitution": 0.603
   },
   {
-   "Edge": 328.0,
-   "Heads": 344.0,
+   "Edge": 343.0,
+   "Heads": 350.0,
+   "Tails": 331.0
+  }
+ ],
+ [
+  {
+   "angular_velocity_std": 4.0,
+   "coin_density": 8.5,
+   "coin_diameter": 2.0,
+   "coin_friction": 0.44,
+   "coin_grid_size": 32,
+   "coin_grid_step": 20.0,
+   "coin_restitution": 0.3,
+   "coin_thickness": 1.730408518924603,
+   "config_file": "cupronickel.json",
+   "exit_when_done": true,
+   "linear_velocity_std": 2.0,
+   "table_friction": 0.44,
+   "table_restitution": 0.603
+  },
+  {
+   "Edge": 861.0,
+   "Heads": 85.0,
+   "Tails": 78.0
+  }
+ ],
+ [
+  {
+   "angular_velocity_std": 4.0,
+   "coin_density": 8.5,
+   "coin_diameter": 2.0,
+   "coin_friction": 0.44,
+   "coin_grid_size": 32,
+   "coin_grid_step": 20.0,
+   "coin_restitution": 0.3,
+   "coin_thickness": 0.8804039554016724,
+   "config_file": "cupronickel.json",
+   "exit_when_done": true,
+   "linear_velocity_std": 2.0,
+   "table_friction": 0.44,
+   "table_restitution": 0.603
+  },
+  {
+   "Edge": 326.0,
+   "Heads": 345.0,
+   "Tails": 353.0
+  }
+ ],
+ [
+  {
+   "angular_velocity_std": 4.0,
+   "coin_density": 8.5,
+   "coin_diameter": 2.0,
+   "coin_friction": 0.44,
+   "coin_grid_size": 32,
+   "coin_grid_step": 20.0,
+   "coin_restitution": 0.3,
+   "coin_thickness": 0.9200024310045445,
+   "config_file": "cupronickel.json",
+   "exit_when_done": true,
+   "linear_velocity_std": 2.0,
+   "table_friction": 0.44,
+   "table_restitution": 0.603
+  },
+  {
+   "Edge": 361.0,
+   "Heads": 351.0,
+   "Tails": 312.0
+  }
+ ],
+ [
+  {
+   "angular_velocity_std": 4.0,
+   "coin_density": 8.5,
+   "coin_diameter": 2.0,
+   "coin_friction": 0.44,
+   "coin_grid_size": 32,
+   "coin_grid_step": 20.0,
+   "coin_restitution": 0.3,
+   "coin_thickness": 0.9028311388332568,
+   "config_file": "cupronickel.json",
+   "exit_when_done": true,
+   "linear_velocity_std": 2.0,
+   "table_friction": 0.44,
+   "table_restitution": 0.603
+  },
+  {
+   "Edge": 338.0,
+   "Heads": 350.0,
+   "Tails": 336.0
+  }
+ ],
+ [
+  {
+   "angular_velocity_std": 4.0,
+   "coin_density": 8.5,
+   "coin_diameter": 2.0,
+   "coin_friction": 0.44,
+   "coin_grid_size": 32,
+   "coin_grid_step": 20.0,
+   "coin_restitution": 0.3,
+   "coin_thickness": 0.9030698682268973,
+   "config_file": "cupronickel.json",
+   "exit_when_done": true,
+   "linear_velocity_std": 2.0,
+   "table_friction": 0.44,
+   "table_restitution": 0.603
+  },
+  {
+   "Edge": 342.0,
+   "Heads": 329.0,
+   "Tails": 353.0
+  }
+ ],
+ [
+  {
+   "angular_velocity_std": 4.0,
+   "coin_density": 8.5,
+   "coin_diameter": 2.0,
+   "coin_friction": 0.44,
+   "coin_grid_size": 32,
+   "coin_grid_step": 20.0,
+   "coin_restitution": 0.3,
+   "coin_thickness": 0.8769710936323621,
+   "config_file": "cupronickel.json",
+   "exit_when_done": true,
+   "linear_velocity_std": 2.0,
+   "table_friction": 0.44,
+   "table_restitution": 0.603
+  },
+  {
+   "Edge": 309.0,
+   "Heads": 356.0,
+   "Tails": 359.0
+  }
+ ],
+ [
+  {
+   "angular_velocity_std": 4.0,
+   "coin_density": 8.5,
+   "coin_diameter": 2.0,
+   "coin_friction": 0.44,
+   "coin_grid_size": 32,
+   "coin_grid_step": 20.0,
+   "coin_restitution": 0.3,
+   "coin_thickness": 0.9111581657051177,
+   "config_file": "cupronickel.json",
+   "exit_when_done": true,
+   "linear_velocity_std": 2.0,
+   "table_friction": 0.44,
+   "table_restitution": 0.603
+  },
+  {
+   "Edge": 366.0,
+   "Heads": 334.0,
+   "Tails": 324.0
+  }
+ ],
+ [
+  {
+   "angular_velocity_std": 4.0,
+   "coin_density": 8.5,
+   "coin_diameter": 2.0,
+   "coin_friction": 0.44,
+   "coin_grid_size": 32,
+   "coin_grid_step": 20.0,
+   "coin_restitution": 0.3,
+   "coin_thickness": 0.908291843004945,
+   "config_file": "cupronickel.json",
+   "exit_when_done": true,
+   "linear_velocity_std": 2.0,
+   "table_friction": 0.44,
+   "table_restitution": 0.603
+  },
+  {
+   "Edge": 360.0,
+   "Heads": 319.0,
+   "Tails": 345.0
+  }
+ ],
+ [
+  {
+   "angular_velocity_std": 4.0,
+   "coin_density": 8.5,
+   "coin_diameter": 2.0,
+   "coin_friction": 0.44,
+   "coin_grid_size": 32,
+   "coin_grid_step": 20.0,
+   "coin_restitution": 0.3,
+   "coin_thickness": 1.0661498382677448,
+   "config_file": "cupronickel.json",
+   "exit_when_done": true,
+   "linear_velocity_std": 2.0,
+   "table_friction": 0.44,
+   "table_restitution": 0.603
+  },
+  {
+   "Edge": 486.0,
+   "Heads": 266.0,
+   "Tails": 272.0
+  }
+ ],
+ [
+  {
+   "angular_velocity_std": 4.0,
+   "coin_density": 8.5,
+   "coin_diameter": 2.0,
+   "coin_friction": 0.44,
+   "coin_grid_size": 32,
+   "coin_grid_step": 20.0,
+   "coin_restitution": 0.3,
+   "coin_thickness": 0.9070025290173308,
+   "config_file": "cupronickel.json",
+   "exit_when_done": true,
+   "linear_velocity_std": 2.0,
+   "table_friction": 0.44,
+   "table_restitution": 0.603
+  },
+  {
+   "Edge": 336.0,
+   "Heads": 350.0,
+   "Tails": 338.0
+  }
+ ],
+ [
+  {
+   "angular_velocity_std": 4.0,
+   "coin_density": 8.5,
+   "coin_diameter": 2.0,
+   "coin_friction": 0.44,
+   "coin_grid_size": 32,
+   "coin_grid_step": 20.0,
+   "coin_restitution": 0.3,
+   "coin_thickness": 0.9071381769732457,
+   "config_file": "cupronickel.json",
+   "exit_when_done": true,
+   "linear_velocity_std": 2.0,
+   "table_friction": 0.44,
+   "table_restitution": 0.603
+  },
+  {
+   "Edge": 314.0,
+   "Heads": 341.0,
+   "Tails": 369.0
+  }
+ ],
+ [
+  {
+   "angular_velocity_std": 4.0,
+   "coin_density": 8.5,
+   "coin_diameter": 2.0,
+   "coin_friction": 0.44,
+   "coin_grid_size": 32,
+   "coin_grid_step": 20.0,
+   "coin_restitution": 0.3,
+   "coin_thickness": 0.9063937957202834,
+   "config_file": "cupronickel.json",
+   "exit_when_done": true,
+   "linear_velocity_std": 2.0,
+   "table_friction": 0.44,
+   "table_restitution": 0.603
+  },
+  {
+   "Edge": 342.0,
+   "Heads": 357.0,
+   "Tails": 325.0
+  }
+ ],
+ [
+  {
+   "angular_velocity_std": 4.0,
+   "coin_density": 8.5,
+   "coin_diameter": 2.0,
+   "coin_friction": 0.44,
+   "coin_grid_size": 32,
+   "coin_grid_step": 20.0,
+   "coin_restitution": 0.3,
+   "coin_thickness": 0.9066224612323026,
+   "config_file": "cupronickel.json",
+   "exit_when_done": true,
+   "linear_velocity_std": 2.0,
+   "table_friction": 0.44,
+   "table_restitution": 0.603
+  },
+  {
+   "Edge": 362.0,
+   "Heads": 336.0,
+   "Tails": 326.0
+  }
+ ],
+ [
+  {
+   "angular_velocity_std": 4.0,
+   "coin_density": 8.5,
+   "coin_diameter": 2.0,
+   "coin_friction": 0.44,
+   "coin_grid_size": 32,
+   "coin_grid_step": 20.0,
+   "coin_restitution": 0.3,
+   "coin_thickness": 0.9062762911037052,
+   "config_file": "cupronickel.json",
+   "exit_when_done": true,
+   "linear_velocity_std": 2.0,
+   "table_friction": 0.44,
+   "table_restitution": 0.603
+  },
+  {
+   "Edge": 321.0,
+   "Heads": 356.0,
+   "Tails": 347.0
+  }
+ ],
+ [
+  {
+   "angular_velocity_std": 4.0,
+   "coin_density": 8.5,
+   "coin_diameter": 2.0,
+   "coin_friction": 0.44,
+   "coin_grid_size": 32,
+   "coin_grid_step": 20.0,
+   "coin_restitution": 0.3,
+   "coin_thickness": 0.9060311073058378,
+   "config_file": "cupronickel.json",
+   "exit_when_done": true,
+   "linear_velocity_std": 2.0,
+   "table_friction": 0.44,
+   "table_restitution": 0.603
+  },
+  {
+   "Edge": 337.0,
+   "Heads": 338.0,
+   "Tails": 349.0
+  }
+ ],
+ [
+  {
+   "angular_velocity_std": 4.0,
+   "coin_density": 8.5,
+   "coin_diameter": 2.0,
+   "coin_friction": 0.44,
+   "coin_grid_size": 32,
+   "coin_grid_step": 20.0,
+   "coin_restitution": 0.3,
+   "coin_thickness": 0.90612101618268,
+   "config_file": "cupronickel.json",
+   "exit_when_done": true,
+   "linear_velocity_std": 2.0,
+   "table_friction": 0.44,
+   "table_restitution": 0.603
+  },
+  {
+   "Edge": 362.0,
+   "Heads": 332.0,
+   "Tails": 330.0
+  }
+ ],
+ [
+  {
+   "angular_velocity_std": 4.0,
+   "coin_density": 8.5,
+   "coin_diameter": 2.0,
+   "coin_friction": 0.44,
+   "coin_grid_size": 32,
+   "coin_grid_step": 20.0,
+   "coin_restitution": 0.3,
+   "coin_thickness": 0.9059062610707149,
+   "config_file": "cupronickel.json",
+   "exit_when_done": true,
+   "linear_velocity_std": 2.0,
+   "table_friction": 0.44,
+   "table_restitution": 0.603
+  },
+  {
+   "Edge": 334.0,
+   "Heads": 341.0,
+   "Tails": 349.0
+  }
+ ],
+ [
+  {
+   "angular_velocity_std": 4.0,
+   "coin_density": 8.5,
+   "coin_diameter": 2.0,
+   "coin_friction": 0.44,
+   "coin_grid_size": 32,
+   "coin_grid_step": 20.0,
+   "coin_restitution": 0.3,
+   "coin_thickness": 0.9059285539916566,
+   "config_file": "cupronickel.json",
+   "exit_when_done": true,
+   "linear_velocity_std": 2.0,
+   "table_friction": 0.44,
+   "table_restitution": 0.603
+  },
+  {
+   "Edge": 307.0,
+   "Heads": 353.0,
+   "Tails": 364.0
+  }
+ ],
+ [
+  {
+   "angular_velocity_std": 4.0,
+   "coin_density": 8.5,
+   "coin_diameter": 2.0,
+   "coin_friction": 0.44,
+   "coin_grid_size": 32,
+   "coin_grid_step": 20.0,
+   "coin_restitution": 0.3,
+   "coin_thickness": 0.9056572084662716,
+   "config_file": "cupronickel.json",
+   "exit_when_done": true,
+   "linear_velocity_std": 2.0,
+   "table_friction": 0.44,
+   "table_restitution": 0.603
+  },
+  {
+   "Edge": 340.0,
+   "Heads": 332.0,
    "Tails": 352.0
   }
  ],
@@ -1730,36 +3242,16 @@
    "coin_grid_size": 32,
    "coin_grid_step": 20.0,
    "coin_restitution": 0.3,
-   "coin_thickness": 0.22709765934148088,
+   "coin_thickness": 0.9057300393140136,
+   "config_file": "cupronickel.json",
    "exit_when_done": true,
-   "linear_velocity_std": 0.0,
+   "linear_velocity_std": 2.0,
    "table_friction": 0.44,
    "table_restitution": 0.603
   },
   {
-   "Edge": 3.0,
-   "Heads": 485.0,
-   "Tails": 534.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 4.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 0.9059400857841142,
-   "exit_when_done": true,
-   "linear_velocity_std": 0.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 361.0,
-   "Heads": 331.0,
+   "Edge": 358.0,
+   "Heads": 334.0,
    "Tails": 332.0
   }
  ],
@@ -1772,9 +3264,142 @@
    "coin_grid_size": 32,
    "coin_grid_step": 20.0,
    "coin_restitution": 0.3,
-   "coin_thickness": 0.9089420710175735,
+   "coin_thickness": 0.9056534566441585,
+   "config_file": "cupronickel.json",
    "exit_when_done": true,
-   "linear_velocity_std": 0.0,
+   "linear_velocity_std": 2.0,
+   "table_friction": 0.44,
+   "table_restitution": 0.603
+  },
+  {
+   "Edge": 377.0,
+   "Heads": 314.0,
+   "Tails": 333.0
+  }
+ ],
+ [
+  {
+   "angular_velocity_std": 4.0,
+   "coin_density": 8.5,
+   "coin_diameter": 2.0,
+   "coin_friction": 0.44,
+   "coin_grid_size": 32,
+   "coin_grid_step": 20.0,
+   "coin_restitution": 0.3,
+   "coin_thickness": 0.8652130845899273,
+   "config_file": "cupronickel.json",
+   "exit_when_done": true,
+   "linear_velocity_std": 2.0,
+   "table_friction": 0.44,
+   "table_restitution": 0.603
+  },
+  {
+   "Edge": 326.0,
+   "Heads": 356.0,
+   "Tails": 342.0
+  }
+ ],
+ [
+  {
+   "angular_velocity_std": 4.0,
+   "coin_density": 8.5,
+   "coin_diameter": 2.0,
+   "coin_friction": 0.44,
+   "coin_grid_size": 32,
+   "coin_grid_step": 20.0,
+   "coin_restitution": 0.3,
+   "coin_thickness": 0.8996327190834736,
+   "config_file": "cupronickel.json",
+   "exit_when_done": true,
+   "linear_velocity_std": 2.0,
+   "table_friction": 0.44,
+   "table_restitution": 0.603
+  },
+  {
+   "Edge": 303.0,
+   "Heads": 341.0,
+   "Tails": 380.0
+  }
+ ],
+ [
+  {
+   "angular_velocity_std": 4.0,
+   "coin_density": 8.5,
+   "coin_diameter": 2.0,
+   "coin_friction": 0.44,
+   "coin_grid_size": 32,
+   "coin_grid_step": 20.0,
+   "coin_restitution": 0.3,
+   "coin_thickness": 0.9024026684511961,
+   "config_file": "cupronickel.json",
+   "exit_when_done": true,
+   "linear_velocity_std": 2.0,
+   "table_friction": 0.44,
+   "table_restitution": 0.603
+  },
+  {
+   "Edge": 369.0,
+   "Heads": 315.0,
+   "Tails": 340.0
+  }
+ ],
+ [
+  {
+   "angular_velocity_std": 4.0,
+   "coin_density": 8.5,
+   "coin_diameter": 2.0,
+   "coin_friction": 0.44,
+   "coin_grid_size": 32,
+   "coin_grid_step": 20.0,
+   "coin_restitution": 0.3,
+   "coin_thickness": 0.9483417556741787,
+   "config_file": "cupronickel.json",
+   "exit_when_done": true,
+   "linear_velocity_std": 2.0,
+   "table_friction": 0.44,
+   "table_restitution": 0.603
+  },
+  {
+   "Edge": 399.0,
+   "Heads": 310.0,
+   "Tails": 315.0
+  }
+ ],
+ [
+  {
+   "angular_velocity_std": 4.0,
+   "coin_density": 8.5,
+   "coin_diameter": 2.0,
+   "coin_friction": 0.44,
+   "coin_grid_size": 32,
+   "coin_grid_step": 20.0,
+   "coin_restitution": 0.3,
+   "coin_thickness": 0.8619731185178465,
+   "config_file": "cupronickel.json",
+   "exit_when_done": true,
+   "linear_velocity_std": 2.0,
+   "table_friction": 0.44,
+   "table_restitution": 0.603
+  },
+  {
+   "Edge": 275.0,
+   "Heads": 391.0,
+   "Tails": 358.0
+  }
+ ],
+ [
+  {
+   "angular_velocity_std": 4.0,
+   "coin_density": 8.5,
+   "coin_diameter": 2.0,
+   "coin_friction": 0.44,
+   "coin_grid_size": 32,
+   "coin_grid_step": 20.0,
+   "coin_restitution": 0.3,
+   "coin_thickness": 0.9067601339891435,
+   "config_file": "cupronickel.json",
+   "exit_when_done": true,
+   "linear_velocity_std": 2.0,
    "table_friction": 0.44,
    "table_restitution": 0.603
   },
@@ -1793,163 +3418,17 @@
    "coin_grid_size": 32,
    "coin_grid_step": 20.0,
    "coin_restitution": 0.3,
-   "coin_thickness": 0.9082240268408677,
+   "coin_thickness": 0.9068856877792739,
+   "config_file": "cupronickel.json",
    "exit_when_done": true,
-   "linear_velocity_std": 0.0,
+   "linear_velocity_std": 2.0,
    "table_friction": 0.44,
    "table_restitution": 0.603
   },
   {
-   "Edge": 327.0,
-   "Heads": 373.0,
-   "Tails": 324.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 4.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 0.9078727539593141,
-   "exit_when_done": true,
-   "linear_velocity_std": 0.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 347.0,
-   "Heads": 359.0,
-   "Tails": 318.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 4.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 0.9073732645366088,
-   "exit_when_done": true,
-   "linear_velocity_std": 0.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 370.0,
-   "Heads": 346.0,
-   "Tails": 308.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 4.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 0.9110311613180093,
-   "exit_when_done": true,
-   "linear_velocity_std": 0.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 327.0,
-   "Heads": 349.0,
-   "Tails": 348.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 4.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 0.9103403272422035,
-   "exit_when_done": true,
-   "linear_velocity_std": 0.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 345.0,
-   "Heads": 331.0,
-   "Tails": 348.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 4.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 0.9107852481340808,
-   "exit_when_done": true,
-   "linear_velocity_std": 0.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 339.0,
-   "Heads": 350.0,
-   "Tails": 335.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 4.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 0.9476265473929976,
-   "exit_when_done": true,
-   "linear_velocity_std": 0.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 357.0,
-   "Heads": 319.0,
-   "Tails": 348.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 4.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 0.9143490239286162,
-   "exit_when_done": true,
-   "linear_velocity_std": 0.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 368.0,
+   "Edge": 349.0,
    "Heads": 330.0,
-   "Tails": 326.0
+   "Tails": 345.0
   }
  ],
  [
@@ -1961,16 +3440,17 @@
    "coin_grid_size": 32,
    "coin_grid_step": 20.0,
    "coin_restitution": 0.3,
-   "coin_thickness": 0.9132534262411726,
+   "coin_thickness": 0.9469317257841169,
+   "config_file": "cupronickel.json",
    "exit_when_done": true,
-   "linear_velocity_std": 0.0,
+   "linear_velocity_std": 2.0,
    "table_friction": 0.44,
    "table_restitution": 0.603
   },
   {
-   "Edge": 342.0,
-   "Heads": 335.0,
-   "Tails": 347.0
+   "Edge": 382.0,
+   "Heads": 326.0,
+   "Tails": 316.0
   }
  ],
  [
@@ -1982,57 +3462,16 @@
    "coin_grid_size": 32,
    "coin_grid_step": 20.0,
    "coin_restitution": 0.3,
-   "coin_thickness": 0.9138184367580413,
+   "coin_thickness": 0.9032734238094086,
+   "config_file": "cupronickel.json",
    "exit_when_done": true,
-   "linear_velocity_std": 0.0,
+   "linear_velocity_std": 2.0,
    "table_friction": 0.44,
    "table_restitution": 0.603
   },
   {
-   "Edge": 341.0,
-   "Heads": 332.0,
-   "Tails": 351.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 4.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 0.9144361887069726,
-   "exit_when_done": true,
-   "linear_velocity_std": 0.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 333.0,
-   "Heads": 355.0,
-   "Tails": 336.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 4.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 0.9144028313688287,
-   "exit_when_done": true,
-   "linear_velocity_std": 0.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 339.0,
-   "Heads": 339.0,
+   "Edge": 317.0,
+   "Heads": 361.0,
    "Tails": 346.0
   }
  ],
@@ -2045,16 +3484,61 @@
    "coin_grid_size": 32,
    "coin_grid_step": 20.0,
    "coin_restitution": 0.3,
-   "coin_thickness": 0.9148479371794319,
+   "coin_thickness": 0.8616555558631239,
+   "config_file": "cupronickel.json",
    "exit_when_done": true,
-   "linear_velocity_std": 0.0,
+   "linear_velocity_std": 2.0,
    "table_friction": 0.44,
    "table_restitution": 0.603
   },
   {
-   "Edge": 328.0,
+   "Edge": 310.0,
+   "Heads": 352.0,
+   "Tails": 362.0
+  }
+ ],
+ [
+  {
+   "angular_velocity_std": 4.0,
+   "coin_density": 8.5,
+   "coin_diameter": 2.0,
+   "coin_friction": 0.44,
+   "coin_grid_size": 32,
+   "coin_grid_step": 20.0,
+   "coin_restitution": 0.3,
+   "coin_thickness": 0.9038741611183416,
+   "config_file": "cupronickel.json",
+   "exit_when_done": true,
+   "linear_velocity_std": 2.0,
+   "table_friction": 0.44,
+   "table_restitution": 0.603
+  },
+  {
+   "Edge": 345.0,
+   "Heads": 336.0,
+   "Tails": 343.0
+  }
+ ],
+ [
+  {
+   "angular_velocity_std": 4.0,
+   "coin_density": 8.5,
+   "coin_diameter": 2.0,
+   "coin_friction": 0.44,
+   "coin_grid_size": 32,
+   "coin_grid_step": 20.0,
+   "coin_restitution": 0.3,
+   "coin_thickness": 0.9468252497119954,
+   "config_file": "cupronickel.json",
+   "exit_when_done": true,
+   "linear_velocity_std": 2.0,
+   "table_friction": 0.44,
+   "table_restitution": 0.603
+  },
+  {
+   "Edge": 386.0,
    "Heads": 341.0,
-   "Tails": 355.0
+   "Tails": 297.0
   }
  ],
  [
@@ -2066,16 +3550,17 @@
    "coin_grid_size": 32,
    "coin_grid_step": 20.0,
    "coin_restitution": 0.3,
-   "coin_thickness": 0.9143898553794576,
+   "coin_thickness": 0.9012971524621074,
+   "config_file": "cupronickel.json",
    "exit_when_done": true,
-   "linear_velocity_std": 0.0,
+   "linear_velocity_std": 2.0,
    "table_friction": 0.44,
    "table_restitution": 0.603
   },
   {
-   "Edge": 319.0,
-   "Heads": 363.0,
-   "Tails": 342.0
+   "Edge": 352.0,
+   "Heads": 358.0,
+   "Tails": 314.0
   }
  ],
  [
@@ -2087,16 +3572,17 @@
    "coin_grid_size": 32,
    "coin_grid_step": 20.0,
    "coin_restitution": 0.3,
-   "coin_thickness": 0.913475078206483,
+   "coin_thickness": 0.8628704534738942,
+   "config_file": "cupronickel.json",
    "exit_when_done": true,
-   "linear_velocity_std": 0.0,
+   "linear_velocity_std": 2.0,
    "table_friction": 0.44,
    "table_restitution": 0.603
   },
   {
    "Edge": 307.0,
-   "Heads": 348.0,
-   "Tails": 369.0
+   "Heads": 352.0,
+   "Tails": 365.0
   }
  ],
  [
@@ -2108,7 +3594,228 @@
    "coin_grid_size": 32,
    "coin_grid_step": 20.0,
    "coin_restitution": 0.3,
-   "coin_thickness": 0.9122499815509005,
+   "coin_thickness": 0.90232362525913,
+   "config_file": "cupronickel.json",
+   "exit_when_done": true,
+   "linear_velocity_std": 2.0,
+   "table_friction": 0.44,
+   "table_restitution": 0.603
+  },
+  {
+   "Edge": 348.0,
+   "Heads": 352.0,
+   "Tails": 324.0
+  }
+ ],
+ [
+  {
+   "angular_velocity_std": 4.0,
+   "coin_density": 8.5,
+   "coin_diameter": 2.0,
+   "coin_friction": 0.44,
+   "coin_grid_size": 32,
+   "coin_grid_step": 20.0,
+   "coin_restitution": 0.3,
+   "coin_thickness": 0.9022617009038121,
+   "config_file": "cupronickel.json",
+   "exit_when_done": true,
+   "linear_velocity_std": 2.0,
+   "table_friction": 0.44,
+   "table_restitution": 0.603
+  },
+  {
+   "Edge": 374.0,
+   "Heads": 313.0,
+   "Tails": 337.0
+  }
+ ],
+ [
+  {
+   "angular_velocity_std": 4.0,
+   "coin_density": 8.5,
+   "coin_diameter": 2.0,
+   "coin_friction": 0.44,
+   "coin_grid_size": 32,
+   "coin_grid_step": 20.0,
+   "coin_restitution": 0.3,
+   "coin_thickness": 0.9024298570417417,
+   "config_file": "cupronickel.json",
+   "exit_when_done": true,
+   "linear_velocity_std": 2.0,
+   "table_friction": 0.44,
+   "table_restitution": 0.603
+  },
+  {
+   "Edge": 360.0,
+   "Heads": 324.0,
+   "Tails": 340.0
+  }
+ ],
+ [
+  {
+   "angular_velocity_std": 4.0,
+   "coin_density": 8.5,
+   "coin_diameter": 2.0,
+   "coin_friction": 0.44,
+   "coin_grid_size": 32,
+   "coin_grid_step": 20.0,
+   "coin_restitution": 0.3,
+   "coin_thickness": 0.9024683302682001,
+   "config_file": "cupronickel.json",
+   "exit_when_done": true,
+   "linear_velocity_std": 2.0,
+   "table_friction": 0.44,
+   "table_restitution": 0.603
+  },
+  {
+   "Edge": 319.0,
+   "Heads": 342.0,
+   "Tails": 363.0
+  }
+ ],
+ [
+  {
+   "angular_velocity_std": 4.0,
+   "coin_density": 8.5,
+   "coin_diameter": 2.0,
+   "coin_friction": 0.44,
+   "coin_grid_size": 32,
+   "coin_grid_step": 20.0,
+   "coin_restitution": 0.3,
+   "coin_thickness": 0.9025324654854465,
+   "config_file": "cupronickel.json",
+   "exit_when_done": true,
+   "linear_velocity_std": 2.0,
+   "table_friction": 0.44,
+   "table_restitution": 0.603
+  },
+  {
+   "Edge": 357.0,
+   "Heads": 346.0,
+   "Tails": 321.0
+  }
+ ],
+ [
+  {
+   "angular_velocity_std": 4.0,
+   "coin_density": 8.5,
+   "coin_diameter": 2.0,
+   "coin_friction": 0.44,
+   "coin_grid_size": 32,
+   "coin_grid_step": 20.0,
+   "coin_restitution": 0.3,
+   "coin_thickness": 1.5558639298406942,
+   "config_file": "cupronickel.json",
+   "exit_when_done": true,
+   "linear_velocity_std": 0.0,
+   "table_friction": 0.44,
+   "table_restitution": 0.603
+  },
+  {
+   "Edge": 771.0,
+   "Heads": 127.0,
+   "Tails": 126.0
+  }
+ ],
+ [
+  {
+   "angular_velocity_std": 4.0,
+   "coin_density": 8.5,
+   "coin_diameter": 2.0,
+   "coin_friction": 0.44,
+   "coin_grid_size": 32,
+   "coin_grid_step": 20.0,
+   "coin_restitution": 0.3,
+   "coin_thickness": 1.0071466458156255,
+   "config_file": "cupronickel.json",
+   "exit_when_done": true,
+   "linear_velocity_std": 0.0,
+   "table_friction": 0.44,
+   "table_restitution": 0.603
+  },
+  {
+   "Edge": 458.0,
+   "Heads": 272.0,
+   "Tails": 294.0
+  }
+ ],
+ [
+  {
+   "angular_velocity_std": 4.0,
+   "coin_density": 8.5,
+   "coin_diameter": 2.0,
+   "coin_friction": 0.44,
+   "coin_grid_size": 32,
+   "coin_grid_step": 20.0,
+   "coin_restitution": 0.3,
+   "coin_thickness": 1.7898250165507492,
+   "config_file": "cupronickel.json",
+   "exit_when_done": true,
+   "linear_velocity_std": 0.0,
+   "table_friction": 0.44,
+   "table_restitution": 0.603
+  },
+  {
+   "Edge": 848.0,
+   "Heads": 90.0,
+   "Tails": 86.0
+  }
+ ],
+ [
+  {
+   "angular_velocity_std": 4.0,
+   "coin_density": 8.5,
+   "coin_diameter": 2.0,
+   "coin_friction": 0.44,
+   "coin_grid_size": 32,
+   "coin_grid_step": 20.0,
+   "coin_restitution": 0.3,
+   "coin_thickness": 0.7063196246759277,
+   "config_file": "cupronickel.json",
+   "exit_when_done": true,
+   "linear_velocity_std": 0.0,
+   "table_friction": 0.44,
+   "table_restitution": 0.603
+  },
+  {
+   "Edge": 170.0,
+   "Heads": 428.0,
+   "Tails": 426.0
+  }
+ ],
+ [
+  {
+   "angular_velocity_std": 4.0,
+   "coin_density": 8.5,
+   "coin_diameter": 2.0,
+   "coin_friction": 0.44,
+   "coin_grid_size": 32,
+   "coin_grid_step": 20.0,
+   "coin_restitution": 0.3,
+   "coin_thickness": 0.1,
+   "config_file": "cupronickel.json",
+   "exit_when_done": true,
+   "linear_velocity_std": 0.0,
+   "table_friction": 0.44,
+   "table_restitution": 0.603
+  },
+  {
+   "Edge": 0.0,
+   "Heads": 526.0,
+   "Tails": 496.0
+  }
+ ],
+ [
+  {
+   "angular_velocity_std": 4.0,
+   "coin_density": 8.5,
+   "coin_diameter": 2.0,
+   "coin_friction": 0.44,
+   "coin_grid_size": 32,
+   "coin_grid_step": 20.0,
+   "coin_restitution": 0.3,
+   "coin_thickness": 0.9074125753988602,
+   "config_file": "cupronickel.json",
    "exit_when_done": true,
    "linear_velocity_std": 0.0,
    "table_friction": 0.44,
@@ -2129,246 +3836,16 @@
    "coin_grid_size": 32,
    "coin_grid_step": 20.0,
    "coin_restitution": 0.3,
-   "coin_thickness": 0.9566916835586529,
+   "coin_thickness": 0.8822036155125235,
+   "config_file": "cupronickel.json",
    "exit_when_done": true,
    "linear_velocity_std": 0.0,
    "table_friction": 0.44,
    "table_restitution": 0.603
   },
   {
-   "Edge": 392.0,
-   "Heads": 343.0,
-   "Tails": 289.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 4.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 0.8691169241252112,
-   "exit_when_done": true,
-   "linear_velocity_std": 0.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 323.0,
-   "Heads": 333.0,
-   "Tails": 368.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 4.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 0.899710775713453,
-   "exit_when_done": true,
-   "linear_velocity_std": 0.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 337.0,
-   "Heads": 345.0,
-   "Tails": 342.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 4.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 0.899181784255362,
-   "exit_when_done": true,
-   "linear_velocity_std": 0.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 294.0,
-   "Heads": 331.0,
-   "Tails": 399.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 4.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 0.9019045202726527,
-   "exit_when_done": true,
-   "linear_velocity_std": 0.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 341.0,
-   "Heads": 340.0,
-   "Tails": 343.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 4.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 0.8648033808233974,
-   "exit_when_done": true,
-   "linear_velocity_std": 0.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 291.0,
-   "Heads": 347.0,
-   "Tails": 386.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 4.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 0.9572606288361716,
-   "exit_when_done": true,
-   "linear_velocity_std": 0.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 387.0,
-   "Heads": 314.0,
-   "Tails": 323.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 4.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 0.906352516568689,
-   "exit_when_done": true,
-   "linear_velocity_std": 0.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 332.0,
-   "Heads": 329.0,
-   "Tails": 363.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 4.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 0.9063491819524825,
-   "exit_when_done": true,
-   "linear_velocity_std": 0.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 342.0,
-   "Heads": 320.0,
-   "Tails": 362.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 4.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 0.9061115019812124,
-   "exit_when_done": true,
-   "linear_velocity_std": 0.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 343.0,
-   "Heads": 325.0,
-   "Tails": 356.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 4.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 0.9059098915294921,
-   "exit_when_done": true,
-   "linear_velocity_std": 0.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 332.0,
-   "Heads": 326.0,
-   "Tails": 366.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 4.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 0.9059262181319007,
-   "exit_when_done": true,
-   "linear_velocity_std": 0.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 337.0,
-   "Heads": 340.0,
+   "Edge": 322.0,
+   "Heads": 355.0,
    "Tails": 347.0
   }
  ],
@@ -2381,15 +3858,258 @@
    "coin_grid_size": 32,
    "coin_grid_step": 20.0,
    "coin_restitution": 0.3,
-   "coin_thickness": 0.9058149994256277,
+   "coin_thickness": 0.4024153088025325,
+   "config_file": "cupronickel.json",
    "exit_when_done": true,
    "linear_velocity_std": 0.0,
    "table_friction": 0.44,
    "table_restitution": 0.603
   },
   {
-   "Edge": 345.0,
-   "Heads": 347.0,
+   "Edge": 29.0,
+   "Heads": 466.0,
+   "Tails": 529.0
+  }
+ ],
+ [
+  {
+   "angular_velocity_std": 4.0,
+   "coin_density": 8.5,
+   "coin_diameter": 2.0,
+   "coin_friction": 0.44,
+   "coin_grid_size": 32,
+   "coin_grid_step": 20.0,
+   "coin_restitution": 0.3,
+   "coin_thickness": 0.8499854834870427,
+   "config_file": "cupronickel.json",
+   "exit_when_done": true,
+   "linear_velocity_std": 0.0,
+   "table_friction": 0.44,
+   "table_restitution": 0.603
+  },
+  {
+   "Edge": 289.0,
+   "Heads": 374.0,
+   "Tails": 360.0
+  }
+ ],
+ [
+  {
+   "angular_velocity_std": 4.0,
+   "coin_density": 8.5,
+   "coin_diameter": 2.0,
+   "coin_friction": 0.44,
+   "coin_grid_size": 32,
+   "coin_grid_step": 20.0,
+   "coin_restitution": 0.3,
+   "coin_thickness": 0.9069760995799262,
+   "config_file": "cupronickel.json",
+   "exit_when_done": true,
+   "linear_velocity_std": 0.0,
+   "table_friction": 0.44,
+   "table_restitution": 0.603
+  },
+  {
+   "Edge": 340.0,
+   "Heads": 341.0,
+   "Tails": 343.0
+  }
+ ],
+ [
+  {
+   "angular_velocity_std": 4.0,
+   "coin_density": 8.5,
+   "coin_diameter": 2.0,
+   "coin_friction": 0.44,
+   "coin_grid_size": 32,
+   "coin_grid_step": 20.0,
+   "coin_restitution": 0.3,
+   "coin_thickness": 1.2586741173593219,
+   "config_file": "cupronickel.json",
+   "exit_when_done": true,
+   "linear_velocity_std": 0.0,
+   "table_friction": 0.44,
+   "table_restitution": 0.603
+  },
+  {
+   "Edge": 613.0,
+   "Heads": 210.0,
+   "Tails": 201.0
+  }
+ ],
+ [
+  {
+   "angular_velocity_std": 4.0,
+   "coin_density": 8.5,
+   "coin_diameter": 2.0,
+   "coin_friction": 0.44,
+   "coin_grid_size": 32,
+   "coin_grid_step": 20.0,
+   "coin_restitution": 0.3,
+   "coin_thickness": 0.908386434875181,
+   "config_file": "cupronickel.json",
+   "exit_when_done": true,
+   "linear_velocity_std": 0.0,
+   "table_friction": 0.44,
+   "table_restitution": 0.603
+  },
+  {
+   "Edge": 337.0,
+   "Heads": 332.0,
+   "Tails": 355.0
+  }
+ ],
+ [
+  {
+   "angular_velocity_std": 4.0,
+   "coin_density": 8.5,
+   "coin_diameter": 2.0,
+   "coin_friction": 0.44,
+   "coin_grid_size": 32,
+   "coin_grid_step": 20.0,
+   "coin_restitution": 0.3,
+   "coin_thickness": 2.0,
+   "config_file": "cupronickel.json",
+   "exit_when_done": true,
+   "linear_velocity_std": 0.0,
+   "table_friction": 0.44,
+   "table_restitution": 0.603
+  },
+  {
+   "Edge": 921.0,
+   "Heads": 58.0,
+   "Tails": 45.0
+  }
+ ],
+ [
+  {
+   "angular_velocity_std": 4.0,
+   "coin_density": 8.5,
+   "coin_diameter": 2.0,
+   "coin_friction": 0.44,
+   "coin_grid_size": 32,
+   "coin_grid_step": 20.0,
+   "coin_restitution": 0.3,
+   "coin_thickness": 0.9131971948372002,
+   "config_file": "cupronickel.json",
+   "exit_when_done": true,
+   "linear_velocity_std": 0.0,
+   "table_friction": 0.44,
+   "table_restitution": 0.603
+  },
+  {
+   "Edge": 361.0,
+   "Heads": 313.0,
+   "Tails": 350.0
+  }
+ ],
+ [
+  {
+   "angular_velocity_std": 4.0,
+   "coin_density": 8.5,
+   "coin_diameter": 2.0,
+   "coin_friction": 0.44,
+   "coin_grid_size": 32,
+   "coin_grid_step": 20.0,
+   "coin_restitution": 0.3,
+   "coin_thickness": 0.9105851441090486,
+   "config_file": "cupronickel.json",
+   "exit_when_done": true,
+   "linear_velocity_std": 0.0,
+   "table_friction": 0.44,
+   "table_restitution": 0.603
+  },
+  {
+   "Edge": 317.0,
+   "Heads": 339.0,
+   "Tails": 368.0
+  }
+ ],
+ [
+  {
+   "angular_velocity_std": 4.0,
+   "coin_density": 8.5,
+   "coin_diameter": 2.0,
+   "coin_friction": 0.44,
+   "coin_grid_size": 32,
+   "coin_grid_step": 20.0,
+   "coin_restitution": 0.3,
+   "coin_thickness": 0.9058299397083414,
+   "config_file": "cupronickel.json",
+   "exit_when_done": true,
+   "linear_velocity_std": 0.0,
+   "table_friction": 0.44,
+   "table_restitution": 0.603
+  },
+  {
+   "Edge": 372.0,
+   "Heads": 331.0,
+   "Tails": 321.0
+  }
+ ],
+ [
+  {
+   "angular_velocity_std": 4.0,
+   "coin_density": 8.5,
+   "coin_diameter": 2.0,
+   "coin_friction": 0.44,
+   "coin_grid_size": 32,
+   "coin_grid_step": 20.0,
+   "coin_restitution": 0.3,
+   "coin_thickness": 0.9010177740764556,
+   "config_file": "cupronickel.json",
+   "exit_when_done": true,
+   "linear_velocity_std": 0.0,
+   "table_friction": 0.44,
+   "table_restitution": 0.603
+  },
+  {
+   "Edge": 337.0,
+   "Heads": 354.0,
+   "Tails": 333.0
+  }
+ ],
+ [
+  {
+   "angular_velocity_std": 4.0,
+   "coin_density": 8.5,
+   "coin_diameter": 2.0,
+   "coin_friction": 0.44,
+   "coin_grid_size": 32,
+   "coin_grid_step": 20.0,
+   "coin_restitution": 0.3,
+   "coin_thickness": 0.9010037374659241,
+   "config_file": "cupronickel.json",
+   "exit_when_done": true,
+   "linear_velocity_std": 0.0,
+   "table_friction": 0.44,
+   "table_restitution": 0.603
+  },
+  {
+   "Edge": 353.0,
+   "Heads": 329.0,
+   "Tails": 342.0
+  }
+ ],
+ [
+  {
+   "angular_velocity_std": 4.0,
+   "coin_density": 8.5,
+   "coin_diameter": 2.0,
+   "coin_friction": 0.44,
+   "coin_grid_size": 32,
+   "coin_grid_step": 20.0,
+   "coin_restitution": 0.3,
+   "coin_thickness": 0.9026582849789294,
+   "config_file": "cupronickel.json",
+   "exit_when_done": true,
+   "linear_velocity_std": 0.0,
+   "table_friction": 0.44,
+   "table_restitution": 0.603
+  },
+  {
+   "Edge": 318.0,
+   "Heads": 374.0,
    "Tails": 332.0
   }
  ],
@@ -2402,15 +4122,302 @@
    "coin_grid_size": 32,
    "coin_grid_step": 20.0,
    "coin_restitution": 0.3,
-   "coin_thickness": 0.8663059202480526,
+   "coin_thickness": 0.9026459076312884,
+   "config_file": "cupronickel.json",
    "exit_when_done": true,
    "linear_velocity_std": 0.0,
    "table_friction": 0.44,
    "table_restitution": 0.603
   },
   {
-   "Edge": 304.0,
-   "Heads": 376.0,
+   "Edge": 336.0,
+   "Heads": 345.0,
+   "Tails": 343.0
+  }
+ ],
+ [
+  {
+   "angular_velocity_std": 4.0,
+   "coin_density": 8.5,
+   "coin_diameter": 2.0,
+   "coin_friction": 0.44,
+   "coin_grid_size": 32,
+   "coin_grid_step": 20.0,
+   "coin_restitution": 0.3,
+   "coin_thickness": 0.9038697455667917,
+   "config_file": "cupronickel.json",
+   "exit_when_done": true,
+   "linear_velocity_std": 0.0,
+   "table_friction": 0.44,
+   "table_restitution": 0.603
+  },
+  {
+   "Edge": 322.0,
+   "Heads": 371.0,
+   "Tails": 331.0
+  }
+ ],
+ [
+  {
+   "angular_velocity_std": 4.0,
+   "coin_density": 8.5,
+   "coin_diameter": 2.0,
+   "coin_friction": 0.44,
+   "coin_grid_size": 32,
+   "coin_grid_step": 20.0,
+   "coin_restitution": 0.3,
+   "coin_thickness": 0.9033219189300067,
+   "config_file": "cupronickel.json",
+   "exit_when_done": true,
+   "linear_velocity_std": 0.0,
+   "table_friction": 0.44,
+   "table_restitution": 0.603
+  },
+  {
+   "Edge": 312.0,
+   "Heads": 356.0,
+   "Tails": 356.0
+  }
+ ],
+ [
+  {
+   "angular_velocity_std": 4.0,
+   "coin_density": 8.5,
+   "coin_diameter": 2.0,
+   "coin_friction": 0.44,
+   "coin_grid_size": 32,
+   "coin_grid_step": 20.0,
+   "coin_restitution": 0.3,
+   "coin_thickness": 0.8983620058624583,
+   "config_file": "cupronickel.json",
+   "exit_when_done": true,
+   "linear_velocity_std": 0.0,
+   "table_friction": 0.44,
+   "table_restitution": 0.603
+  },
+  {
+   "Edge": 338.0,
+   "Heads": 340.0,
+   "Tails": 346.0
+  }
+ ],
+ [
+  {
+   "angular_velocity_std": 4.0,
+   "coin_density": 8.5,
+   "coin_diameter": 2.0,
+   "coin_friction": 0.44,
+   "coin_grid_size": 32,
+   "coin_grid_step": 20.0,
+   "coin_restitution": 0.3,
+   "coin_thickness": 0.8954791370416075,
+   "config_file": "cupronickel.json",
+   "exit_when_done": true,
+   "linear_velocity_std": 0.0,
+   "table_friction": 0.44,
+   "table_restitution": 0.603
+  },
+  {
+   "Edge": 310.0,
+   "Heads": 367.0,
+   "Tails": 347.0
+  }
+ ],
+ [
+  {
+   "angular_velocity_std": 4.0,
+   "coin_density": 8.5,
+   "coin_diameter": 2.0,
+   "coin_friction": 0.44,
+   "coin_grid_size": 32,
+   "coin_grid_step": 20.0,
+   "coin_restitution": 0.3,
+   "coin_thickness": 0.9100720148245257,
+   "config_file": "cupronickel.json",
+   "exit_when_done": true,
+   "linear_velocity_std": 0.0,
+   "table_friction": 0.44,
+   "table_restitution": 0.603
+  },
+  {
+   "Edge": 330.0,
+   "Heads": 356.0,
+   "Tails": 338.0
+  }
+ ],
+ [
+  {
+   "angular_velocity_std": 4.0,
+   "coin_density": 8.5,
+   "coin_diameter": 2.0,
+   "coin_friction": 0.44,
+   "coin_grid_size": 32,
+   "coin_grid_step": 20.0,
+   "coin_restitution": 0.3,
+   "coin_thickness": 0.912106508737008,
+   "config_file": "cupronickel.json",
+   "exit_when_done": true,
+   "linear_velocity_std": 0.0,
+   "table_friction": 0.44,
+   "table_restitution": 0.603
+  },
+  {
+   "Edge": 328.0,
+   "Heads": 336.0,
+   "Tails": 360.0
+  }
+ ],
+ [
+  {
+   "angular_velocity_std": 4.0,
+   "coin_density": 8.5,
+   "coin_diameter": 2.0,
+   "coin_friction": 0.44,
+   "coin_grid_size": 32,
+   "coin_grid_step": 20.0,
+   "coin_restitution": 0.3,
+   "coin_thickness": 0.9130818584890884,
+   "config_file": "cupronickel.json",
+   "exit_when_done": true,
+   "linear_velocity_std": 0.0,
+   "table_friction": 0.44,
+   "table_restitution": 0.603
+  },
+  {
+   "Edge": 342.0,
+   "Heads": 328.0,
+   "Tails": 354.0
+  }
+ ],
+ [
+  {
+   "angular_velocity_std": 4.0,
+   "coin_density": 8.5,
+   "coin_diameter": 2.0,
+   "coin_friction": 0.44,
+   "coin_grid_size": 32,
+   "coin_grid_step": 20.0,
+   "coin_restitution": 0.3,
+   "coin_thickness": 0.9169807625967802,
+   "config_file": "cupronickel.json",
+   "exit_when_done": true,
+   "linear_velocity_std": 0.0,
+   "table_friction": 0.44,
+   "table_restitution": 0.603
+  },
+  {
+   "Edge": 324.0,
+   "Heads": 358.0,
+   "Tails": 342.0
+  }
+ ],
+ [
+  {
+   "angular_velocity_std": 4.0,
+   "coin_density": 8.5,
+   "coin_diameter": 2.0,
+   "coin_friction": 0.44,
+   "coin_grid_size": 32,
+   "coin_grid_step": 20.0,
+   "coin_restitution": 0.3,
+   "coin_thickness": 0.9159661556356946,
+   "config_file": "cupronickel.json",
+   "exit_when_done": true,
+   "linear_velocity_std": 0.0,
+   "table_friction": 0.44,
+   "table_restitution": 0.603
+  },
+  {
+   "Edge": 348.0,
+   "Heads": 338.0,
+   "Tails": 338.0
+  }
+ ],
+ [
+  {
+   "angular_velocity_std": 4.0,
+   "coin_density": 8.5,
+   "coin_diameter": 2.0,
+   "coin_friction": 0.44,
+   "coin_grid_size": 32,
+   "coin_grid_step": 20.0,
+   "coin_restitution": 0.3,
+   "coin_thickness": 0.9181342465697586,
+   "config_file": "cupronickel.json",
+   "exit_when_done": true,
+   "linear_velocity_std": 0.0,
+   "table_friction": 0.44,
+   "table_restitution": 0.603
+  },
+  {
+   "Edge": 359.0,
+   "Heads": 340.0,
+   "Tails": 325.0
+  }
+ ],
+ [
+  {
+   "angular_velocity_std": 4.0,
+   "coin_density": 8.5,
+   "coin_diameter": 2.0,
+   "coin_friction": 0.44,
+   "coin_grid_size": 32,
+   "coin_grid_step": 20.0,
+   "coin_restitution": 0.3,
+   "coin_thickness": 0.9168674617926228,
+   "config_file": "cupronickel.json",
+   "exit_when_done": true,
+   "linear_velocity_std": 0.0,
+   "table_friction": 0.44,
+   "table_restitution": 0.603
+  },
+  {
+   "Edge": 338.0,
+   "Heads": 381.0,
+   "Tails": 305.0
+  }
+ ],
+ [
+  {
+   "angular_velocity_std": 4.0,
+   "coin_density": 8.5,
+   "coin_diameter": 2.0,
+   "coin_friction": 0.44,
+   "coin_grid_size": 32,
+   "coin_grid_step": 20.0,
+   "coin_restitution": 0.3,
+   "coin_thickness": 0.9195029137571876,
+   "config_file": "cupronickel.json",
+   "exit_when_done": true,
+   "linear_velocity_std": 0.0,
+   "table_friction": 0.44,
+   "table_restitution": 0.603
+  },
+  {
+   "Edge": 345.0,
+   "Heads": 350.0,
+   "Tails": 329.0
+  }
+ ],
+ [
+  {
+   "angular_velocity_std": 4.0,
+   "coin_density": 8.5,
+   "coin_diameter": 2.0,
+   "coin_friction": 0.44,
+   "coin_grid_size": 32,
+   "coin_grid_step": 20.0,
+   "coin_restitution": 0.3,
+   "coin_thickness": 0.9219415713979974,
+   "config_file": "cupronickel.json",
+   "exit_when_done": true,
+   "linear_velocity_std": 0.0,
+   "table_friction": 0.44,
+   "table_restitution": 0.603
+  },
+  {
+   "Edge": 362.0,
+   "Heads": 318.0,
    "Tails": 344.0
   }
  ],
@@ -2423,16 +4430,17 @@
    "coin_grid_size": 32,
    "coin_grid_step": 20.0,
    "coin_restitution": 0.3,
-   "coin_thickness": 0.908436989897964,
+   "coin_thickness": 0.9193897594706402,
+   "config_file": "cupronickel.json",
    "exit_when_done": true,
    "linear_velocity_std": 0.0,
    "table_friction": 0.44,
    "table_restitution": 0.603
   },
   {
-   "Edge": 332.0,
-   "Heads": 335.0,
-   "Tails": 357.0
+   "Edge": 354.0,
+   "Heads": 330.0,
+   "Tails": 340.0
   }
  ],
  [
@@ -2444,16 +4452,17 @@
    "coin_grid_size": 32,
    "coin_grid_step": 20.0,
    "coin_restitution": 0.3,
-   "coin_thickness": 0.9084218001749758,
+   "coin_thickness": 0.9194525575617353,
+   "config_file": "cupronickel.json",
    "exit_when_done": true,
    "linear_velocity_std": 0.0,
    "table_friction": 0.44,
    "table_restitution": 0.603
   },
   {
-   "Edge": 369.0,
-   "Heads": 310.0,
-   "Tails": 345.0
+   "Edge": 348.0,
+   "Heads": 339.0,
+   "Tails": 337.0
   }
  ],
  [
@@ -2465,28 +4474,8 @@
    "coin_grid_size": 32,
    "coin_grid_step": 20.0,
    "coin_restitution": 0.3,
-   "coin_thickness": 0.908471230782944,
-   "exit_when_done": true,
-   "linear_velocity_std": 0.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 339.0,
-   "Heads": 363.0,
-   "Tails": 322.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 4.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 0.9084492214068556,
+   "coin_thickness": 0.920873428993338,
+   "config_file": "cupronickel.json",
    "exit_when_done": true,
    "linear_velocity_std": 0.0,
    "table_friction": 0.44,
@@ -2507,16 +4496,17 @@
    "coin_grid_size": 32,
    "coin_grid_step": 20.0,
    "coin_restitution": 0.3,
-   "coin_thickness": 0.9084722538309379,
+   "coin_thickness": 0.917858688147055,
+   "config_file": "cupronickel.json",
    "exit_when_done": true,
    "linear_velocity_std": 0.0,
    "table_friction": 0.44,
    "table_restitution": 0.603
   },
   {
-   "Edge": 341.0,
-   "Heads": 369.0,
-   "Tails": 314.0
+   "Edge": 354.0,
+   "Heads": 357.0,
+   "Tails": 313.0
   }
  ],
  [
@@ -2528,16 +4518,17 @@
    "coin_grid_size": 32,
    "coin_grid_step": 20.0,
    "coin_restitution": 0.3,
-   "coin_thickness": 0.9554715138113181,
+   "coin_thickness": 0.9178956041583195,
+   "config_file": "cupronickel.json",
    "exit_when_done": true,
    "linear_velocity_std": 0.0,
    "table_friction": 0.44,
    "table_restitution": 0.603
   },
   {
-   "Edge": 375.0,
-   "Heads": 323.0,
-   "Tails": 326.0
+   "Edge": 323.0,
+   "Heads": 367.0,
+   "Tails": 334.0
   }
  ],
  [
@@ -2549,120 +4540,16 @@
    "coin_grid_size": 32,
    "coin_grid_step": 20.0,
    "coin_restitution": 0.3,
-   "coin_thickness": 0.9080124742714923,
+   "coin_thickness": 0.9163559289912725,
+   "config_file": "cupronickel.json",
    "exit_when_done": true,
    "linear_velocity_std": 0.0,
    "table_friction": 0.44,
    "table_restitution": 0.603
   },
   {
-   "Edge": 325.0,
-   "Heads": 353.0,
-   "Tails": 346.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 4.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 0.9080556657100556,
-   "exit_when_done": true,
-   "linear_velocity_std": 0.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 359.0,
-   "Heads": 322.0,
-   "Tails": 343.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 4.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 0.9080989959590234,
-   "exit_when_done": true,
-   "linear_velocity_std": 0.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 332.0,
-   "Heads": 337.0,
-   "Tails": 355.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 4.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 0.9081115155643541,
-   "exit_when_done": true,
-   "linear_velocity_std": 0.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 326.0,
+   "Edge": 348.0,
    "Heads": 346.0,
-   "Tails": 352.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 4.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 0.9081449356799296,
-   "exit_when_done": true,
-   "linear_velocity_std": 0.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 316.0,
-   "Heads": 368.0,
-   "Tails": 340.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 4.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 0.9081868316728113,
-   "exit_when_done": true,
-   "linear_velocity_std": 0.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 359.0,
-   "Heads": 335.0,
    "Tails": 330.0
   }
  ],
@@ -2675,16 +4562,17 @@
    "coin_grid_size": 32,
    "coin_grid_step": 20.0,
    "coin_restitution": 0.3,
-   "coin_thickness": 0.9082215608690034,
+   "coin_thickness": 0.917685789601854,
+   "config_file": "cupronickel.json",
    "exit_when_done": true,
    "linear_velocity_std": 0.0,
    "table_friction": 0.44,
    "table_restitution": 0.603
   },
   {
-   "Edge": 336.0,
-   "Heads": 337.0,
-   "Tails": 351.0
+   "Edge": 373.0,
+   "Heads": 323.0,
+   "Tails": 328.0
   }
  ],
  [
@@ -2696,16 +4584,17 @@
    "coin_grid_size": 32,
    "coin_grid_step": 20.0,
    "coin_restitution": 0.3,
-   "coin_thickness": 0.9232644297347389,
+   "coin_thickness": 0.9070606075531056,
+   "config_file": "cupronickel.json",
    "exit_when_done": true,
-   "linear_velocity_std": 2.0,
+   "linear_velocity_std": 0.0,
    "table_friction": 0.44,
    "table_restitution": 0.603
   },
   {
-   "Edge": 366.0,
-   "Heads": 349.0,
-   "Tails": 309.0
+   "Edge": 370.0,
+   "Heads": 310.0,
+   "Tails": 344.0
   }
  ],
  [
@@ -2717,646 +4606,17 @@
    "coin_grid_size": 32,
    "coin_grid_step": 20.0,
    "coin_restitution": 0.3,
-   "coin_thickness": 0.8175765815792859,
+   "coin_thickness": 0.910246708958159,
+   "config_file": "cupronickel.json",
    "exit_when_done": true,
-   "linear_velocity_std": 2.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 267.0,
-   "Heads": 352.0,
-   "Tails": 405.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 4.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 0.4284077462992416,
-   "exit_when_done": true,
-   "linear_velocity_std": 2.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 39.0,
-   "Heads": 516.0,
-   "Tails": 468.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 4.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 0.3523505653517517,
-   "exit_when_done": true,
-   "linear_velocity_std": 2.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 11.0,
-   "Heads": 512.0,
-   "Tails": 498.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 4.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 2.0,
-   "exit_when_done": true,
-   "linear_velocity_std": 2.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 900.0,
-   "Heads": 54.0,
-   "Tails": 70.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 4.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 1.1200882519055062,
-   "exit_when_done": true,
-   "linear_velocity_std": 2.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 532.0,
-   "Heads": 253.0,
-   "Tails": 239.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 4.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 0.961005777606496,
-   "exit_when_done": true,
-   "linear_velocity_std": 2.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 405.0,
-   "Heads": 308.0,
-   "Tails": 311.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 4.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 0.8949575696453119,
-   "exit_when_done": true,
-   "linear_velocity_std": 2.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 334.0,
-   "Heads": 353.0,
-   "Tails": 337.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 4.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 1.4718771738316347,
-   "exit_when_done": true,
-   "linear_velocity_std": 2.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 768.0,
-   "Heads": 132.0,
-   "Tails": 124.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 4.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 0.1,
-   "exit_when_done": true,
-   "linear_velocity_std": 2.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 0.0,
-   "Heads": 472.0,
-   "Tails": 548.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 4.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 0.8791472100114869,
-   "exit_when_done": true,
-   "linear_velocity_std": 2.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 317.0,
-   "Heads": 344.0,
-   "Tails": 363.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 4.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 0.8959993384993308,
-   "exit_when_done": true,
-   "linear_velocity_std": 2.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 328.0,
-   "Heads": 345.0,
-   "Tails": 351.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 4.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 0.6464780214798196,
-   "exit_when_done": true,
-   "linear_velocity_std": 2.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 123.0,
-   "Heads": 468.0,
-   "Tails": 433.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 4.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 1.72076843511889,
-   "exit_when_done": true,
-   "linear_velocity_std": 2.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 814.0,
-   "Heads": 104.0,
-   "Tails": 106.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 4.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 0.8950104378241875,
-   "exit_when_done": true,
-   "linear_velocity_std": 2.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 349.0,
-   "Heads": 334.0,
-   "Tails": 341.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 4.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 0.8955302524988882,
-   "exit_when_done": true,
-   "linear_velocity_std": 2.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 326.0,
-   "Heads": 360.0,
-   "Tails": 338.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 4.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 0.8963128472038205,
-   "exit_when_done": true,
-   "linear_velocity_std": 2.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 361.0,
-   "Heads": 326.0,
-   "Tails": 337.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 4.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 1.2731066466694914,
-   "exit_when_done": true,
-   "linear_velocity_std": 2.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 643.0,
-   "Heads": 197.0,
-   "Tails": 184.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 4.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 0.8946544867513639,
-   "exit_when_done": true,
-   "linear_velocity_std": 2.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 325.0,
-   "Heads": 322.0,
-   "Tails": 377.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 4.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 0.8714708063236023,
-   "exit_when_done": true,
-   "linear_velocity_std": 2.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 313.0,
-   "Heads": 354.0,
-   "Tails": 357.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 4.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 0.9000211663577989,
-   "exit_when_done": true,
-   "linear_velocity_std": 2.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 341.0,
-   "Heads": 326.0,
-   "Tails": 357.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 4.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 0.8998092017140755,
-   "exit_when_done": true,
-   "linear_velocity_std": 2.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 351.0,
-   "Heads": 326.0,
-   "Tails": 347.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 4.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 0.21268367630389454,
-   "exit_when_done": true,
-   "linear_velocity_std": 2.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 0.0,
-   "Heads": 506.0,
-   "Tails": 514.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 4.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 0.8997558536113561,
-   "exit_when_done": true,
-   "linear_velocity_std": 2.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 342.0,
-   "Heads": 329.0,
-   "Tails": 353.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 4.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 0.9000606417144035,
-   "exit_when_done": true,
-   "linear_velocity_std": 2.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 331.0,
-   "Heads": 347.0,
-   "Tails": 346.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 4.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 0.9006684786209438,
-   "exit_when_done": true,
-   "linear_velocity_std": 2.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 342.0,
-   "Heads": 320.0,
-   "Tails": 362.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 4.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 0.921349193729719,
-   "exit_when_done": true,
-   "linear_velocity_std": 2.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 350.0,
-   "Heads": 326.0,
-   "Tails": 348.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 4.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 0.9030590400767181,
-   "exit_when_done": true,
-   "linear_velocity_std": 2.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 335.0,
-   "Heads": 334.0,
-   "Tails": 355.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 4.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 0.9040376252335821,
-   "exit_when_done": true,
-   "linear_velocity_std": 2.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 348.0,
-   "Heads": 325.0,
-   "Tails": 351.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 4.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 0.9049659543675599,
-   "exit_when_done": true,
-   "linear_velocity_std": 2.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 354.0,
-   "Heads": 327.0,
-   "Tails": 343.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 4.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 0.9046746876601,
-   "exit_when_done": true,
-   "linear_velocity_std": 2.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 338.0,
-   "Heads": 365.0,
-   "Tails": 321.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 4.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 0.9055726377146582,
-   "exit_when_done": true,
-   "linear_velocity_std": 2.0,
+   "linear_velocity_std": 0.0,
    "table_friction": 0.44,
    "table_restitution": 0.603
   },
   {
    "Edge": 329.0,
-   "Heads": 357.0,
-   "Tails": 338.0
+   "Heads": 345.0,
+   "Tails": 350.0
   }
  ],
  [
@@ -3368,16 +4628,17 @@
    "coin_grid_size": 32,
    "coin_grid_step": 20.0,
    "coin_restitution": 0.3,
-   "coin_thickness": 0.9052367487749801,
+   "coin_thickness": 0.9117977699009894,
+   "config_file": "cupronickel.json",
    "exit_when_done": true,
-   "linear_velocity_std": 2.0,
+   "linear_velocity_std": 0.0,
    "table_friction": 0.44,
    "table_restitution": 0.603
   },
   {
-   "Edge": 324.0,
-   "Heads": 332.0,
-   "Tails": 368.0
+   "Edge": 341.0,
+   "Heads": 358.0,
+   "Tails": 325.0
   }
  ],
  [
@@ -3389,16 +4650,17 @@
    "coin_grid_size": 32,
    "coin_grid_step": 20.0,
    "coin_restitution": 0.3,
-   "coin_thickness": 0.9037352430105489,
+   "coin_thickness": 0.9143599351709979,
+   "config_file": "cupronickel.json",
    "exit_when_done": true,
-   "linear_velocity_std": 2.0,
+   "linear_velocity_std": 0.0,
    "table_friction": 0.44,
    "table_restitution": 0.603
   },
   {
-   "Edge": 331.0,
-   "Heads": 341.0,
-   "Tails": 351.0
+   "Edge": 358.0,
+   "Heads": 330.0,
+   "Tails": 336.0
   }
  ],
  [
@@ -3410,36 +4672,16 @@
    "coin_grid_size": 32,
    "coin_grid_step": 20.0,
    "coin_restitution": 0.3,
-   "coin_thickness": 0.904008194872659,
+   "coin_thickness": 0.9121517075909268,
+   "config_file": "cupronickel.json",
    "exit_when_done": true,
-   "linear_velocity_std": 2.0,
+   "linear_velocity_std": 0.0,
    "table_friction": 0.44,
    "table_restitution": 0.603
   },
   {
-   "Edge": 350.0,
-   "Heads": 322.0,
-   "Tails": 352.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 4.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 0.9043688906941053,
-   "exit_when_done": true,
-   "linear_velocity_std": 2.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 344.0,
-   "Heads": 359.0,
+   "Edge": 333.0,
+   "Heads": 370.0,
    "Tails": 321.0
   }
  ],
@@ -3452,16 +4694,17 @@
    "coin_grid_size": 32,
    "coin_grid_step": 20.0,
    "coin_restitution": 0.3,
-   "coin_thickness": 0.7427622977277912,
+   "coin_thickness": 0.9144658257579125,
+   "config_file": "cupronickel.json",
    "exit_when_done": true,
-   "linear_velocity_std": 2.0,
+   "linear_velocity_std": 0.0,
    "table_friction": 0.44,
    "table_restitution": 0.603
   },
   {
-   "Edge": 212.0,
-   "Heads": 416.0,
-   "Tails": 396.0
+   "Edge": 352.0,
+   "Heads": 333.0,
+   "Tails": 339.0
   }
  ],
  [
@@ -3473,99 +4716,38 @@
    "coin_grid_size": 32,
    "coin_grid_step": 20.0,
    "coin_restitution": 0.3,
-   "coin_thickness": 0.905697888805237,
+   "coin_thickness": 0.9154293871948196,
+   "config_file": "cupronickel.json",
    "exit_when_done": true,
-   "linear_velocity_std": 2.0,
+   "linear_velocity_std": 0.0,
+   "table_friction": 0.44,
+   "table_restitution": 0.603
+  },
+  {
+   "Edge": 328.0,
+   "Heads": 378.0,
+   "Tails": 318.0
+  }
+ ],
+ [
+  {
+   "angular_velocity_std": 4.0,
+   "coin_density": 8.5,
+   "coin_diameter": 2.0,
+   "coin_friction": 0.44,
+   "coin_grid_size": 32,
+   "coin_grid_step": 20.0,
+   "coin_restitution": 0.3,
+   "coin_thickness": 0.9154024691912012,
+   "config_file": "cupronickel.json",
+   "exit_when_done": true,
+   "linear_velocity_std": 0.0,
    "table_friction": 0.44,
    "table_restitution": 0.603
   },
   {
    "Edge": 339.0,
-   "Heads": 338.0,
-   "Tails": 347.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 4.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 0.9061973996567703,
-   "exit_when_done": true,
-   "linear_velocity_std": 2.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 372.0,
-   "Heads": 346.0,
-   "Tails": 306.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 4.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 0.9018351491827203,
-   "exit_when_done": true,
-   "linear_velocity_std": 2.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 357.0,
-   "Heads": 330.0,
-   "Tails": 337.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 4.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 0.9017485241443961,
-   "exit_when_done": true,
-   "linear_velocity_std": 2.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 323.0,
-   "Heads": 344.0,
-   "Tails": 357.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 4.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 0.9013838872582411,
-   "exit_when_done": true,
-   "linear_velocity_std": 2.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 348.0,
-   "Heads": 334.0,
+   "Heads": 343.0,
    "Tails": 342.0
   }
  ],
@@ -3578,1801 +4760,193 @@
    "coin_grid_size": 32,
    "coin_grid_step": 20.0,
    "coin_restitution": 0.3,
-   "coin_thickness": 0.9017278499281755,
+   "coin_thickness": 0.9177535239633579,
+   "config_file": "cupronickel.json",
    "exit_when_done": true,
-   "linear_velocity_std": 2.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 339.0,
-   "Heads": 331.0,
-   "Tails": 354.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 4.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 0.901935606521607,
-   "exit_when_done": true,
-   "linear_velocity_std": 2.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 358.0,
-   "Heads": 321.0,
-   "Tails": 345.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 4.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 0.901731996671794,
-   "exit_when_done": true,
-   "linear_velocity_std": 2.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 334.0,
-   "Heads": 339.0,
-   "Tails": 351.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 4.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 0.9020562200185746,
-   "exit_when_done": true,
-   "linear_velocity_std": 2.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 340.0,
-   "Heads": 335.0,
-   "Tails": 349.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 4.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 0.9022576454610036,
-   "exit_when_done": true,
-   "linear_velocity_std": 2.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 336.0,
-   "Heads": 336.0,
-   "Tails": 352.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 4.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 0.9025894253011529,
-   "exit_when_done": true,
-   "linear_velocity_std": 2.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 345.0,
-   "Heads": 324.0,
-   "Tails": 355.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 4.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 0.9029294513511534,
-   "exit_when_done": true,
-   "linear_velocity_std": 2.0,
+   "linear_velocity_std": 0.0,
    "table_friction": 0.44,
    "table_restitution": 0.603
   },
   {
    "Edge": 352.0,
-   "Heads": 348.0,
-   "Tails": 324.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 4.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 0.9030463009098256,
-   "exit_when_done": true,
-   "linear_velocity_std": 2.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 331.0,
-   "Heads": 356.0,
-   "Tails": 337.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 4.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 0.9031690921855288,
-   "exit_when_done": true,
-   "linear_velocity_std": 2.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 337.0,
-   "Heads": 353.0,
-   "Tails": 334.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 4.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 0.9035229823553487,
-   "exit_when_done": true,
-   "linear_velocity_std": 2.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 303.0,
-   "Heads": 348.0,
-   "Tails": 373.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 4.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 0.8974431754241032,
-   "exit_when_done": true,
-   "linear_velocity_std": 2.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 322.0,
-   "Heads": 370.0,
-   "Tails": 332.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 4.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 0.8981673277545856,
-   "exit_when_done": true,
-   "linear_velocity_std": 2.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 353.0,
-   "Heads": 341.0,
-   "Tails": 330.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 4.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 0.8986794638436513,
-   "exit_when_done": true,
-   "linear_velocity_std": 2.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 314.0,
-   "Heads": 357.0,
-   "Tails": 352.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 4.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 0.8984973313736085,
-   "exit_when_done": true,
-   "linear_velocity_std": 2.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 334.0,
-   "Heads": 339.0,
-   "Tails": 351.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 4.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 0.8986907081814222,
-   "exit_when_done": true,
-   "linear_velocity_std": 2.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 344.0,
-   "Heads": 348.0,
-   "Tails": 332.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 4.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 0.8983426130827832,
-   "exit_when_done": true,
-   "linear_velocity_std": 2.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 350.0,
-   "Heads": 331.0,
-   "Tails": 343.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 4.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 0.898661123501811,
-   "exit_when_done": true,
-   "linear_velocity_std": 2.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 355.0,
-   "Heads": 328.0,
-   "Tails": 341.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 4.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 0.8992838329179762,
-   "exit_when_done": true,
-   "linear_velocity_std": 2.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 326.0,
-   "Heads": 342.0,
-   "Tails": 356.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 4.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 0.8998596016904219,
-   "exit_when_done": true,
-   "linear_velocity_std": 2.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 312.0,
-   "Heads": 378.0,
-   "Tails": 334.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 4.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 0.8984360483710383,
-   "exit_when_done": true,
-   "linear_velocity_std": 2.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 314.0,
-   "Heads": 360.0,
-   "Tails": 350.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 4.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 0.8987252062675221,
-   "exit_when_done": true,
-   "linear_velocity_std": 2.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 345.0,
-   "Heads": 365.0,
-   "Tails": 314.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 4.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 0.898344052039018,
-   "exit_when_done": true,
-   "linear_velocity_std": 2.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 312.0,
-   "Heads": 341.0,
-   "Tails": 371.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 0.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 1.5632722265170236,
-   "exit_when_done": true,
-   "linear_velocity_std": 2.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 791.0,
-   "Heads": 105.0,
-   "Tails": 128.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 0.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 1.2246475653969584,
-   "exit_when_done": true,
-   "linear_velocity_std": 2.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 506.0,
-   "Heads": 244.0,
-   "Tails": 274.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 0.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 0.3004764671373492,
-   "exit_when_done": true,
-   "linear_velocity_std": 2.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 11.0,
-   "Heads": 527.0,
-   "Tails": 483.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 0.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 1.910956144574992,
-   "exit_when_done": true,
-   "linear_velocity_std": 2.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 878.0,
-   "Heads": 71.0,
-   "Tails": 75.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 0.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 1.2043879838826328,
-   "exit_when_done": true,
-   "linear_velocity_std": 2.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 521.0,
-   "Heads": 249.0,
-   "Tails": 254.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 0.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 1.303325827548295,
-   "exit_when_done": true,
-   "linear_velocity_std": 2.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 620.0,
-   "Heads": 196.0,
-   "Tails": 208.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 0.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 0.9098592888937936,
-   "exit_when_done": true,
-   "linear_velocity_std": 2.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 301.0,
-   "Heads": 389.0,
-   "Tails": 334.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 0.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 0.9171967010517409,
-   "exit_when_done": true,
-   "linear_velocity_std": 2.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 304.0,
-   "Heads": 360.0,
-   "Tails": 360.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 0.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 0.9569115354135425,
-   "exit_when_done": true,
-   "linear_velocity_std": 2.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 342.0,
-   "Heads": 348.0,
-   "Tails": 334.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 0.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 0.7288166111856639,
-   "exit_when_done": true,
-   "linear_velocity_std": 2.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 167.0,
-   "Heads": 414.0,
-   "Tails": 443.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 0.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 1.0134786452561644,
-   "exit_when_done": true,
-   "linear_velocity_std": 2.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 362.0,
-   "Heads": 310.0,
-   "Tails": 351.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 0.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 1.0006228597282858,
-   "exit_when_done": true,
-   "linear_velocity_std": 2.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 383.0,
-   "Heads": 309.0,
-   "Tails": 332.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 0.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 0.1,
-   "exit_when_done": true,
-   "linear_velocity_std": 2.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 1.0,
-   "Heads": 509.0,
-   "Tails": 513.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 0.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 0.9858323095317392,
-   "exit_when_done": true,
-   "linear_velocity_std": 2.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 355.0,
-   "Heads": 336.0,
-   "Tails": 333.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 0.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 1.0126844079947368,
-   "exit_when_done": true,
-   "linear_velocity_std": 2.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 385.0,
-   "Heads": 347.0,
-   "Tails": 292.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 0.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 0.9386308453458428,
-   "exit_when_done": true,
-   "linear_velocity_std": 2.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 340.0,
-   "Heads": 338.0,
-   "Tails": 346.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 0.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 0.9338548558291377,
-   "exit_when_done": true,
-   "linear_velocity_std": 2.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 308.0,
-   "Heads": 368.0,
-   "Tails": 348.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 0.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 1.0133012360862577,
-   "exit_when_done": true,
-   "linear_velocity_std": 2.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 343.0,
-   "Heads": 317.0,
-   "Tails": 364.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 0.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 1.0115689264775765,
-   "exit_when_done": true,
-   "linear_velocity_std": 2.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 387.0,
-   "Heads": 315.0,
-   "Tails": 322.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 0.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 0.9671130984432119,
-   "exit_when_done": true,
-   "linear_velocity_std": 2.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 336.0,
-   "Heads": 342.0,
-   "Tails": 346.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 0.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 0.9238854106783656,
-   "exit_when_done": true,
-   "linear_velocity_std": 2.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 309.0,
-   "Heads": 361.0,
-   "Tails": 354.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 0.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 1.0211910784354392,
-   "exit_when_done": true,
-   "linear_velocity_std": 2.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 399.0,
-   "Heads": 291.0,
-   "Tails": 334.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 0.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 0.9127396933146826,
-   "exit_when_done": true,
-   "linear_velocity_std": 2.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 299.0,
-   "Heads": 373.0,
-   "Tails": 352.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 0.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 0.9664817112445447,
-   "exit_when_done": true,
-   "linear_velocity_std": 2.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 355.0,
-   "Heads": 343.0,
-   "Tails": 326.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 0.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 0.91127641134506,
-   "exit_when_done": true,
-   "linear_velocity_std": 2.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 298.0,
-   "Heads": 372.0,
-   "Tails": 354.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 0.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 0.9708012778027032,
-   "exit_when_done": true,
-   "linear_velocity_std": 2.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 349.0,
-   "Heads": 336.0,
-   "Tails": 339.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 0.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 0.9707380633158021,
-   "exit_when_done": true,
-   "linear_velocity_std": 2.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 354.0,
-   "Heads": 334.0,
-   "Tails": 336.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 0.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 1.039489423822115,
-   "exit_when_done": true,
-   "linear_velocity_std": 2.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 411.0,
-   "Heads": 300.0,
-   "Tails": 313.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 0.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 0.9615118690807342,
-   "exit_when_done": true,
-   "linear_velocity_std": 2.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 337.0,
-   "Heads": 349.0,
-   "Tails": 338.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 0.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 0.5334081590726271,
-   "exit_when_done": true,
-   "linear_velocity_std": 2.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 81.0,
-   "Heads": 424.0,
-   "Tails": 519.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 0.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 0.8949680710982556,
-   "exit_when_done": true,
-   "linear_velocity_std": 2.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 316.0,
-   "Heads": 375.0,
-   "Tails": 333.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 0.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 0.9602253342129485,
-   "exit_when_done": true,
-   "linear_velocity_std": 2.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 354.0,
-   "Heads": 330.0,
-   "Tails": 340.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 0.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 0.9492940317871624,
-   "exit_when_done": true,
-   "linear_velocity_std": 2.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 329.0,
-   "Heads": 339.0,
-   "Tails": 356.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 0.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 0.960033260311884,
-   "exit_when_done": true,
-   "linear_velocity_std": 2.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 352.0,
-   "Heads": 316.0,
-   "Tails": 356.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 0.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 0.878795783170197,
-   "exit_when_done": true,
-   "linear_velocity_std": 2.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 258.0,
-   "Heads": 373.0,
-   "Tails": 393.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 0.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 0.9632813508341961,
-   "exit_when_done": true,
-   "linear_velocity_std": 2.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 349.0,
-   "Heads": 330.0,
-   "Tails": 345.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 0.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 0.9641582291438715,
-   "exit_when_done": true,
-   "linear_velocity_std": 2.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 335.0,
-   "Heads": 357.0,
-   "Tails": 331.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 0.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 0.9644150196961262,
-   "exit_when_done": true,
-   "linear_velocity_std": 2.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 329.0,
-   "Heads": 319.0,
-   "Tails": 376.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 0.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 1.9999608916259144,
-   "exit_when_done": true,
-   "linear_velocity_std": 2.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 907.0,
-   "Heads": 53.0,
-   "Tails": 64.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 0.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 0.9640852469783141,
-   "exit_when_done": true,
-   "linear_velocity_std": 2.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 302.0,
-   "Heads": 368.0,
-   "Tails": 354.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 0.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 0.9632547398071439,
-   "exit_when_done": true,
-   "linear_velocity_std": 2.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 315.0,
-   "Heads": 351.0,
-   "Tails": 358.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 0.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 1.0825880377162183,
-   "exit_when_done": true,
-   "linear_velocity_std": 2.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 433.0,
-   "Heads": 298.0,
-   "Tails": 293.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 0.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 0.9645633274694364,
-   "exit_when_done": true,
-   "linear_velocity_std": 2.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 328.0,
-   "Heads": 350.0,
-   "Tails": 346.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 0.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 0.9645486965652597,
-   "exit_when_done": true,
-   "linear_velocity_std": 2.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 338.0,
-   "Heads": 355.0,
-   "Tails": 330.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 0.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 0.9630756800290792,
-   "exit_when_done": true,
-   "linear_velocity_std": 2.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 326.0,
-   "Heads": 348.0,
-   "Tails": 350.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 0.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 0.9630617634762964,
-   "exit_when_done": true,
-   "linear_velocity_std": 2.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 316.0,
-   "Heads": 357.0,
-   "Tails": 351.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 0.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 0.9630550372122237,
-   "exit_when_done": true,
-   "linear_velocity_std": 2.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 341.0,
-   "Heads": 337.0,
-   "Tails": 346.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 0.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 0.9630543615517214,
-   "exit_when_done": true,
-   "linear_velocity_std": 2.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 343.0,
-   "Heads": 346.0,
-   "Tails": 335.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 0.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 0.9630506645351042,
-   "exit_when_done": true,
-   "linear_velocity_std": 2.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 328.0,
-   "Heads": 356.0,
-   "Tails": 340.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 0.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 0.9630412397198977,
-   "exit_when_done": true,
-   "linear_velocity_std": 2.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 345.0,
-   "Heads": 335.0,
-   "Tails": 344.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 0.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 1.724745415657498,
-   "exit_when_done": true,
-   "linear_velocity_std": 2.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 822.0,
-   "Heads": 93.0,
-   "Tails": 109.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 0.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 0.9630650626908929,
-   "exit_when_done": true,
-   "linear_velocity_std": 2.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 327.0,
-   "Heads": 346.0,
-   "Tails": 351.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 0.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 0.9630542389973087,
-   "exit_when_done": true,
-   "linear_velocity_std": 2.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 337.0,
-   "Heads": 348.0,
-   "Tails": 339.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 0.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 0.8324620931039728,
-   "exit_when_done": true,
-   "linear_velocity_std": 2.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 239.0,
-   "Heads": 377.0,
-   "Tails": 408.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 0.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 0.9630941901614757,
-   "exit_when_done": true,
-   "linear_velocity_std": 2.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 338.0,
-   "Heads": 335.0,
-   "Tails": 350.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 0.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 0.963116372970364,
-   "exit_when_done": true,
-   "linear_velocity_std": 2.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 328.0,
-   "Heads": 345.0,
-   "Tails": 351.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 0.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 0.9814296097264426,
-   "exit_when_done": true,
-   "linear_velocity_std": 2.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 349.0,
-   "Heads": 324.0,
-   "Tails": 351.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 0.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 0.9633899492142929,
-   "exit_when_done": true,
-   "linear_velocity_std": 2.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 309.0,
-   "Heads": 349.0,
-   "Tails": 366.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 0.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 0.963341581984715,
-   "exit_when_done": true,
-   "linear_velocity_std": 2.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 341.0,
-   "Heads": 347.0,
-   "Tails": 336.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 0.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 0.9633553393944191,
-   "exit_when_done": true,
-   "linear_velocity_std": 2.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 341.0,
-   "Heads": 333.0,
-   "Tails": 350.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 0.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 0.9633702616431663,
-   "exit_when_done": true,
-   "linear_velocity_std": 2.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 353.0,
-   "Heads": 339.0,
-   "Tails": 332.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 0.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 0.9633830473077848,
-   "exit_when_done": true,
-   "linear_velocity_std": 2.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 338.0,
-   "Heads": 341.0,
-   "Tails": 345.0
-  }
- ],
- [
-  {
-   "angular_velocity_std": 0.0,
-   "coin_density": 8.5,
-   "coin_diameter": 2.0,
-   "coin_friction": 0.44,
-   "coin_grid_size": 32,
-   "coin_grid_step": 20.0,
-   "coin_restitution": 0.3,
-   "coin_thickness": 0.9860894264649465,
-   "exit_when_done": true,
-   "linear_velocity_std": 2.0,
-   "table_friction": 0.44,
-   "table_restitution": 0.603
-  },
-  {
-   "Edge": 327.0,
    "Heads": 344.0,
+   "Tails": 328.0
+  }
+ ],
+ [
+  {
+   "angular_velocity_std": 4.0,
+   "coin_density": 8.5,
+   "coin_diameter": 2.0,
+   "coin_friction": 0.44,
+   "coin_grid_size": 32,
+   "coin_grid_step": 20.0,
+   "coin_restitution": 0.3,
+   "coin_thickness": 0.9182570278195634,
+   "config_file": "cupronickel.json",
+   "exit_when_done": true,
+   "linear_velocity_std": 0.0,
+   "table_friction": 0.44,
+   "table_restitution": 0.603
+  },
+  {
+   "Edge": 338.0,
+   "Heads": 333.0,
    "Tails": 353.0
   }
  ],
  [
   {
-   "angular_velocity_std": 0.0,
+   "angular_velocity_std": 4.0,
    "coin_density": 8.5,
    "coin_diameter": 2.0,
    "coin_friction": 0.44,
    "coin_grid_size": 32,
    "coin_grid_step": 20.0,
    "coin_restitution": 0.3,
-   "coin_thickness": 0.963349720213717,
+   "coin_thickness": 0.9200804120153157,
+   "config_file": "cupronickel.json",
    "exit_when_done": true,
-   "linear_velocity_std": 2.0,
+   "linear_velocity_std": 0.0,
    "table_friction": 0.44,
    "table_restitution": 0.603
   },
   {
    "Edge": 335.0,
-   "Heads": 354.0,
-   "Tails": 335.0
+   "Heads": 342.0,
+   "Tails": 347.0
+  }
+ ],
+ [
+  {
+   "angular_velocity_std": 4.0,
+   "coin_density": 8.5,
+   "coin_diameter": 2.0,
+   "coin_friction": 0.44,
+   "coin_grid_size": 32,
+   "coin_grid_step": 20.0,
+   "coin_restitution": 0.3,
+   "coin_thickness": 0.9212888305260383,
+   "config_file": "cupronickel.json",
+   "exit_when_done": true,
+   "linear_velocity_std": 0.0,
+   "table_friction": 0.44,
+   "table_restitution": 0.603
+  },
+  {
+   "Edge": 319.0,
+   "Heads": 333.0,
+   "Tails": 372.0
+  }
+ ],
+ [
+  {
+   "angular_velocity_std": 4.0,
+   "coin_density": 8.5,
+   "coin_diameter": 2.0,
+   "coin_friction": 0.44,
+   "coin_grid_size": 32,
+   "coin_grid_step": 20.0,
+   "coin_restitution": 0.3,
+   "coin_thickness": 0.9186393087456697,
+   "config_file": "cupronickel.json",
+   "exit_when_done": true,
+   "linear_velocity_std": 0.0,
+   "table_friction": 0.44,
+   "table_restitution": 0.603
+  },
+  {
+   "Edge": 355.0,
+   "Heads": 324.0,
+   "Tails": 345.0
+  }
+ ],
+ [
+  {
+   "angular_velocity_std": 4.0,
+   "coin_density": 8.5,
+   "coin_diameter": 2.0,
+   "coin_friction": 0.44,
+   "coin_grid_size": 32,
+   "coin_grid_step": 20.0,
+   "coin_restitution": 0.3,
+   "coin_thickness": 0.9183421853020565,
+   "config_file": "cupronickel.json",
+   "exit_when_done": true,
+   "linear_velocity_std": 0.0,
+   "table_friction": 0.44,
+   "table_restitution": 0.603
+  },
+  {
+   "Edge": 353.0,
+   "Heads": 346.0,
+   "Tails": 325.0
+  }
+ ],
+ [
+  {
+   "angular_velocity_std": 4.0,
+   "coin_density": 8.5,
+   "coin_diameter": 2.0,
+   "coin_friction": 0.44,
+   "coin_grid_size": 32,
+   "coin_grid_step": 20.0,
+   "coin_restitution": 0.3,
+   "coin_thickness": 0.918532837398989,
+   "config_file": "cupronickel.json",
+   "exit_when_done": true,
+   "linear_velocity_std": 0.0,
+   "table_friction": 0.44,
+   "table_restitution": 0.603
+  },
+  {
+   "Edge": 337.0,
+   "Heads": 357.0,
+   "Tails": 330.0
+  }
+ ],
+ [
+  {
+   "angular_velocity_std": 4.0,
+   "coin_density": 8.5,
+   "coin_diameter": 2.0,
+   "coin_friction": 0.44,
+   "coin_grid_size": 32,
+   "coin_grid_step": 20.0,
+   "coin_restitution": 0.3,
+   "coin_thickness": 0.9200957612619383,
+   "config_file": "cupronickel.json",
+   "exit_when_done": true,
+   "linear_velocity_std": 0.0,
+   "table_friction": 0.44,
+   "table_restitution": 0.603
+  },
+  {
+   "Edge": 372.0,
+   "Heads": 332.0,
+   "Tails": 320.0
+  }
+ ],
+ [
+  {
+   "angular_velocity_std": 4.0,
+   "coin_density": 8.5,
+   "coin_diameter": 2.0,
+   "coin_friction": 0.44,
+   "coin_grid_size": 32,
+   "coin_grid_step": 20.0,
+   "coin_restitution": 0.3,
+   "coin_thickness": 0.9075268893718681,
+   "config_file": "cupronickel.json",
+   "exit_when_done": true,
+   "linear_velocity_std": 0.0,
+   "table_friction": 0.44,
+   "table_restitution": 0.603
+  },
+  {
+   "Edge": 370.0,
+   "Heads": 334.0,
+   "Tails": 320.0
   }
  ]
 ]

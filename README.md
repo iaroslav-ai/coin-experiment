@@ -26,10 +26,19 @@ A copper - nickel alloy coin of diameter 2.0 cm was simulated.
 
 | Angular speeds sigma  | Lin. speeds sigma  | Best thickness |
 | --------------------- | ------------------ | -------------- |
-| 0.0 | 0.0 | 1.002 |
-| 0.0 | 2.0 | 0.969 |
-| 4.0 | 0.0 | 0.911 |
-| 4.0 | 2.0 | 0.904 |
+| 0.0 | 0.0 | 1.000 |
+| 0.0 | 2.0 | 0.970 |
+| 4.0 | 0.0 | 0.910 |
+| 4.0 | 2.0 | 0.903 |
+
+Similar results are obtained with coin simulated to be made of plastic:
+
+| Angular speeds sigma  | Lin. speeds sigma  | Best thickness |
+| --------------------- | ------------------ | -------------- |
+| 0.0 | 0.0 | 0.987 |
+| 0.0 | 2.0 | 0.979 |
+| 4.0 | 0.0 | 0.949 |
+| 4.0 | 2.0 | 0.928 |
 
 Find more experimental details below!
 
@@ -78,8 +87,16 @@ Here you can find graphs with thickness values that were
 tried. The thickness of coin was automatically optimized using
 [scikit-optimize](https://github.com/scikit-optimize/scikit-optimize) package.
 
+### Copper - nickel coin
+
 <p align="center">
-  <img src="https://github.com/iaroslav-ai/coin-experiment/blob/master/media/data_plot.png?raw=true", height="450px"/>
+  <img src="https://github.com/iaroslav-ai/coin-experiment/blob/master/media/cupronickel.png?raw=true", height="450px"/>
+</p>
+
+### Plastic coin
+
+<p align="center">
+  <img src="https://github.com/iaroslav-ai/coin-experiment/blob/master/media/hardplastic.png?raw=true", height="450px"/>
 </p>
 
 ## Unit conversion
