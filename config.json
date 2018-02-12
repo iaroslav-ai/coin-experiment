@@ -1,15 +1,33 @@
 {
- "angular_velocity_std": 2.0,
- "coin_density": 0.95,
+ "angular_velocity_mean": [
+  0.0,
+  8.8,
+  0.0
+ ],
+ "angular_velocity_std": [
+  0.0,
+  3.1,
+  0.0
+ ],
+ "coin_density": 8.5,
  "coin_diameter": 2.0,
- "coin_friction": 0.4,
+ "coin_friction": 0.44,
  "coin_grid_size": 8,
  "coin_grid_step": 20.0,
- "coin_restitution": 0.688,
+ "coin_restitution": 0.3,
  "coin_thickness": 1.0,
- "config_file": "hardplastic.json",
  "exit_when_done": false,
- "linear_velocity_std": 2.0,
- "table_friction": 0.4,
- "table_restitution": 0.603
+ "linear_velocity_mean": [
+  5.0,
+  1.0,
+  4.0
+ ],
+ "linear_velocity_std": [
+  2.0,
+  0.0,
+  2.0
+ ],
+ "table_friction": 0.44,
+ "table_restitution": 0.603,
+ "uniformly_rotate": false
 }

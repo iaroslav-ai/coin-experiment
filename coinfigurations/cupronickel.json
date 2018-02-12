@@ -10,5 +10,6 @@
  "coin_diameter": 2.0,
  "table_friction": 0.44,
  "table_restitution": 0.603,
- "exit_when_done": true
+ "exit_when_done": true,
+ "uniformly_rotate": true
 }

@@ -1,0 +1,21 @@
+https://www.youtube.com/watch?v=OF4WK2ICVN0
+25 Hz framerate, 500 frames/sec camera
+0.06-0.12: 7 / (25*6/500.0) = 23 Hz
+0.17-0.28: 21.5 / (25*11/500.0) = 39 Hz
+0.32-0.38: 12.5 / (25*6/500.0) = 40 Hz
+0.44-0.52: 12.5 / (25*8/500.0) = 31.3 Hz
+
+https://www.youtube.com/watch?v=sLJPLT9Dw04
+30 Hz framerate, 1000 frames/sec camera
+0.02-0.18: 5 / (30*16/1000.0) = 10.3 Hz
+
+Estimated mean: ~28 Hz
+Deviation: 10 Hz
+
+To convert to experimental blender units:
+Physics simulation is done at 240 frames per second
+Impulse operates at fps, so 24 frames per second
+So speeds need to be 10 times slower. 
+
+Rotation speed, Impulse units: 28*3.14*0.1 ~ 8.8
+Rotation deviation, Impulse units: 10*3.14*0.1 ~ 3.1

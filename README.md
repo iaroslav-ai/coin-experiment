@@ -19,7 +19,13 @@ What should be the size (height, or length) of coin edge so that the coin lands 
 
 ~~Let the coin diameter be of size 2.0. Then the coin edge height should be around 1.043.~~
 
-This depends on many parameters. If you apply different range of random
+This depends on many parameters, for instance on how you toss the coin. 
+Here are the results that you are expected to get if you follow 
+[instructions on how to flip a coin](https://www.wikihow.com/Flip-a-Coin):
+
+Coming soon!
+
+If you apply different range of random
 rotation and linear speeds to coin, then thickness varies also. See table 
 below - larger values of sigma in table correspond to larger speeds of coin.
 A copper - nickel alloy coin of diameter 2.0 cm was simulated. 
@@ -80,6 +86,12 @@ were chosen such that simulation matches the observation, see
 <p align="center">
   <img src="https://github.com/iaroslav-ai/coin-experiment/blob/master/media/simulation.gif?raw=true", height="250px"/>
 </p>
+
+In order to determine the angular velocity of coin flipped according to
+[instructions](https://www.wikihow.com/Flip-a-Coin), the following 
+was used: 
+[video](https://www.youtube.com/watch?v=sLJPLT9Dw04),
+[video](https://www.youtube.com/watch?v=OF4WK2ICVN0).
 
 ## Visualization of full experimental data
 

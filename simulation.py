@@ -15,6 +15,15 @@ bpy.ops.wm.save_userpref()
 print("Reading config.json file ...")
 config = json.load(open('config.json'))
 
+# set default values if not present in config
+for k in ['angular_velocity_std', 'linear_velocity_std', 'angular_velocity_mean', 'linear_velocity_mean']:
+    if not k in config:
+        config[k] = 0.0
+
+# set default values for uniform rotation setting
+if not 'uniformly_rotate' in config:
+    config['uniformly_rotate'] = True
+
 scn = bpy.context.scene
 
 # A rectangular grid of coins is created by
@@ -27,11 +36,14 @@ n = config['coin_grid_size'] # size of coin grid in every dimension
 grid_step = config['coin_grid_step'] # distance between every coin in a grid, cm
 angular_velocity_std = config['angular_velocity_std'] # cm/s, standard deviation of normal distribution of angular speeds
 linear_velocity_std = config['linear_velocity_std'] # cm/s, standard deviation of normal distribution of linear speeds
+angular_velocity_mean = config['angular_velocity_mean'] # cm/s, standard deviation of normal distribution of angular speeds
+linear_velocity_mean = config['linear_velocity_mean'] # cm/s, standard deviation of normal distribution of linear speeds
 coin_density = config['coin_density'] # grams / cm^3
 coin_friction = config['coin_friction'] # friction of coin
 coin_restitution = config['coin_restitution'] # bounciness/restitution of coin
 table_friction = config['table_friction'] # friction of coin
 table_restitution = config['table_restitution'] # bounciness/restitution of coin
+uniformly_rotate = config['uniformly_rotate'] # whether to rotate uniformly the coin or not
 # Some data sources
 # material densities: http://www.semicore.com/reference/density-reference
 # friction coefficients: https://en.wikipedia.org/wiki/Friction#Approximate_coefficients_of_friction
@@ -81,8 +93,17 @@ for i in range(n*n-1):
 coin_orig.select = False
 coins = []
 
-def normal_v_vector(sigma=1.0, sz=3):
-    return tuple(random.normalvariate(0.0, sigma) for _ in range(sz))
+def normal_v_vector(mean=0.0, sigma=1.0, sz=3):
+    # if mean is a number, convert it to vector
+    if not isinstance(mean, list):
+        mean = [mean, mean, mean]
+
+    # same for sigma
+    if not isinstance(sigma, list):
+        sigma = [sigma, sigma, sigma]
+
+    result = tuple(random.normalvariate(m, s) for m, s in zip(mean, sigma))
+    return result
 
 # code that does uniform rotation of the object
 def rotate_uniform(s):
@@ -112,15 +133,16 @@ for i in range(n):
         loc = obj.location
         obj.location = loc + mathutils.Vector((min_coord + i * grid_step, min_coord + j * grid_step, 0.0))
 
-        rotate_uniform(obj)
+        if uniformly_rotate:
+            rotate_uniform(obj)
 
         # add object to impulse
         bpy.context.scene.objects.active = obj
         bpy.ops.rigidbody.impulse_add_object()
         # All speeds are in cm/s; The values in Impulse plugin do not take into
         # account the scaling of blender units.
-        obj.impulse_props.v = normal_v_vector(linear_velocity_std)
-        obj.impulse_props.av = normal_v_vector(angular_velocity_std)
+        obj.impulse_props.v = normal_v_vector(linear_velocity_mean, linear_velocity_std)
+        obj.impulse_props.av = normal_v_vector(angular_velocity_mean, angular_velocity_std)
 
 # for some reason double call to the function is needed to make it work :/
 bpy.ops.rigidbody.impulse_execute()
