@@ -26,7 +26,7 @@ Here are the results that you are expected to get if you follow
 | Material of the coin  | Best thickness |
 | --------------------- | -------------- |
 | Plastic coin | 0.981 |
-| Plastic coin | 0.977 |
+| Copper - Nickel alloy | 0.977 |
 
 If you apply different range of random
 rotation and linear speeds to coin, then thickness varies also. See table 
