@@ -1,4 +1,4 @@
-# Three sided coin
+# Three sided coin, v0.2
 
 ## Inspired by:
 
@@ -17,15 +17,13 @@ What should be the size (height, or length) of coin edge so that the coin lands 
 
 **Answer**:
 
-~~Let the coin diameter be of size 2.0. Then the coin edge height should be around 1.043.~~
-
 This depends on many parameters, for instance on how you toss the coin. 
 Here are the results that you are expected to get if you follow 
 [instructions on how to flip a coin](https://www.wikihow.com/Flip-a-Coin):
 
-| Material of the coin  | Best thickness |
+| Simulated material  | Best thickness |
 | --------------------- | -------------- |
-| Plastic coin | 0.981 |
+| Plastic | 0.981 |
 | Copper - Nickel alloy | 0.977 |
 
 If you apply different range of random
@@ -103,9 +101,9 @@ tried. The thickness of coin was automatically optimized using
 [scikit-optimize](https://github.com/scikit-optimize/scikit-optimize) package.
 
 
-### Copper and plastic coins, flipping ~ according to instructions:
+### Copper and plastic coins, tossing approximately according to instructions:
 <p align="center">
-  <img src="https://github.com/iaroslav-ai/coin-experiment/blob/master/media/flip_a_coin.png?raw=true", height="450px"/>
+  <img src="https://github.com/iaroslav-ai/coin-experiment/blob/master/media/flip_a_coin.png?raw=true", height="225px"/>
 </p>
 
 ### Copper - nickel coin, uniform rotations
