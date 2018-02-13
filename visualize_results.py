@@ -80,11 +80,14 @@ def visualize_results(results, name, fit_res=None):
 
 def plot_multiple(params):
     import matplotlib.pyplot as plt
-    plt.figure(figsize=(16, 10))
+    rows = len(params) // 2
+    cols = 2
+
+    plt.figure(figsize=(cols*8, rows*5.0))
 
     idx = 1
     for p in params:
-        plt.subplot(2,2,idx)
+        plt.subplot(rows,cols,idx)
         idx += 1
         visualize_results(*p)
     plt.show()
@@ -92,6 +95,7 @@ def plot_multiple(params):
 
 #results_file = 'hardplastic_results.json'
 results_file = 'cupronickel_results.json'
+results_file = 'flip_a_coin.json'
 
 # load and process data here
 data_file = os.path.join('results', results_file)
@@ -106,6 +110,7 @@ for x, y in js[1:]:
 
 # remove coin thickness - it was optimized
 changing_params -= {'coin_thickness'}
+changing_params = {'config_file'}
 
 # sort the evaluations into different configurations
 setups = defaultdict(list)

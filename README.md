@@ -23,7 +23,10 @@ This depends on many parameters, for instance on how you toss the coin.
 Here are the results that you are expected to get if you follow 
 [instructions on how to flip a coin](https://www.wikihow.com/Flip-a-Coin):
 
-Coming soon!
+| Material of the coin  | Best thickness |
+| --------------------- | -------------- |
+| Plastic coin | 0.981 |
+| Plastic coin | 0.977 |
 
 If you apply different range of random
 rotation and linear speeds to coin, then thickness varies also. See table 
@@ -99,13 +102,19 @@ Here you can find graphs with thickness values that were
 tried. The thickness of coin was automatically optimized using
 [scikit-optimize](https://github.com/scikit-optimize/scikit-optimize) package.
 
-### Copper - nickel coin
+
+### Copper and plastic coins, flipping ~ according to instructions:
+<p align="center">
+  <img src="https://github.com/iaroslav-ai/coin-experiment/blob/master/media/flip_a_coin.png?raw=true", height="450px"/>
+</p>
+
+### Copper - nickel coin, uniform rotations
 
 <p align="center">
   <img src="https://github.com/iaroslav-ai/coin-experiment/blob/master/media/cupronickel.png?raw=true", height="450px"/>
 </p>
 
-### Plastic coin
+### Plastic coin, uniform rotations
 
 <p align="center">
   <img src="https://github.com/iaroslav-ai/coin-experiment/blob/master/media/hardplastic.png?raw=true", height="450px"/>
