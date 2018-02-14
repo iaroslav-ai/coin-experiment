@@ -30,7 +30,13 @@ Here is what happens in the same scenario to the optimal coin thickness
 when you vary the parameters of the coin:
 
 <p align="center">
-  <img src="https://github.com/iaroslav-ai/coin-experiment/blob/master/media/parameters.jpg?raw=true", height="250px"/>
+  <img src="https://github.com/iaroslav-ai/coin-experiment/blob/master/media/restitution.png?raw=true", height="250px"/>
+</p>
+<p align="center">
+  <img src="https://github.com/iaroslav-ai/coin-experiment/blob/master/media/friction.png?raw=true", height="250px"/>
+</p>
+<p align="center">
+  <img src="https://github.com/iaroslav-ai/coin-experiment/blob/master/media/density.png?raw=true", height="250px"/>
 </p>
 
 It seems that friction and restitution have noticeable effect
