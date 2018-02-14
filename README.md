@@ -26,6 +26,16 @@ Here are the results that you are expected to get if you follow
 | Plastic | 0.981 |
 | Copper - Nickel alloy | 0.977 |
 
+Here is what happens in the same scenario to the optimal coin thickness
+when you vary the parameters of the coin:
+
+<p align="center">
+  <img src="https://github.com/iaroslav-ai/coin-experiment/blob/master/media/parameters.jpg?raw=true", height="250px"/>
+</p>
+
+It seems that friction and restitution have noticeable effect
+on optimal thickness of the coin.
+
 If you apply different range of random
 rotation and linear speeds to coin, then thickness varies also. See table 
 below - larger values of sigma in table correspond to larger speeds of coin.
